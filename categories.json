@@ -1,0 +1,466 @@
+[
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "6720892de4059a1f8080da80",
+    "name": "mobile",
+    "icon": "icon-mobile",
+    "color": "#0f0a0b",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "6720898ae4059a1f8080da85",
+    "name": "health",
+    "icon": "icon-health",
+    "color": "#0f0a0b",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67208998e4059a1f8080da87",
+    "name": "computer",
+    "icon": "icon-compute",
+    "color": "#0f0a0b",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67208fd7aaf76106495ce1ed",
+    "name": "electronic",
+    "icon": "icon-electronic",
+    "color": "#0f0a0b",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "672094246311008cd90611f8",
+    "name": "camera",
+    "icon": "icon-camera",
+    "color": "#0f0a0b",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "672098a7b0663af1b3d44568",
+    "name": "kitchen",
+    "icon": "icon-kitchen",
+    "color": "#0f0a0b",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4a9afcddc3eecbee33",
+    "name": "Electronics",
+    "icon": "icon-electronics",
+    "color": "#3498db",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4a9afcddc3eecbee35",
+    "name": "Fashion",
+    "icon": "icon-fashion",
+    "color": "#f1c40f",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4a9afcddc3eecbee37",
+    "name": "Home Decor",
+    "icon": "icon-home-decor",
+    "color": "#2ecc71",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4a9afcddc3eecbee39",
+    "name": "Outdoor",
+    "icon": "icon-outdoor",
+    "color": "#1abc9c",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4a9afcddc3eecbee3b",
+    "name": "Sports",
+    "icon": "icon-sports",
+    "color": "#e74c3c",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4a9afcddc3eecbee3d",
+    "name": "Toys",
+    "icon": "icon-toys",
+    "color": "#9b59b6",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4a9afcddc3eecbee3f",
+    "name": "Beauty & Care",
+    "icon": "icon-beauty-care",
+    "color": "#e67e73",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4b9afcddc3eecbee41",
+    "name": "Gaming",
+    "icon": "icon-gaming",
+    "color": "#2c3e50",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4b9afcddc3eecbee43",
+    "name": "Baby Care",
+    "icon": "icon-baby-care",
+    "color": "#ffc107",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4b9afcddc3eecbee45",
+    "name": "Pet Supplies",
+    "icon": "icon-pet-supplies",
+    "color": "#8e44ad",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4b9afcddc3eecbee47",
+    "name": "Arts & Crafts",
+    "icon": "icon-arts-crafts",
+    "color": "#1abc9c",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4b9afcddc3eecbee49",
+    "name": "Musical Instruments",
+    "icon": "icon-musical-instruments",
+    "color": "#e67e73",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4b9afcddc3eecbee4b",
+    "name": "Home Office",
+    "icon": "icon-home-office",
+    "color": "#95a5a6",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4b9afcddc3eecbee4d",
+    "name": "Garden Center",
+    "icon": "icon-garden-center",
+    "color": "#27ae60",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4c9afcddc3eecbee4f",
+    "name": "Fitness Equipment",
+    "icon": "icon-fitness-equipment",
+    "color": "#2980b9",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4c9afcddc3eecbee51",
+    "name": "Travel Accessories",
+    "icon": "icon-travel-accessories",
+    "color": "#f39c12",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4c9afcddc3eecbee53",
+    "name": "Food and Beverage",
+    "icon": "icon-food-beverage",
+    "color": "#e74c3c",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4c9afcddc3eecbee55",
+    "name": "Automotive",
+    "icon": "icon-automotive",
+    "color": "#2c3e50",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4c9afcddc3eecbee57",
+    "name": "Business Services",
+    "icon": "icon-business-services",
+    "color": "#95a5a6",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4c9afcddc3eecbee59",
+    "name": "Child Education",
+    "icon": "icon-child-education",
+    "color": "#ffc107",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4d9afcddc3eecbee5b",
+    "name": "Digital Marketing",
+    "icon": "icon-digital-marketing",
+    "color": "#2980b9",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4d9afcddc3eecbee5d",
+    "name": "Entertainment",
+    "icon": "icon-entertainment",
+    "color": "#e74c3c",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4d9afcddc3eecbee5f",
+    "name": "Financial Services",
+    "icon": "icon-financial-services",
+    "color": "#1abc9c",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4d9afcddc3eecbee61",
+    "name": "Health and Wellness",
+    "icon": "icon-health-wellness",
+    "color": "#8e44ad",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4d9afcddc3eecbee63",
+    "name": "Home Appliances",
+    "icon": "icon-home-appliances",
+    "color": "#27ae60",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4d9afcddc3eecbee65",
+    "name": "Industrial Supplies",
+    "icon": "icon-industrial-supplies",
+    "color": "#3498db",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4d9afcddc3eecbee67",
+    "name": "Insurance Services",
+    "icon": "icon-insurance-services",
+    "color": "#f39c12",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4d9afcddc3eecbee69",
+    "name": "Jewelry",
+    "icon": "icon-jewelry",
+    "color": "#e67e73",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4e9afcddc3eecbee6b",
+    "name": "Kids Clothing",
+    "icon": "icon-kids-clothing",
+    "color": "#9b59b6",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4e9afcddc3eecbee6d",
+    "name": "Legal Services",
+    "icon": "icon-legal-services",
+    "color": "#2ecc71",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4e9afcddc3eecbee6f",
+    "name": "Medical Equipment",
+    "icon": "icon-medical-equipment",
+    "color": "#0f0a0b",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4e9afcddc3eecbee71",
+    "name": "Men's Grooming",
+    "icon": "icon-mens-grooming",
+    "color": "#f1c40f",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4e9afcddc3eecbee73",
+    "name": "Office Supplies",
+    "icon": "icon-office-supplies",
+    "color": "#8e44ad",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4e9afcddc3eecbee75",
+    "name": "Personal Care",
+    "icon": "icon-personal-care",
+    "color": "#95a5a6",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4e9afcddc3eecbee77",
+    "name": "Pet Food",
+    "icon": "icon-pet-food",
+    "color": "#27ae60",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4e9afcddc3eecbee79",
+    "name": "Real Estate",
+    "icon": "icon-real-estate",
+    "color": "#2980b9",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4f9afcddc3eecbee7b",
+    "name": "Software Solutions",
+    "icon": "icon-software-solutions",
+    "color": "#1abc9c",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4f9afcddc3eecbee7d",
+    "name": "Sports Equipment",
+    "icon": "icon-sports-equipment",
+    "color": "#e74c3c",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4f9afcddc3eecbee7f",
+    "name": "Travel Gear",
+    "icon": "icon-travel-gear",
+    "color": "#f39c12",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4f9afcddc3eecbee81",
+    "name": "Women's Accessories",
+    "icon": "icon-womens-accessories",
+    "color": "#e67e73",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4f9afcddc3eecbee83",
+    "name": "Yoga and Fitness",
+    "icon": "icon-yoga-fitness",
+    "color": "#9b59b6",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4f9afcddc3eecbee85",
+    "name": "Baby Toys",
+    "icon": "icon-baby-toys",
+    "color": "#ffc107",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b4f9afcddc3eecbee87",
+    "name": "Camping Gear",
+    "icon": "icon-camping-gear",
+    "color": "#2c3e50",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b509afcddc3eecbee89",
+    "name": "Computer Hardware",
+    "icon": "icon-computer-hardware",
+    "color": "#3498db",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b509afcddc3eecbee8b",
+    "name": "Dietary Supplements",
+    "icon": "icon-dietary-supplements",
+    "color": "#8e44ad",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b509afcddc3eecbee8d",
+    "name": "Eco-Friendly Products",
+    "icon": "icon-eco-friendly-products",
+    "color": "#27ae60",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67221b509afcddc3eecbee8f",
+    "name": "Furniture",
+    "icon": "icon-furniture",
+    "color": "#0f0a0b",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67222a824538d49d2bfddb7f",
+    "name": "wearables",
+    "icon": "icon-wearables",
+    "color": "#0f0a0b",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "67222b157949643071c3c0a9",
+    "name": "playStation",
+    "icon": "icon-playStation",
+    "color": "#0f0a0b",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "672238e918f7f35b8e16955b",
+    "name": "women",
+    "icon": "icon-women",
+    "color": "#0f0a0b",
+    "__v": 0
+  },
+  {
+    "image": "https://karnovela.github.io/fazee/1.jpeg",
+    "_id": "6722392b18f7f35b8e16955d",
+    "name": "men",
+    "icon": "icon-men",
+    "color": "#0f0a0b",
+    "__v": 0
+  },
+  {
+    "_id": "6722397f18f7f35b8e16955f",
+    "name": "kid",
+    "icon": "icon-kid",
+    "color": "#0f0a0b",
+    "__v": 0,
+    "image": "https://karnovela.github.io/fazee/3.jpeg"
+  }
+]
