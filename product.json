@@ -1,0 +1,18 @@
+{
+    "_id": "67222d8c7a4e546c283ff5d2",
+    "name": "Smartphone",
+    "description": "Latest smartphone model",
+    "richDescription": "Experience cutting-edge technology with our newest smartphone, featuring advanced camera capabilities, lightning-fast processor and sleek design.",
+    "image": "https://karnovela.github.io/fazee/11.jpeg",
+    "images": [],
+    "brand": "Apple",
+    "price": 799.99,
+    "category": "67208fd7aaf76106495ce1ed",
+    "countInStock": 200,
+    "rating": 4.8,
+    "isFeatured": true,
+    "numReviews": 500,
+    "dateCreated": "2024-10-30T12:58:52.803Z",
+    "__v": 0,
+    "id": "67222d8c7a4e546c283ff5d2"
+  }
