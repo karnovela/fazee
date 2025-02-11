@@ -1,0 +1,702 @@
+[
+    {
+        "id": 1,
+        "tamil": "வணக்கம்",
+        "roman": "Vanakkam",
+        "meaning": "Hello",
+        "mp3": "1"
+    },
+    {
+        "id": 2,
+        "tamil": "நன்றி",
+        "roman": "Nandri",
+        "meaning": "Thank you",
+        "mp3": "2"
+    },
+    {
+        "id": 3,
+        "tamil": "ஆமாம்",
+        "roman": "Aamām",
+        "meaning": "Yes",
+        "mp3": "3"
+    },
+    {
+        "id": 4,
+        "tamil": "இல்லை",
+        "roman": "Illai",
+        "meaning": "No",
+        "mp3": "4"
+    },
+    {
+        "id": 5,
+        "tamil": "தயவு",
+        "roman": "Thayavu",
+        "meaning": "Please",
+        "mp3": "5"
+    },
+    {
+        "id": 6,
+        "tamil": "எப்படி",
+        "roman": "Eppadi",
+        "meaning": "How",
+        "mp3": "6"
+    },
+    {
+        "id": 7,
+        "tamil": "என்ன",
+        "roman": "Enna",
+        "meaning": "What",
+        "mp3": "7"
+    },
+    {
+        "id": 8,
+        "tamil": "எங்கு",
+        "roman": "Engu",
+        "meaning": "Where",
+        "mp3": "8"
+    },
+    {
+        "id": 9,
+        "tamil": "எப்போது",
+        "roman": "Eppodhu",
+        "meaning": "When",
+        "mp3": "9"
+    },
+    {
+        "id": 10,
+        "tamil": "யார்",
+        "roman": "Yaar",
+        "meaning": "Who",
+        "mp3": "10"
+    },
+    {
+        "id": 11,
+        "tamil": "நான்",
+        "roman": "Naan",
+        "meaning": "I",
+        "mp3": "11"
+    },
+    {
+        "id": 12,
+        "tamil": "நீ",
+        "roman": "Nee",
+        "meaning": "You",
+        "mp3": "12"
+    },
+    {
+        "id": 13,
+        "tamil": "அவர்",
+        "roman": "Avar",
+        "meaning": "He",
+        "mp3": "13"
+    },
+    {
+        "id": 14,
+        "tamil": "அவள்",
+        "roman": "Aval",
+        "meaning": "She",
+        "mp3": "14"
+    },
+    {
+        "id": 15,
+        "tamil": "நாம்",
+        "roman": "Naam",
+        "meaning": "We",
+        "mp3": "15"
+    },
+    {
+        "id": 16,
+        "tamil": "அவர்கள்",
+        "roman": "Avargal",
+        "meaning": "They",
+        "mp3": "16"
+    },
+    {
+        "id": 17,
+        "tamil": "இது",
+        "roman": "Idhu",
+        "meaning": "This",
+        "mp3": "17"
+    },
+    {
+        "id": 18,
+        "tamil": "அது",
+        "roman": "Adhu",
+        "meaning": "That",
+        "mp3": "18"
+    },
+    {
+        "id": 19,
+        "tamil": "பெரிய",
+        "roman": "Periya",
+        "meaning": "Big",
+        "mp3": "19"
+    },
+    {
+        "id": 20,
+        "tamil": "சிறியது",
+        "roman": "Siriya",
+        "meaning": "Small",
+        "mp3": "20"
+    },
+    {
+        "id": 21,
+        "tamil": "நல்ல",
+        "roman": "Nalla",
+        "meaning": "Good",
+        "mp3": "21"
+    },
+    {
+        "id": 22,
+        "tamil": "கெட்ட",
+        "roman": "Ketta",
+        "meaning": "Bad",
+        "mp3": "22"
+    },
+    {
+        "id": 23,
+        "tamil": "அழகு",
+        "roman": "Azhagu",
+        "meaning": "Beautiful",
+        "mp3": "23"
+    },
+    {
+        "id": 24,
+        "tamil": "கஷ்டம்",
+        "roman": "Kashtam",
+        "meaning": "Difficult",
+        "mp3": "24"
+    },
+    {
+        "id": 25,
+        "tamil": "எளிது",
+        "roman": "Elidhu",
+        "meaning": "Easy",
+        "mp3": "25"
+    },
+    {
+        "id": 26,
+        "tamil": "உணவு",
+        "roman": "Unavu",
+        "meaning": "Food",
+        "mp3": "26"
+    },
+    {
+        "id": 27,
+        "tamil": "நீர்",
+        "roman": "Neer",
+        "meaning": "Water",
+        "mp3": "27"
+    },
+    {
+        "id": 28,
+        "tamil": "பால்",
+        "roman": "Paal",
+        "meaning": "Milk",
+        "mp3": "28"
+    },
+    {
+        "id": 29,
+        "tamil": "காய்",
+        "roman": "Kaai",
+        "meaning": "Vegetable",
+        "mp3": "29"
+    },
+    {
+        "id": 30,
+        "tamil": "பழம்",
+        "roman": "Pazham",
+        "meaning": "Fruit",
+        "mp3": "30"
+    },
+    {
+        "id": 31,
+        "tamil": "சோறு",
+        "roman": "Soru",
+        "meaning": "Rice",
+        "mp3": "31"
+    },
+    {
+        "id": 32,
+        "tamil": "சாப்பாடு",
+        "roman": "Saapadu",
+        "meaning": "Meal",
+        "mp3": "32"
+    },
+    {
+        "id": 33,
+        "tamil": "காபி",
+        "roman": "Kaapi",
+        "meaning": "Coffee",
+        "mp3": "33"
+    },
+    {
+        "id": 34,
+        "tamil": "தேநீர்",
+        "roman": "Theneer",
+        "meaning": "Tea",
+        "mp3": "34"
+    },
+    {
+        "id": 35,
+        "tamil": "சுகர்",
+        "roman": "Sukar",
+        "meaning": "Sugar",
+        "mp3": "35"
+    },
+    {
+        "id": 36,
+        "tamil": "உப்பு",
+        "roman": "Uppu",
+        "meaning": "Salt",
+        "mp3": "36"
+    },
+    {
+        "id": 37,
+        "tamil": "மிளகு",
+        "roman": "Milagu",
+        "meaning": "Pepper",
+        "mp3": "37"
+    },
+    {
+        "id": 38,
+        "tamil": "மசாலா",
+        "roman": "Masala",
+        "meaning": "Spice",
+        "mp3": "38"
+    },
+    {
+        "id": 39,
+        "tamil": "காய்கறி",
+        "roman": "Kaikari",
+        "meaning": "Greens",
+        "mp3": "39"
+    },
+    {
+        "id": 40,
+        "tamil": "சோளம்",
+        "roman": "Solam",
+        "meaning": "Corn",
+        "mp3": "40"
+    },
+    {
+        "id": 41,
+        "tamil": "காய்கள்",
+        "roman": "Kaigal",
+        "meaning": "Vegetables",
+        "mp3": "41"
+    },
+    {
+        "id": 42,
+        "tamil": "பால்",
+        "roman": "Paal",
+        "meaning": "Milk",
+        "mp3": "42"
+    },
+    {
+        "id": 43,
+        "tamil": "காய்கறி",
+        "roman": "Kaikari",
+        "meaning": "Vegetables",
+        "mp3": "43"
+    },
+    {
+        "id": 44,
+        "tamil": "காய்கள்",
+        "roman": "Kaigal",
+        "meaning": "Fruits",
+        "mp3": "44"
+    },
+    {
+        "id": 45,
+        "tamil": "குருவி",
+        "roman": "Kuruvī",
+        "meaning": "Sparrow",
+        "mp3": "45"
+    },
+    {
+        "id": 46,
+        "tamil": "பூ",
+        "roman": "Poo",
+        "meaning": "Flower",
+        "mp3": "46"
+    },
+    {
+        "id": 47,
+        "tamil": "மரம்",
+        "roman": "Maram",
+        "meaning": "Tree",
+        "mp3": "47"
+    },
+    {
+        "id": 48,
+        "tamil": "நிலா",
+        "roman": "Nila",
+        "meaning": "Moon",
+        "mp3": "48"
+    },
+    {
+        "id": 49,
+        "tamil": "சூரியன்",
+        "roman": "Sooriyan",
+        "meaning": "Sun",
+        "mp3": "49"
+    },
+    {
+        "id": 50,
+        "tamil": "வானம்",
+        "roman": "Vaanam",
+        "meaning": "Sky",
+        "mp3": "50"
+    },
+    {
+        "id": 51,
+        "tamil": "கடல்",
+        "roman": "Kadal",
+        "meaning": "Sea",
+        "mp3": "51"
+    },
+    {
+        "id": 52,
+        "tamil": "மலை",
+        "roman": "Malai",
+        "meaning": "Mountain",
+        "mp3": "52"
+    },
+    {
+        "id": 53,
+        "tamil": "நிலம்",
+        "roman": "Nilam",
+        "meaning": "Land",
+        "mp3": "53"
+    },
+    {
+        "id": 54,
+        "tamil": "வீடு",
+        "roman": "Veedu",
+        "meaning": "House",
+        "mp3": "54"
+    },
+    {
+        "id": 55,
+        "tamil": "பள்ளி",
+        "roman": "Palli",
+        "meaning": "School",
+        "mp3": "55"
+    },
+    {
+        "id": 56,
+        "tamil": "கடை",
+        "roman": "Kadai",
+        "meaning": "Shop",
+        "mp3": "56"
+    },
+    {
+        "id": 57,
+        "tamil": "தெரு",
+        "roman": "Theru",
+        "meaning": "Street",
+        "mp3": "57"
+    },
+    {
+        "id": 58,
+        "tamil": "நகரம்",
+        "roman": "Nagarām",
+        "meaning": "City",
+        "mp3": "58"
+    },
+    {
+        "id": 59,
+        "tamil": "கிராமம்",
+        "roman": "Kiraamam",
+        "meaning": "Village",
+        "mp3": "59"
+    },
+    {
+        "id": 60,
+        "tamil": "வேலை",
+        "roman": "Velaai",
+        "meaning": "Work",
+        "mp3": "60"
+    },
+    {
+        "id": 61,
+        "tamil": "நண்பர்",
+        "roman": "Nanbar",
+        "meaning": "Friend",
+        "mp3": "61"
+    },
+    {
+        "id": 62,
+        "tamil": "குடும்பம்",
+        "roman": "Kudumbam",
+        "meaning": "Family",
+        "mp3": "62"
+    },
+    {
+        "id": 63,
+        "tamil": "அப்பா",
+        "roman": "Appa",
+        "meaning": "Father",
+        "mp3": "63"
+    },
+    {
+        "id": 64,
+        "tamil": "அம்மா",
+        "roman": "Amma",
+        "meaning": "Mother",
+        "mp3": "64"
+    },
+    {
+        "id": 65,
+        "tamil": "சகோதரன்",
+        "roman": "Sakodharan",
+        "meaning": "Brother",
+        "mp3": "65"
+    },
+    {
+        "id": 66,
+        "tamil": "சகோதரி",
+        "roman": "Sakodhari",
+        "meaning": "Sister",
+        "mp3": "66"
+    },
+    {
+        "id": 67,
+        "tamil": "குழந்தை",
+        "roman": "Kuzhanthai",
+        "meaning": "Child",
+        "mp3": "67"
+    },
+    {
+        "id": 68,
+        "tamil": "பெரியவர்",
+        "roman": "Periyavar",
+        "meaning": "Elder",
+        "mp3": "68"
+    },
+    {
+        "id": 69,
+        "tamil": "சிறியவர்",
+        "roman": "Siriya var",
+        "meaning": "Younger",
+        "mp3": "69"
+    },
+    {
+        "id": 70,
+        "tamil": "காதல்",
+        "roman": "Kaadhal",
+        "meaning": "Love",
+        "mp3": "70"
+    },
+    {
+        "id": 71,
+        "tamil": "சந்தோஷம்",
+        "roman": "Santhosham",
+        "meaning": "Happiness",
+        "mp3": "71"
+    },
+    {
+        "id": 72,
+        "tamil": "கவலை",
+        "roman": "Kavalai",
+        "meaning": "Worry",
+        "mp3": "72"
+    },
+    {
+        "id": 73,
+        "tamil": "சிரிப்பு",
+        "roman": "Sirippu",
+        "meaning": "Laughter",
+        "mp3": "73"
+    },
+    {
+        "id": 74,
+        "tamil": "அழுதல்",
+        "roman": "Azhuthal",
+        "meaning": "Crying",
+        "mp3": "74"
+    },
+    {
+        "id": 75,
+        "tamil": "கண்ணீர்",
+        "roman": "Kanneer",
+        "meaning": "Tears",
+        "mp3": "75"
+    },
+    {
+        "id": 76,
+        "tamil": "சுகம்",
+        "roman": "Sugam",
+        "meaning": "Comfort",
+        "mp3": "76"
+    },
+    {
+        "id": 77,
+        "tamil": "துக்கம்",
+        "roman": "Thukkam",
+        "meaning": "Sadness",
+        "mp3": "77"
+    },
+    {
+        "id": 78,
+        "tamil": "உண்மை",
+        "roman": "Unmai",
+        "meaning": "Truth",
+        "mp3": "78"
+    },
+    {
+        "id": 79,
+        "tamil": "பொய்",
+        "roman": "Poi",
+        "meaning": "Lie",
+        "mp3": "79"
+    },
+    {
+        "id": 80,
+        "tamil": "அறிவு",
+        "roman": "Arivu",
+        "meaning": "Knowledge",
+        "mp3": "80"
+    },
+    {
+        "id": 81,
+        "tamil": "புத்தகம்",
+        "roman": "Puthagam",
+        "meaning": "Book",
+        "mp3": "81"
+    },
+    {
+        "id": 82,
+        "tamil": "காகிதம்",
+        "roman": "Kaagitham",
+        "meaning": "Paper",
+        "mp3": "82"
+    },
+    {
+        "id": 83,
+        "tamil": "பேனா",
+        "roman": "Pena",
+        "meaning": "Pen",
+        "mp3": "83"
+    },
+    {
+        "id": 84,
+        "tamil": "கணக்கு",
+        "roman": "Kanakku",
+        "meaning": "Calculation",
+        "mp3": "84"
+    },
+    {
+        "id": 85,
+        "tamil": "விளையாட்டு",
+        "roman": "Vilayāṭṭu",
+        "meaning": "Game",
+        "mp3": "85"
+    },
+    {
+        "id": 86,
+        "tamil": "இசை",
+        "roman": "Isai",
+        "meaning": "Music",
+        "mp3": "86"
+    },
+    {
+        "id": 87,
+        "tamil": "படம்",
+        "roman": "Padam",
+        "meaning": "Picture",
+        "mp3": "87"
+    },
+    {
+        "id": 88,
+        "tamil": "கதை",
+        "roman": "Kadhai",
+        "meaning": "Story",
+        "mp3": "88"
+    },
+    {
+        "id": 89,
+        "tamil": "சினிமா",
+        "roman": "Sinimā",
+        "meaning": "Cinema",
+        "mp3": "89"
+    },
+    {
+        "id": 90,
+        "tamil": "தொலைக்காட்சி",
+        "roman": "Tholaikāṭchi",
+        "meaning": "Television",
+        "mp3": "90"
+    },
+    {
+        "id": 91,
+        "tamil": "இணையம்",
+        "roman": "Iṉaiyam",
+        "meaning": "Internet",
+        "mp3": "91"
+    },
+    {
+        "id": 92,
+        "tamil": "தகவல்",
+        "roman": "Thakaval",
+        "meaning": "Information",
+        "mp3": "92"
+    },
+    {
+        "id": 93,
+        "tamil": "செய்தி",
+        "roman": "Seithi",
+        "meaning": "News",
+        "mp3": "93"
+    },
+    {
+        "id": 94,
+        "tamil": "சந்தை",
+        "roman": "Sandhai",
+        "meaning": "Market",
+        "mp3": "94"
+    },
+    {
+        "id": 95,
+        "tamil": "விலை",
+        "roman": "Vilai",
+        "meaning": "Price",
+        "mp3": "95"
+    },
+    {
+        "id": 96,
+        "tamil": "பணம்",
+        "roman": "Paṇam",
+        "meaning": "Money",
+        "mp3": "96"
+    },
+    {
+        "id": 97,
+        "tamil": "வேலை",
+        "roman": "Vēlai",
+        "meaning": "Job",
+        "mp3": "97"
+    },
+    {
+        "id": 98,
+        "tamil": "பயணம்",
+        "roman": "Payaṇam",
+        "meaning": "Travel",
+        "mp3": "98"
+    },
+    {
+        "id": 99,
+        "tamil": "சந்திப்பு",
+        "roman": "Santhippu",
+        "meaning": "Meeting",
+        "mp3": "99"
+    },
+    {
+        "id": 100,
+        "tamil": "விடுமுறை",
+        "roman": "Vidumurai",
+        "meaning": "Holiday",
+        "mp3": "100"
+    }
+]
