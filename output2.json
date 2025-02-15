@@ -1,0 +1,380 @@
+[
+    {
+        "id": 1,
+        "tamil": "அ",
+        "roman": "a",
+        "meaning": "a",
+        "mp3": null
+    },
+    {
+        "id": 2,
+        "tamil": "ஆ",
+        "roman": "ā",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 3,
+        "tamil": "இ",
+        "roman": "i",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 4,
+        "tamil": "ஈ",
+        "roman": "ī",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 5,
+        "tamil": "உ",
+        "roman": "u",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 6,
+        "tamil": "ஊ",
+        "roman": "ū",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 7,
+        "tamil": "எ",
+        "roman": "e",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 8,
+        "tamil": "ஏ",
+        "roman": "ē",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 9,
+        "tamil": "ஐ",
+        "roman": "ai",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 10,
+        "tamil": "ஒ",
+        "roman": "o",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 11,
+        "tamil": "ஓ",
+        "roman": "ō",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 12,
+        "tamil": "ஔ",
+        "roman": "au",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 13,
+        "tamil": "க",
+        "roman": "ka",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 14,
+        "tamil": "ங",
+        "roman": "nga",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 15,
+        "tamil": "ச",
+        "roman": "ca",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 16,
+        "tamil": "ஞ",
+        "roman": "ña",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 17,
+        "tamil": "ட",
+        "roman": "ṭa",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 18,
+        "tamil": "ண",
+        "roman": "ṇa",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 19,
+        "tamil": "த",
+        "roman": "ta",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 20,
+        "tamil": "ந",
+        "roman": "na",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 21,
+        "tamil": "ப",
+        "roman": "pa",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 22,
+        "tamil": "ம",
+        "roman": "ma",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 23,
+        "tamil": "ய",
+        "roman": "ya",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 24,
+        "tamil": "ர",
+        "roman": "ra",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 25,
+        "tamil": "ல",
+        "roman": "la",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 26,
+        "tamil": "வ",
+        "roman": "va",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 27,
+        "tamil": "ழ",
+        "roman": "ḻa",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 28,
+        "tamil": "ள",
+        "roman": "ḷa",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 29,
+        "tamil": "ற",
+        "roman": "ṟa",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 30,
+        "tamil": "ன",
+        "roman": "ṉa",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 31,
+        "tamil": "ஃ",
+        "roman": "āytam",
+        "meaning": "visarga",
+        "mp3": null
+    },
+    {
+        "id": 32,
+        "tamil": "ஂ",
+        "roman": "anusvara",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 33,
+        "tamil": "ஃற",
+        "roman": "jihvamuliya",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 34,
+        "tamil": "ஃல",
+        "roman": "upadhmaniya",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 35,
+        "tamil": "ஜ்",
+        "roman": "j",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 36,
+        "tamil": "ஶ்",
+        "roman": "sh",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 37,
+        "tamil": "ஷ்",
+        "roman": "ss",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 38,
+        "tamil": "ஸ்",
+        "roman": "s",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 39,
+        "tamil": "ஹ்",
+        "roman": "h",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 40,
+        "tamil": "க்ஷ்",
+        "roman": "ksh",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 41,
+        "tamil": "ஸ்ரீ",
+        "roman": "sri",
+        "meaning": null,
+        "mp3": null
+    },
+    {
+        "id": 42,
+        "tamil": "க + அ",
+        "roman": "க",
+        "meaning": "ka",
+        "mp3": null
+    },
+    {
+        "id": 43,
+        "tamil": "க + ஆ",
+        "roman": "கா",
+        "meaning": "kā",
+        "mp3": null
+    },
+    {
+        "id": 44,
+        "tamil": "க + இ",
+        "roman": "கி",
+        "meaning": "ki",
+        "mp3": null
+    },
+    {
+        "id": 45,
+        "tamil": "க + ஈ",
+        "roman": "கீ",
+        "meaning": "kī",
+        "mp3": null
+    },
+    {
+        "id": 46,
+        "tamil": "க + உ",
+        "roman": "கு",
+        "meaning": "ku",
+        "mp3": null
+    },
+    {
+        "id": 47,
+        "tamil": "க + ஊ",
+        "roman": "கூ",
+        "meaning": "kū",
+        "mp3": null
+    },
+    {
+        "id": 48,
+        "tamil": "க + எ",
+        "roman": "கே",
+        "meaning": "ke",
+        "mp3": null
+    },
+    {
+        "id": 49,
+        "tamil": "க + ஏ",
+        "roman": "கே",
+        "meaning": "kē",
+        "mp3": null
+    },
+    {
+        "id": 50,
+        "tamil": "க + ஐ",
+        "roman": "கை",
+        "meaning": "kai",
+        "mp3": null
+    },
+    {
+        "id": 51,
+        "tamil": "க + ஒ",
+        "roman": "கொ",
+        "meaning": "ko",
+        "mp3": null
+    },
+    {
+        "id": 52,
+        "tamil": "க + ஓ",
+        "roman": "கோ",
+        "meaning": "kō",
+        "mp3": null
+    },
+    {
+        "id": 53,
+        "tamil": "க + ஔ",
+        "roman": "கவ்",
+        "meaning": "kau",
+        "mp3": null
+    },
+    {
+        "id": 54,
+        "tamil": null,
+        "roman": null,
+        "meaning": null,
+        "mp3": null
+    }
+]
