@@ -1,0 +1,7002 @@
+[
+    {
+        "id": 1,
+        "tamil": "என",
+        "roman": "ena",
+        "meaning": "as",
+        "mp3": "200"
+    },
+    {
+        "id": 2,
+        "tamil": "நான்",
+        "roman": "nāṉ",
+        "meaning": "I",
+        "mp3": "201"
+    },
+    {
+        "id": 3,
+        "tamil": "அவரது",
+        "roman": "avarathu",
+        "meaning": "his",
+        "mp3": "202"
+    },
+    {
+        "id": 4,
+        "tamil": "என்று",
+        "roman": "enru",
+        "meaning": "that",
+        "mp3": "203"
+    },
+    {
+        "id": 5,
+        "tamil": "அவர்",
+        "roman": "avar",
+        "meaning": "he",
+        "mp3": "204"
+    },
+    {
+        "id": 6,
+        "tamil": "இருந்தது",
+        "roman": "irundhadhu",
+        "meaning": "was",
+        "mp3": "205"
+    },
+    {
+        "id": 7,
+        "tamil": "ஐந்து",
+        "roman": "aindhu",
+        "meaning": "for",
+        "mp3": "206"
+    },
+    {
+        "id": 8,
+        "tamil": "ம்",
+        "roman": "ṃ",
+        "meaning": "on",
+        "mp3": "207"
+    },
+    {
+        "id": 9,
+        "tamil": "உள்ளன",
+        "roman": "uḻḻaṉa",
+        "meaning": "are",
+        "mp3": "208"
+    },
+    {
+        "id": 10,
+        "tamil": "உடன்",
+        "roman": "uḍhaṉ",
+        "meaning": "with",
+        "mp3": "209"
+    },
+    {
+        "id": 11,
+        "tamil": "அவை",
+        "roman": "avai",
+        "meaning": "they",
+        "mp3": "210"
+    },
+    {
+        "id": 12,
+        "tamil": "இருக்கும்",
+        "roman": "irughghuṃ",
+        "meaning": "be",
+        "mp3": "211"
+    },
+    {
+        "id": 13,
+        "tamil": "மணிக்கு",
+        "roman": "maṇighghu",
+        "meaning": "at",
+        "mp3": "212"
+    },
+    {
+        "id": 14,
+        "tamil": "ஒரு",
+        "roman": "òru",
+        "meaning": "one",
+        "mp3": "213"
+    },
+    {
+        "id": 15,
+        "tamil": "வேண்டும்",
+        "roman": "veṇḍhuṃ",
+        "meaning": "have",
+        "mp3": "214"
+    },
+    {
+        "id": 16,
+        "tamil": "இந்த",
+        "roman": "indha",
+        "meaning": "this",
+        "mp3": "215"
+    },
+    {
+        "id": 17,
+        "tamil": "இருந்து",
+        "roman": "irundhu",
+        "meaning": "from",
+        "mp3": "216"
+    },
+    {
+        "id": 18,
+        "tamil": "மூலம்",
+        "roman": "mūlaṃ",
+        "meaning": "by",
+        "mp3": "217"
+    },
+    {
+        "id": 19,
+        "tamil": "சூடான",
+        "roman": "jhūḍhāṉa",
+        "meaning": "hot",
+        "mp3": "218"
+    },
+    {
+        "id": 20,
+        "tamil": "விக்சனரி",
+        "roman": "vighjhaṉari",
+        "meaning": "word",
+        "mp3": "219"
+    },
+    {
+        "id": 21,
+        "tamil": "ஆனால்",
+        "roman": "āṉāl",
+        "meaning": "but",
+        "mp3": "220"
+    },
+    {
+        "id": 22,
+        "tamil": "என்ன",
+        "roman": "èṉṉa",
+        "meaning": "what",
+        "mp3": "221"
+    },
+    {
+        "id": 23,
+        "tamil": "சில",
+        "roman": "jhila",
+        "meaning": "some",
+        "mp3": "222"
+    },
+    {
+        "id": 24,
+        "tamil": "ஆகிறது",
+        "roman": "āghiṟadhu",
+        "meaning": "is",
+        "mp3": "223"
+    },
+    {
+        "id": 25,
+        "tamil": "அது",
+        "roman": "adhu",
+        "meaning": "it",
+        "mp3": "224"
+    },
+    {
+        "id": 26,
+        "tamil": "நீங்கள்",
+        "roman": "nīṅghaḻ",
+        "meaning": "you",
+        "mp3": "225"
+    },
+    {
+        "id": 27,
+        "tamil": "அல்லது",
+        "roman": "alladhu",
+        "meaning": "or",
+        "mp3": "226"
+    },
+    {
+        "id": 28,
+        "tamil": "இருந்தது",
+        "roman": "irundhadhu",
+        "meaning": "had",
+        "mp3": "227"
+    },
+    {
+        "id": 29,
+        "tamil": "தி",
+        "roman": "dhi",
+        "meaning": "the",
+        "mp3": "228"
+    },
+    {
+        "id": 30,
+        "tamil": "உள்ள",
+        "roman": "uḻḻa",
+        "meaning": "of",
+        "mp3": "229"
+    },
+    {
+        "id": 31,
+        "tamil": "செய்ய",
+        "roman": "jhèyya",
+        "meaning": "to",
+        "mp3": "230"
+    },
+    {
+        "id": 32,
+        "tamil": "மற்றும்",
+        "roman": "maṟṟuṃ",
+        "meaning": "and",
+        "mp3": "231"
+    },
+    {
+        "id": 33,
+        "tamil": "ஒரு",
+        "roman": "òru",
+        "meaning": "a",
+        "mp3": "232"
+    },
+    {
+        "id": 34,
+        "tamil": "உள்ள",
+        "roman": "uḻḻa",
+        "meaning": "in",
+        "mp3": "233"
+    },
+    {
+        "id": 35,
+        "tamil": "நாம்",
+        "roman": "nāṃ",
+        "meaning": "we",
+        "mp3": "234"
+    },
+    {
+        "id": 36,
+        "tamil": "முடியாது",
+        "roman": "muḍhiyādhu",
+        "meaning": "can",
+        "mp3": "235"
+    },
+    {
+        "id": 37,
+        "tamil": "வெளியே",
+        "roman": "vèḻiye",
+        "meaning": "out",
+        "mp3": "236"
+    },
+    {
+        "id": 38,
+        "tamil": "மற்ற",
+        "roman": "maṟṟa",
+        "meaning": "other",
+        "mp3": "237"
+    },
+    {
+        "id": 39,
+        "tamil": "இருந்தன",
+        "roman": "irundhaṉa",
+        "meaning": "were",
+        "mp3": "238"
+    },
+    {
+        "id": 40,
+        "tamil": "இது",
+        "roman": "idhu",
+        "meaning": "which",
+        "mp3": "239"
+    },
+    {
+        "id": 41,
+        "tamil": "செய்",
+        "roman": "jhèy",
+        "meaning": "do",
+        "mp3": "240"
+    },
+    {
+        "id": 42,
+        "tamil": "தங்கள்",
+        "roman": "dhaṅghaḻ",
+        "meaning": "their",
+        "mp3": "241"
+    },
+    {
+        "id": 43,
+        "tamil": "நேரம்",
+        "roman": "neraṃ",
+        "meaning": "time",
+        "mp3": "242"
+    },
+    {
+        "id": 44,
+        "tamil": "என்றால்",
+        "roman": "èṉṟāl",
+        "meaning": "if",
+        "mp3": "243"
+    },
+    {
+        "id": 45,
+        "tamil": "சாப்பிடுவேன்",
+        "roman": "jhābhbhiḍhuveṉ",
+        "meaning": "will",
+        "mp3": "244"
+    },
+    {
+        "id": 46,
+        "tamil": "எப்படி",
+        "roman": "èbhbhaḍhi",
+        "meaning": "how",
+        "mp3": "245"
+    },
+    {
+        "id": 47,
+        "tamil": "என்றார்",
+        "roman": "èṉṟār",
+        "meaning": "said",
+        "mp3": "246"
+    },
+    {
+        "id": 48,
+        "tamil": "ஒரு",
+        "roman": "òru",
+        "meaning": "an",
+        "mp3": "247"
+    },
+    {
+        "id": 49,
+        "tamil": "ஒவ்வொரு",
+        "roman": "òvvòru",
+        "meaning": "each",
+        "mp3": "248"
+    },
+    {
+        "id": 50,
+        "tamil": "சொல்ல",
+        "roman": "jhòlla",
+        "meaning": "tell",
+        "mp3": "249"
+    },
+    {
+        "id": 51,
+        "tamil": "இல்லை",
+        "roman": "illai",
+        "meaning": "does",
+        "mp3": "250"
+    },
+    {
+        "id": 52,
+        "tamil": "தொகுப்பு",
+        "roman": "dhòghubhbhu",
+        "meaning": "set",
+        "mp3": "251"
+    },
+    {
+        "id": 53,
+        "tamil": "மூன்று",
+        "roman": "mūṉṟu",
+        "meaning": "three",
+        "mp3": "252"
+    },
+    {
+        "id": 54,
+        "tamil": "வேண்டும்",
+        "roman": "veṇḍhuṃ",
+        "meaning": "want",
+        "mp3": "253"
+    },
+    {
+        "id": 55,
+        "tamil": "காற்று",
+        "roman": "ghāṟṟu",
+        "meaning": "air",
+        "mp3": "254"
+    },
+    {
+        "id": 56,
+        "tamil": "அதே",
+        "roman": "adhe",
+        "meaning": "well",
+        "mp3": "255"
+    },
+    {
+        "id": 57,
+        "tamil": "மேலும்,",
+        "roman": "meluṃ,",
+        "meaning": "also",
+        "mp3": "256"
+    },
+    {
+        "id": 58,
+        "tamil": "விளையாட",
+        "roman": "viḻaiyāḍha",
+        "meaning": "play",
+        "mp3": "257"
+    },
+    {
+        "id": 59,
+        "tamil": "சிறு",
+        "roman": "jhiṟu",
+        "meaning": "small",
+        "mp3": "258"
+    },
+    {
+        "id": 60,
+        "tamil": "இறுதியில்",
+        "roman": "iṟudhiyil",
+        "meaning": "end",
+        "mp3": "259"
+    },
+    {
+        "id": 61,
+        "tamil": "வைத்து",
+        "roman": "vaidhdhu",
+        "meaning": "put",
+        "mp3": "260"
+    },
+    {
+        "id": 62,
+        "tamil": "வீட்டில்",
+        "roman": "vīḍhḍhil",
+        "meaning": "home",
+        "mp3": "261"
+    },
+    {
+        "id": 63,
+        "tamil": "படிக்க",
+        "roman": "bhaḍhighgha",
+        "meaning": "read",
+        "mp3": "262"
+    },
+    {
+        "id": 64,
+        "tamil": "கையில்",
+        "roman": "ghaiyil",
+        "meaning": "hand",
+        "mp3": "263"
+    },
+    {
+        "id": 65,
+        "tamil": "துறைமுக",
+        "roman": "dhuṟaimugha",
+        "meaning": "port",
+        "mp3": "264"
+    },
+    {
+        "id": 66,
+        "tamil": "பெரிய",
+        "roman": "bhèriya",
+        "meaning": "large",
+        "mp3": "265"
+    },
+    {
+        "id": 67,
+        "tamil": "எழுத்துப்பிழை",
+        "roman": "èl̤udhdhubhbhil̤ai",
+        "meaning": "spell",
+        "mp3": "266"
+    },
+    {
+        "id": 68,
+        "tamil": "சேர்க்க",
+        "roman": "jherghgha",
+        "meaning": "add",
+        "mp3": "267"
+    },
+    {
+        "id": 69,
+        "tamil": "கூட",
+        "roman": "ghūḍha",
+        "meaning": "even",
+        "mp3": "268"
+    },
+    {
+        "id": 70,
+        "tamil": "நில",
+        "roman": "nila",
+        "meaning": "land",
+        "mp3": "269"
+    },
+    {
+        "id": 71,
+        "tamil": "இங்கே",
+        "roman": "iṅghe",
+        "meaning": "here",
+        "mp3": "270"
+    },
+    {
+        "id": 72,
+        "tamil": "வேண்டும்",
+        "roman": "veṇḍhuṃ",
+        "meaning": "must",
+        "mp3": "271"
+    },
+    {
+        "id": 73,
+        "tamil": "பெரிய",
+        "roman": "bhèriya",
+        "meaning": "big",
+        "mp3": "272"
+    },
+    {
+        "id": 74,
+        "tamil": "உயர்",
+        "roman": "uyar",
+        "meaning": "high",
+        "mp3": "273"
+    },
+    {
+        "id": 75,
+        "tamil": "போன்ற",
+        "roman": "bhoṉṟa",
+        "meaning": "such",
+        "mp3": "274"
+    },
+    {
+        "id": 76,
+        "tamil": "பின்பற்றவும்",
+        "roman": "bhiṉbhaṟṟavuṃ",
+        "meaning": "follow",
+        "mp3": "275"
+    },
+    {
+        "id": 77,
+        "tamil": "செயல்",
+        "roman": "jhèyal",
+        "meaning": "act",
+        "mp3": "276"
+    },
+    {
+        "id": 78,
+        "tamil": "ஏன்",
+        "roman": "eṉ",
+        "meaning": "why",
+        "mp3": "277"
+    },
+    {
+        "id": 79,
+        "tamil": "கேட்க",
+        "roman": "gheḍhgha",
+        "meaning": "ask",
+        "mp3": "278"
+    },
+    {
+        "id": 80,
+        "tamil": "ஆண்கள்",
+        "roman": "āṇghaḻ",
+        "meaning": "men",
+        "mp3": "279"
+    },
+    {
+        "id": 81,
+        "tamil": "மாற்றம்",
+        "roman": "māṟṟaṃ",
+        "meaning": "change",
+        "mp3": "280"
+    },
+    {
+        "id": 82,
+        "tamil": "சென்றார்",
+        "roman": "jhèṉṟār",
+        "meaning": "went",
+        "mp3": "281"
+    },
+    {
+        "id": 83,
+        "tamil": "ஒளி",
+        "roman": "òḻi",
+        "meaning": "light",
+        "mp3": "282"
+    },
+    {
+        "id": 84,
+        "tamil": "வகையான",
+        "roman": "vaghaiyāṉa",
+        "meaning": "kind",
+        "mp3": "283"
+    },
+    {
+        "id": 85,
+        "tamil": "ஆஃப்",
+        "roman": "āf",
+        "meaning": "off",
+        "mp3": "284"
+    },
+    {
+        "id": 86,
+        "tamil": "வேண்டும்",
+        "roman": "veṇḍhuṃ",
+        "meaning": "need",
+        "mp3": "285"
+    },
+    {
+        "id": 87,
+        "tamil": "வீட்டில்",
+        "roman": "vīḍhḍhil",
+        "meaning": "house",
+        "mp3": "286"
+    },
+    {
+        "id": 88,
+        "tamil": "படம்",
+        "roman": "bhaḍhaṃ",
+        "meaning": "picture",
+        "mp3": "287"
+    },
+    {
+        "id": 89,
+        "tamil": "முயற்சி",
+        "roman": "muyaṟjhi",
+        "meaning": "try",
+        "mp3": "288"
+    },
+    {
+        "id": 90,
+        "tamil": "அமெரிக்க",
+        "roman": "amèrighgha",
+        "meaning": "us",
+        "mp3": "289"
+    },
+    {
+        "id": 91,
+        "tamil": "மீண்டும்",
+        "roman": "mīṇḍhuṃ",
+        "meaning": "again",
+        "mp3": "290"
+    },
+    {
+        "id": 92,
+        "tamil": "விலங்கு",
+        "roman": "vilaṅghu",
+        "meaning": "animal",
+        "mp3": "291"
+    },
+    {
+        "id": 93,
+        "tamil": "புள்ளி",
+        "roman": "bhuḻḻi",
+        "meaning": "point",
+        "mp3": "292"
+    },
+    {
+        "id": 94,
+        "tamil": "அம்மா",
+        "roman": "aṃmā",
+        "meaning": "mother",
+        "mp3": "293"
+    },
+    {
+        "id": 95,
+        "tamil": "உலக",
+        "roman": "ulagha",
+        "meaning": "world",
+        "mp3": "294"
+    },
+    {
+        "id": 96,
+        "tamil": "அருகில்",
+        "roman": "arughil",
+        "meaning": "near",
+        "mp3": "295"
+    },
+    {
+        "id": 97,
+        "tamil": "கட்ட",
+        "roman": "ghaḍhḍha",
+        "meaning": "build",
+        "mp3": "296"
+    },
+    {
+        "id": 98,
+        "tamil": "சுய",
+        "roman": "jhuya",
+        "meaning": "self",
+        "mp3": "297"
+    },
+    {
+        "id": 99,
+        "tamil": "பூமியில்",
+        "roman": "bhūmiyil",
+        "meaning": "earth",
+        "mp3": "298"
+    },
+    {
+        "id": 100,
+        "tamil": "தந்தை",
+        "roman": "dhandhai",
+        "meaning": "father",
+        "mp3": "299"
+    },
+    {
+        "id": 101,
+        "tamil": "எந்த",
+        "roman": "èndha",
+        "meaning": "any",
+        "mp3": "300"
+    },
+    {
+        "id": 102,
+        "tamil": "புதிய",
+        "roman": "bhudhiya",
+        "meaning": "new",
+        "mp3": "301"
+    },
+    {
+        "id": 103,
+        "tamil": "பணி",
+        "roman": "bhaṇi",
+        "meaning": "work",
+        "mp3": "302"
+    },
+    {
+        "id": 104,
+        "tamil": "பகுதி",
+        "roman": "bhaghudhi",
+        "meaning": "part",
+        "mp3": "303"
+    },
+    {
+        "id": 105,
+        "tamil": "எடுத்து",
+        "roman": "èḍhudhdhu",
+        "meaning": "take",
+        "mp3": "304"
+    },
+    {
+        "id": 106,
+        "tamil": "கிடைக்கும்",
+        "roman": "ghiḍhaighghuṃ",
+        "meaning": "get",
+        "mp3": "305"
+    },
+    {
+        "id": 107,
+        "tamil": "இடத்தில்",
+        "roman": "iḍhadhdhil",
+        "meaning": "place",
+        "mp3": "306"
+    },
+    {
+        "id": 108,
+        "tamil": "செய்து",
+        "roman": "jhèydhu",
+        "meaning": "made",
+        "mp3": "307"
+    },
+    {
+        "id": 109,
+        "tamil": "வாழ",
+        "roman": "vāl̤a",
+        "meaning": "live",
+        "mp3": "308"
+    },
+    {
+        "id": 110,
+        "tamil": "எங்கே",
+        "roman": "èṅghe",
+        "meaning": "where",
+        "mp3": "309"
+    },
+    {
+        "id": 111,
+        "tamil": "பின்னர்",
+        "roman": "bhiṉṉar",
+        "meaning": "after",
+        "mp3": "310"
+    },
+    {
+        "id": 112,
+        "tamil": "மீண்டும்",
+        "roman": "mīṇḍhuṃ",
+        "meaning": "back",
+        "mp3": "311"
+    },
+    {
+        "id": 113,
+        "tamil": "சிறிய",
+        "roman": "jhiṟiya",
+        "meaning": "little",
+        "mp3": "312"
+    },
+    {
+        "id": 114,
+        "tamil": "மட்டும்",
+        "roman": "maḍhḍhuṃ",
+        "meaning": "only",
+        "mp3": "313"
+    },
+    {
+        "id": 115,
+        "tamil": "சுற்று",
+        "roman": "jhuṟṟu",
+        "meaning": "round",
+        "mp3": "314"
+    },
+    {
+        "id": 116,
+        "tamil": "மனிதன்",
+        "roman": "maṉidhaṉ",
+        "meaning": "man",
+        "mp3": "315"
+    },
+    {
+        "id": 117,
+        "tamil": "ஆண்டு",
+        "roman": "āṇḍhu",
+        "meaning": "year",
+        "mp3": "316"
+    },
+    {
+        "id": 118,
+        "tamil": "வந்தது",
+        "roman": "vandhadhu",
+        "meaning": "came",
+        "mp3": "317"
+    },
+    {
+        "id": 119,
+        "tamil": "நிகழ்ச்சி",
+        "roman": "nighal̤jhjhi",
+        "meaning": "show",
+        "mp3": "318"
+    },
+    {
+        "id": 120,
+        "tamil": "ஒவ்வொரு",
+        "roman": "òvvòru",
+        "meaning": "every",
+        "mp3": "319"
+    },
+    {
+        "id": 121,
+        "tamil": "நல்ல",
+        "roman": "nalla",
+        "meaning": "good",
+        "mp3": "320"
+    },
+    {
+        "id": 122,
+        "tamil": "எனக்கு",
+        "roman": "èṉaghghu",
+        "meaning": "me",
+        "mp3": "321"
+    },
+    {
+        "id": 123,
+        "tamil": "கொடுக்க",
+        "roman": "ghòḍhughgha",
+        "meaning": "give",
+        "mp3": "322"
+    },
+    {
+        "id": 124,
+        "tamil": "எங்கள்",
+        "roman": "èṅghaḻ",
+        "meaning": "our",
+        "mp3": "323"
+    },
+    {
+        "id": 125,
+        "tamil": "கீழ்",
+        "roman": "ghīl̤",
+        "meaning": "under",
+        "mp3": "324"
+    },
+    {
+        "id": 126,
+        "tamil": "பெயர்",
+        "roman": "bhèyar",
+        "meaning": "name",
+        "mp3": "325"
+    },
+    {
+        "id": 127,
+        "tamil": "மிகவும்",
+        "roman": "mighavuṃ",
+        "meaning": "very",
+        "mp3": "326"
+    },
+    {
+        "id": 128,
+        "tamil": "மூலம்",
+        "roman": "mūlaṃ",
+        "meaning": "through",
+        "mp3": "327"
+    },
+    {
+        "id": 129,
+        "tamil": "வெறும்",
+        "roman": "vèṟuṃ",
+        "meaning": "just",
+        "mp3": "328"
+    },
+    {
+        "id": 130,
+        "tamil": "வடிவம்",
+        "roman": "vaḍhivaṃ",
+        "meaning": "form",
+        "mp3": "329"
+    },
+    {
+        "id": 131,
+        "tamil": "தண்டனை",
+        "roman": "dhaṇḍhaṉai",
+        "meaning": "sentence",
+        "mp3": "330"
+    },
+    {
+        "id": 132,
+        "tamil": "பெரும்",
+        "roman": "bhèruṃ",
+        "meaning": "great",
+        "mp3": "331"
+    },
+    {
+        "id": 133,
+        "tamil": "என்று",
+        "roman": "èṉṟu",
+        "meaning": "think",
+        "mp3": "332"
+    },
+    {
+        "id": 134,
+        "tamil": "சொல்ல",
+        "roman": "jhòlla",
+        "meaning": "say",
+        "mp3": "333"
+    },
+    {
+        "id": 135,
+        "tamil": "உதவும்",
+        "roman": "udhavuṃ",
+        "meaning": "help",
+        "mp3": "334"
+    },
+    {
+        "id": 136,
+        "tamil": "குறைந்த",
+        "roman": "ghuṟaindha",
+        "meaning": "low",
+        "mp3": "335"
+    },
+    {
+        "id": 137,
+        "tamil": "வரி",
+        "roman": "vari",
+        "meaning": "line",
+        "mp3": "336"
+    },
+    {
+        "id": 138,
+        "tamil": "வேறுபடுகின்றன",
+        "roman": "veṟubhaḍhughiṉṟaṉa",
+        "meaning": "differ",
+        "mp3": "337"
+    },
+    {
+        "id": 139,
+        "tamil": "இதையொட்டி",
+        "roman": "idhaiyòḍhḍhi",
+        "meaning": "turn",
+        "mp3": "338"
+    },
+    {
+        "id": 140,
+        "tamil": "காரணம்",
+        "roman": "ghāraṇaṃ",
+        "meaning": "cause",
+        "mp3": "339"
+    },
+    {
+        "id": 141,
+        "tamil": "மிகவும்",
+        "roman": "mighavuṃ",
+        "meaning": "much",
+        "mp3": "340"
+    },
+    {
+        "id": 142,
+        "tamil": "அர்த்தம்",
+        "roman": "ardhdhaṃ",
+        "meaning": "mean",
+        "mp3": "341"
+    },
+    {
+        "id": 143,
+        "tamil": "முன்னால்",
+        "roman": "muṉṉāl",
+        "meaning": "before",
+        "mp3": "342"
+    },
+    {
+        "id": 144,
+        "tamil": "நடவடிக்கை",
+        "roman": "naḍhavaḍhighghai",
+        "meaning": "move",
+        "mp3": "343"
+    },
+    {
+        "id": 145,
+        "tamil": "வலது",
+        "roman": "valadhu",
+        "meaning": "right",
+        "mp3": "344"
+    },
+    {
+        "id": 146,
+        "tamil": "சிறுவன்",
+        "roman": "jhiṟuvaṉ",
+        "meaning": "boy",
+        "mp3": "345"
+    },
+    {
+        "id": 147,
+        "tamil": "பழைய",
+        "roman": "bhal̤aiya",
+        "meaning": "old",
+        "mp3": "346"
+    },
+    {
+        "id": 148,
+        "tamil": "மிகவும்",
+        "roman": "mighavuṃ",
+        "meaning": "too",
+        "mp3": "347"
+    },
+    {
+        "id": 149,
+        "tamil": "அதே",
+        "roman": "adhe",
+        "meaning": "same",
+        "mp3": "348"
+    },
+    {
+        "id": 150,
+        "tamil": "அவர்",
+        "roman": "avar",
+        "meaning": "she",
+        "mp3": "349"
+    },
+    {
+        "id": 151,
+        "tamil": "அனைத்து",
+        "roman": "aṉaidhdhu",
+        "meaning": "all",
+        "mp3": "350"
+    },
+    {
+        "id": 152,
+        "tamil": "அங்கு",
+        "roman": "aṅghu",
+        "meaning": "there",
+        "mp3": "351"
+    },
+    {
+        "id": 153,
+        "tamil": "எப்போது",
+        "roman": "èbhbhodhu",
+        "meaning": "when",
+        "mp3": "352"
+    },
+    {
+        "id": 154,
+        "tamil": "மேலே",
+        "roman": "mele",
+        "meaning": "up",
+        "mp3": "353"
+    },
+    {
+        "id": 155,
+        "tamil": "பயன்பாடு",
+        "roman": "bhayaṉbhāḍhu",
+        "meaning": "use",
+        "mp3": "354"
+    },
+    {
+        "id": 156,
+        "tamil": "உங்கள்",
+        "roman": "uṅghaḻ",
+        "meaning": "your",
+        "mp3": "355"
+    },
+    {
+        "id": 157,
+        "tamil": "வழி",
+        "roman": "val̤i",
+        "meaning": "way",
+        "mp3": "356"
+    },
+    {
+        "id": 158,
+        "tamil": "பற்றி",
+        "roman": "bhaṟṟi",
+        "meaning": "about",
+        "mp3": "357"
+    },
+    {
+        "id": 159,
+        "tamil": "பல",
+        "roman": "bhala",
+        "meaning": "many",
+        "mp3": "358"
+    },
+    {
+        "id": 160,
+        "tamil": "பின்னர்",
+        "roman": "bhiṉṉar",
+        "meaning": "then",
+        "mp3": "359"
+    },
+    {
+        "id": 161,
+        "tamil": "அவர்கள்",
+        "roman": "avarghaḻ",
+        "meaning": "them",
+        "mp3": "360"
+    },
+    {
+        "id": 162,
+        "tamil": "எழுத",
+        "roman": "èl̤udha",
+        "meaning": "write",
+        "mp3": "361"
+    },
+    {
+        "id": 163,
+        "tamil": "என்று",
+        "roman": "èṉṟu",
+        "meaning": "would",
+        "mp3": "362"
+    },
+    {
+        "id": 164,
+        "tamil": "போன்ற",
+        "roman": "bhoṉṟa",
+        "meaning": "like",
+        "mp3": "363"
+    },
+    {
+        "id": 165,
+        "tamil": "எனவே",
+        "roman": "èṉave",
+        "meaning": "so",
+        "mp3": "364"
+    },
+    {
+        "id": 166,
+        "tamil": "இவை",
+        "roman": "ivai",
+        "meaning": "these",
+        "mp3": "365"
+    },
+    {
+        "id": 167,
+        "tamil": "அவரது",
+        "roman": "avaradhu",
+        "meaning": "her",
+        "mp3": "366"
+    },
+    {
+        "id": 168,
+        "tamil": "நீண்ட",
+        "roman": "nīṇḍha",
+        "meaning": "long",
+        "mp3": "367"
+    },
+    {
+        "id": 169,
+        "tamil": "செய்ய",
+        "roman": "jhèyya",
+        "meaning": "make",
+        "mp3": "368"
+    },
+    {
+        "id": 170,
+        "tamil": "விஷயம்",
+        "roman": "viṣayaṃ",
+        "meaning": "thing",
+        "mp3": "369"
+    },
+    {
+        "id": 171,
+        "tamil": "பார்க்க",
+        "roman": "bhārghgha",
+        "meaning": "see",
+        "mp3": "370"
+    },
+    {
+        "id": 172,
+        "tamil": "அவரை",
+        "roman": "avarai",
+        "meaning": "him",
+        "mp3": "371"
+    },
+    {
+        "id": 173,
+        "tamil": "இரு",
+        "roman": "iru",
+        "meaning": "two",
+        "mp3": "372"
+    },
+    {
+        "id": 174,
+        "tamil": "உள்ளது",
+        "roman": "uḻḻadhu",
+        "meaning": "has",
+        "mp3": "373"
+    },
+    {
+        "id": 175,
+        "tamil": "பார்க்க",
+        "roman": "bhārghgha",
+        "meaning": "look",
+        "mp3": "374"
+    },
+    {
+        "id": 176,
+        "tamil": "மேலும்",
+        "roman": "meluṃ",
+        "meaning": "more",
+        "mp3": "375"
+    },
+    {
+        "id": 177,
+        "tamil": "நாள்",
+        "roman": "nāḻ",
+        "meaning": "day",
+        "mp3": "376"
+    },
+    {
+        "id": 178,
+        "tamil": "முடியும்",
+        "roman": "muḍhiyuṃ",
+        "meaning": "could",
+        "mp3": "377"
+    },
+    {
+        "id": 179,
+        "tamil": "போ",
+        "roman": "bho",
+        "meaning": "go",
+        "mp3": "378"
+    },
+    {
+        "id": 180,
+        "tamil": "வா",
+        "roman": "vā",
+        "meaning": "come",
+        "mp3": "379"
+    },
+    {
+        "id": 181,
+        "tamil": "செய்தது",
+        "roman": "jhèydhadhu",
+        "meaning": "did",
+        "mp3": "380"
+    },
+    {
+        "id": 182,
+        "tamil": "பல",
+        "roman": "bhala",
+        "meaning": "number",
+        "mp3": "381"
+    },
+    {
+        "id": 183,
+        "tamil": "ஒலி",
+        "roman": "òli",
+        "meaning": "sound",
+        "mp3": "382"
+    },
+    {
+        "id": 184,
+        "tamil": "எந்த",
+        "roman": "èndha",
+        "meaning": "no",
+        "mp3": "383"
+    },
+    {
+        "id": 185,
+        "tamil": "மிகவும்",
+        "roman": "mighavuṃ",
+        "meaning": "most",
+        "mp3": "384"
+    },
+    {
+        "id": 186,
+        "tamil": "மக்கள்",
+        "roman": "maghghaḻ",
+        "meaning": "people",
+        "mp3": "385"
+    },
+    {
+        "id": 187,
+        "tamil": "என்னுடைய",
+        "roman": "èṉṉuḍhaiya",
+        "meaning": "my",
+        "mp3": "386"
+    },
+    {
+        "id": 188,
+        "tamil": "மேல்",
+        "roman": "mel",
+        "meaning": "over",
+        "mp3": "387"
+    },
+    {
+        "id": 189,
+        "tamil": "எனக்கு தெரியும்",
+        "roman": "èṉaghghu dhèriyuṃ",
+        "meaning": "know",
+        "mp3": "388"
+    },
+    {
+        "id": 190,
+        "tamil": "தண்ணீர்",
+        "roman": "dhaṇṇīr",
+        "meaning": "water",
+        "mp3": "389"
+    },
+    {
+        "id": 191,
+        "tamil": "விட",
+        "roman": "viḍha",
+        "meaning": "than",
+        "mp3": "390"
+    },
+    {
+        "id": 192,
+        "tamil": "அழைப்பு",
+        "roman": "al̤aibhbhu",
+        "meaning": "call",
+        "mp3": "391"
+    },
+    {
+        "id": 193,
+        "tamil": "முதல்",
+        "roman": "mudhal",
+        "meaning": "first",
+        "mp3": "392"
+    },
+    {
+        "id": 194,
+        "tamil": "யார்",
+        "roman": "yār",
+        "meaning": "who",
+        "mp3": "393"
+    },
+    {
+        "id": 195,
+        "tamil": "மே",
+        "roman": "me",
+        "meaning": "may",
+        "mp3": "394"
+    },
+    {
+        "id": 196,
+        "tamil": "கீழே",
+        "roman": "ghīl̤e",
+        "meaning": "down",
+        "mp3": "395"
+    },
+    {
+        "id": 197,
+        "tamil": "பக்க",
+        "roman": "bhaghgha",
+        "meaning": "side",
+        "mp3": "396"
+    },
+    {
+        "id": 198,
+        "tamil": "வருகிறது",
+        "roman": "varughiṟadhu",
+        "meaning": "been",
+        "mp3": "397"
+    },
+    {
+        "id": 199,
+        "tamil": "இப்பொழுது",
+        "roman": "ibhbhòl̤udhu",
+        "meaning": "now",
+        "mp3": "398"
+    },
+    {
+        "id": 200,
+        "tamil": "கண்டுபிடிக்க",
+        "roman": "ghaṇḍhubhiḍhighgha",
+        "meaning": "find",
+        "mp3": "399"
+    },
+    {
+        "id": 201,
+        "tamil": "தலைவர்",
+        "roman": "dhalaivar",
+        "meaning": "head",
+        "mp3": "400"
+    },
+    {
+        "id": 202,
+        "tamil": "நிற்க",
+        "roman": "niṟgha",
+        "meaning": "stand",
+        "mp3": "401"
+    },
+    {
+        "id": 203,
+        "tamil": "சொந்த",
+        "roman": "jhòndha",
+        "meaning": "own",
+        "mp3": "402"
+    },
+    {
+        "id": 204,
+        "tamil": "பக்கம்",
+        "roman": "bhaghghaṃ",
+        "meaning": "page",
+        "mp3": "403"
+    },
+    {
+        "id": 205,
+        "tamil": "வேண்டும்",
+        "roman": "veṇḍhuṃ",
+        "meaning": "should",
+        "mp3": "404"
+    },
+    {
+        "id": 206,
+        "tamil": "நாட்டின்",
+        "roman": "nāḍhḍhiṉ",
+        "meaning": "country",
+        "mp3": "405"
+    },
+    {
+        "id": 207,
+        "tamil": "காணப்படும்",
+        "roman": "ghāṇabhbhaḍhuṃ",
+        "meaning": "found",
+        "mp3": "406"
+    },
+    {
+        "id": 208,
+        "tamil": "பதில்",
+        "roman": "bhadhil",
+        "meaning": "answer",
+        "mp3": "407"
+    },
+    {
+        "id": 209,
+        "tamil": "பள்ளி",
+        "roman": "bhaḻḻi",
+        "meaning": "school",
+        "mp3": "408"
+    },
+    {
+        "id": 210,
+        "tamil": "வளர",
+        "roman": "vaḻara",
+        "meaning": "grow",
+        "mp3": "409"
+    },
+    {
+        "id": 211,
+        "tamil": "ஆய்வு",
+        "roman": "āyvu",
+        "meaning": "study",
+        "mp3": "410"
+    },
+    {
+        "id": 212,
+        "tamil": "இன்னும்",
+        "roman": "iṉṉuṃ",
+        "meaning": "still",
+        "mp3": "411"
+    },
+    {
+        "id": 213,
+        "tamil": "அறிய",
+        "roman": "aṟiya",
+        "meaning": "learn",
+        "mp3": "412"
+    },
+    {
+        "id": 214,
+        "tamil": "ஆலை",
+        "roman": "ālai",
+        "meaning": "plant",
+        "mp3": "413"
+    },
+    {
+        "id": 215,
+        "tamil": "கவர்",
+        "roman": "ghavar",
+        "meaning": "cover",
+        "mp3": "414"
+    },
+    {
+        "id": 216,
+        "tamil": "உணவு",
+        "roman": "uṇavu",
+        "meaning": "food",
+        "mp3": "415"
+    },
+    {
+        "id": 217,
+        "tamil": "சூரிய",
+        "roman": "jhūriya",
+        "meaning": "sun",
+        "mp3": "416"
+    },
+    {
+        "id": 218,
+        "tamil": "நான்கு",
+        "roman": "nāṉghu",
+        "meaning": "four",
+        "mp3": "417"
+    },
+    {
+        "id": 219,
+        "tamil": "இடையே",
+        "roman": "iḍhaiye",
+        "meaning": "between",
+        "mp3": "418"
+    },
+    {
+        "id": 220,
+        "tamil": "மாநில",
+        "roman": "mānila",
+        "meaning": "state",
+        "mp3": "419"
+    },
+    {
+        "id": 221,
+        "tamil": "வைத்து",
+        "roman": "vaidhdhu",
+        "meaning": "keep",
+        "mp3": "420"
+    },
+    {
+        "id": 222,
+        "tamil": "கண்",
+        "roman": "ghaṇ",
+        "meaning": "eye",
+        "mp3": "421"
+    },
+    {
+        "id": 223,
+        "tamil": "ஒருபோதும்",
+        "roman": "òrubhodhuṃ",
+        "meaning": "never",
+        "mp3": "422"
+    },
+    {
+        "id": 224,
+        "tamil": "கடந்த",
+        "roman": "ghaḍhandha",
+        "meaning": "last",
+        "mp3": "423"
+    },
+    {
+        "id": 225,
+        "tamil": "நாம்",
+        "roman": "nāṃ",
+        "meaning": "let",
+        "mp3": "424"
+    },
+    {
+        "id": 226,
+        "tamil": "நினைத்தேன்",
+        "roman": "niṉaidhdheṉ",
+        "meaning": "thought",
+        "mp3": "425"
+    },
+    {
+        "id": 227,
+        "tamil": "நகரம்",
+        "roman": "nagharaṃ",
+        "meaning": "city",
+        "mp3": "426"
+    },
+    {
+        "id": 228,
+        "tamil": "மரத்தில்",
+        "roman": "maradhdhil",
+        "meaning": "tree",
+        "mp3": "427"
+    },
+    {
+        "id": 229,
+        "tamil": "கடந்து",
+        "roman": "ghaḍhandhu",
+        "meaning": "cross",
+        "mp3": "428"
+    },
+    {
+        "id": 230,
+        "tamil": "பண்ணை",
+        "roman": "bhaṇṇai",
+        "meaning": "farm",
+        "mp3": "429"
+    },
+    {
+        "id": 231,
+        "tamil": "கடின",
+        "roman": "ghaḍhiṉa",
+        "meaning": "hard",
+        "mp3": "430"
+    },
+    {
+        "id": 232,
+        "tamil": "தொடக்கத்தில்",
+        "roman": "dhòḍhaghghadhdhil",
+        "meaning": "start",
+        "mp3": "431"
+    },
+    {
+        "id": 233,
+        "tamil": "வலிமை",
+        "roman": "valimai",
+        "meaning": "might",
+        "mp3": "432"
+    },
+    {
+        "id": 234,
+        "tamil": "கதை",
+        "roman": "ghadhai",
+        "meaning": "story",
+        "mp3": "433"
+    },
+    {
+        "id": 235,
+        "tamil": "எண்ணினர்",
+        "roman": "èṇṇiṉar",
+        "meaning": "saw",
+        "mp3": "434"
+    },
+    {
+        "id": 236,
+        "tamil": "இதுவரை",
+        "roman": "idhuvarai",
+        "meaning": "far",
+        "mp3": "435"
+    },
+    {
+        "id": 237,
+        "tamil": "கடல்",
+        "roman": "ghaḍhal",
+        "meaning": "sea",
+        "mp3": "436"
+    },
+    {
+        "id": 238,
+        "tamil": "வரைய",
+        "roman": "varaiya",
+        "meaning": "draw",
+        "mp3": "437"
+    },
+    {
+        "id": 239,
+        "tamil": "விட்டு",
+        "roman": "viḍhḍhu",
+        "meaning": "left",
+        "mp3": "438"
+    },
+    {
+        "id": 240,
+        "tamil": "தாமதமாக",
+        "roman": "dhāmadhamāgha",
+        "meaning": "late",
+        "mp3": "439"
+    },
+    {
+        "id": 241,
+        "tamil": "ரன்",
+        "roman": "raṉ",
+        "meaning": "run",
+        "mp3": "440"
+    },
+    {
+        "id": 242,
+        "tamil": "இல்லை",
+        "roman": "illai",
+        "meaning": "don’t",
+        "mp3": "441"
+    },
+    {
+        "id": 243,
+        "tamil": "போது",
+        "roman": "bhodhu",
+        "meaning": "while",
+        "mp3": "442"
+    },
+    {
+        "id": 244,
+        "tamil": "செய்தி",
+        "roman": "jhèydhi",
+        "meaning": "press",
+        "mp3": "443"
+    },
+    {
+        "id": 245,
+        "tamil": "நெருங்கிய",
+        "roman": "nèruṅghiya",
+        "meaning": "close",
+        "mp3": "444"
+    },
+    {
+        "id": 246,
+        "tamil": "இரவு",
+        "roman": "iravu",
+        "meaning": "night",
+        "mp3": "445"
+    },
+    {
+        "id": 247,
+        "tamil": "உண்மையான",
+        "roman": "uṇmaiyāṉa",
+        "meaning": "real",
+        "mp3": "446"
+    },
+    {
+        "id": 248,
+        "tamil": "வாழ்க்கை",
+        "roman": "vāl̤ghghai",
+        "meaning": "life",
+        "mp3": "447"
+    },
+    {
+        "id": 249,
+        "tamil": "சில",
+        "roman": "jhila",
+        "meaning": "few",
+        "mp3": "448"
+    },
+    {
+        "id": 250,
+        "tamil": "வடக்கில்",
+        "roman": "vaḍhaghghil",
+        "meaning": "north",
+        "mp3": "449"
+    },
+    {
+        "id": 251,
+        "tamil": "புத்தகம்",
+        "roman": "bhudhdhaghaṃ",
+        "meaning": "book",
+        "mp3": "450"
+    },
+    {
+        "id": 252,
+        "tamil": "எடுத்து",
+        "roman": "èḍhudhdhu",
+        "meaning": "carry",
+        "mp3": "451"
+    },
+    {
+        "id": 253,
+        "tamil": "நடந்தது",
+        "roman": "naḍhandhadhu",
+        "meaning": "took",
+        "mp3": "452"
+    },
+    {
+        "id": 254,
+        "tamil": "அறிவியல்",
+        "roman": "aṟiviyal",
+        "meaning": "science",
+        "mp3": "453"
+    },
+    {
+        "id": 255,
+        "tamil": "சாப்பிட",
+        "roman": "jhābhbhiḍha",
+        "meaning": "eat",
+        "mp3": "454"
+    },
+    {
+        "id": 256,
+        "tamil": "அறையில்",
+        "roman": "aṟaiyil",
+        "meaning": "room",
+        "mp3": "455"
+    },
+    {
+        "id": 257,
+        "tamil": "நண்பர்",
+        "roman": "naṇbhar",
+        "meaning": "friend",
+        "mp3": "456"
+    },
+    {
+        "id": 258,
+        "tamil": "தொடங்கியது",
+        "roman": "dhòḍhaṅghiyadhu",
+        "meaning": "began",
+        "mp3": "457"
+    },
+    {
+        "id": 259,
+        "tamil": "யோசனை",
+        "roman": "yojhaṉai",
+        "meaning": "idea",
+        "mp3": "458"
+    },
+    {
+        "id": 260,
+        "tamil": "மீன்",
+        "roman": "mīṉ",
+        "meaning": "fish",
+        "mp3": "459"
+    },
+    {
+        "id": 261,
+        "tamil": "மலை",
+        "roman": "malai",
+        "meaning": "mountain",
+        "mp3": "460"
+    },
+    {
+        "id": 262,
+        "tamil": "நிறுத்த",
+        "roman": "niṟudhdha",
+        "meaning": "stop",
+        "mp3": "461"
+    },
+    {
+        "id": 263,
+        "tamil": "ஒருமுறை",
+        "roman": "òrumuṟai",
+        "meaning": "once",
+        "mp3": "462"
+    },
+    {
+        "id": 264,
+        "tamil": "அடிப்படை",
+        "roman": "aḍhibhbhaḍhai",
+        "meaning": "base",
+        "mp3": "463"
+    },
+    {
+        "id": 265,
+        "tamil": "செவி மடுத்து கேள்",
+        "roman": "jhèvi maḍhudhdhu gheḻ",
+        "meaning": "hear",
+        "mp3": "464"
+    },
+    {
+        "id": 266,
+        "tamil": "குதிரை",
+        "roman": "ghudhirai",
+        "meaning": "horse",
+        "mp3": "465"
+    },
+    {
+        "id": 267,
+        "tamil": "வெட்டு",
+        "roman": "vèḍhḍhu",
+        "meaning": "cut",
+        "mp3": "466"
+    },
+    {
+        "id": 268,
+        "tamil": "உறுதியான",
+        "roman": "uṟudhiyāṉa",
+        "meaning": "sure",
+        "mp3": "467"
+    },
+    {
+        "id": 269,
+        "tamil": "பார்க்க",
+        "roman": "bhārghgha",
+        "meaning": "watch",
+        "mp3": "468"
+    },
+    {
+        "id": 270,
+        "tamil": "வண்ண",
+        "roman": "vaṇṇa",
+        "meaning": "color",
+        "mp3": "469"
+    },
+    {
+        "id": 271,
+        "tamil": "முகத்தை",
+        "roman": "mughadhdhai",
+        "meaning": "face",
+        "mp3": "470"
+    },
+    {
+        "id": 272,
+        "tamil": "மரம்",
+        "roman": "maraṃ",
+        "meaning": "wood",
+        "mp3": "471"
+    },
+    {
+        "id": 273,
+        "tamil": "முக்கிய",
+        "roman": "mughghiya",
+        "meaning": "main",
+        "mp3": "472"
+    },
+    {
+        "id": 274,
+        "tamil": "திறந்த",
+        "roman": "dhiṟandha",
+        "meaning": "open",
+        "mp3": "473"
+    },
+    {
+        "id": 275,
+        "tamil": "தெரியவில்லை",
+        "roman": "dhèriyavillai",
+        "meaning": "seem",
+        "mp3": "474"
+    },
+    {
+        "id": 276,
+        "tamil": "ஒன்றாக",
+        "roman": "òṉṟāgha",
+        "meaning": "together",
+        "mp3": "475"
+    },
+    {
+        "id": 277,
+        "tamil": "அடுத்த",
+        "roman": "aḍhudhdha",
+        "meaning": "next",
+        "mp3": "476"
+    },
+    {
+        "id": 278,
+        "tamil": "வெள்ளை",
+        "roman": "vèḻḻai",
+        "meaning": "white",
+        "mp3": "477"
+    },
+    {
+        "id": 279,
+        "tamil": "குழந்தைகள்",
+        "roman": "ghul̤andhaighaḻ",
+        "meaning": "children",
+        "mp3": "478"
+    },
+    {
+        "id": 280,
+        "tamil": "தொடங்கும்",
+        "roman": "dhòḍhaṅghuṃ",
+        "meaning": "begin",
+        "mp3": "479"
+    },
+    {
+        "id": 281,
+        "tamil": "கிடைத்தது",
+        "roman": "ghiḍhaidhdhadhu",
+        "meaning": "got",
+        "mp3": "480"
+    },
+    {
+        "id": 282,
+        "tamil": "நடக்க",
+        "roman": "naḍhaghgha",
+        "meaning": "walk",
+        "mp3": "481"
+    },
+    {
+        "id": 283,
+        "tamil": "உதாரணமாக",
+        "roman": "udhāraṇamāgha",
+        "meaning": "example",
+        "mp3": "482"
+    },
+    {
+        "id": 284,
+        "tamil": "எளிதாக்க",
+        "roman": "èḻidhāghgha",
+        "meaning": "ease",
+        "mp3": "483"
+    },
+    {
+        "id": 285,
+        "tamil": "காகித",
+        "roman": "ghāghidha",
+        "meaning": "paper",
+        "mp3": "484"
+    },
+    {
+        "id": 286,
+        "tamil": "குழு",
+        "roman": "ghul̤u",
+        "meaning": "group",
+        "mp3": "485"
+    },
+    {
+        "id": 287,
+        "tamil": "எப்போதும்",
+        "roman": "èbhbhodhuṃ",
+        "meaning": "always",
+        "mp3": "486"
+    },
+    {
+        "id": 288,
+        "tamil": "இசை",
+        "roman": "ijhai",
+        "meaning": "music",
+        "mp3": "487"
+    },
+    {
+        "id": 289,
+        "tamil": "அந்த",
+        "roman": "andha",
+        "meaning": "those",
+        "mp3": "488"
+    },
+    {
+        "id": 290,
+        "tamil": "இரண்டு",
+        "roman": "iraṇḍhu",
+        "meaning": "both",
+        "mp3": "489"
+    },
+    {
+        "id": 291,
+        "tamil": "குறி",
+        "roman": "ghuṟi",
+        "meaning": "mark",
+        "mp3": "490"
+    },
+    {
+        "id": 292,
+        "tamil": "பெரும்பாலும்",
+        "roman": "bhèruṃbhāluṃ",
+        "meaning": "often",
+        "mp3": "491"
+    },
+    {
+        "id": 293,
+        "tamil": "கடிதம்",
+        "roman": "ghaḍhidhaṃ",
+        "meaning": "letter",
+        "mp3": "492"
+    },
+    {
+        "id": 294,
+        "tamil": "வரை",
+        "roman": "varai",
+        "meaning": "until",
+        "mp3": "493"
+    },
+    {
+        "id": 295,
+        "tamil": "மைல்",
+        "roman": "mail",
+        "meaning": "mile",
+        "mp3": "494"
+    },
+    {
+        "id": 296,
+        "tamil": "ஆற்றில்",
+        "roman": "āṟṟil",
+        "meaning": "river",
+        "mp3": "495"
+    },
+    {
+        "id": 297,
+        "tamil": "கார்",
+        "roman": "ghār",
+        "meaning": "car",
+        "mp3": "496"
+    },
+    {
+        "id": 298,
+        "tamil": "அடி",
+        "roman": "aḍhi",
+        "meaning": "feet",
+        "mp3": "497"
+    },
+    {
+        "id": 299,
+        "tamil": "பாதுகாப்பு",
+        "roman": "bhādhughābhbhu",
+        "meaning": "care",
+        "mp3": "498"
+    },
+    {
+        "id": 300,
+        "tamil": "இரண்டாவது",
+        "roman": "iraṇḍhāvadhu",
+        "meaning": "second",
+        "mp3": "499"
+    },
+    {
+        "id": 301,
+        "tamil": "போதுமான",
+        "roman": "bhodhumāṉa",
+        "meaning": "enough",
+        "mp3": "500"
+    },
+    {
+        "id": 302,
+        "tamil": "வெற்று",
+        "roman": "vèṟṟu",
+        "meaning": "plain",
+        "mp3": "501"
+    },
+    {
+        "id": 303,
+        "tamil": "பெண்",
+        "roman": "bhèṇ",
+        "meaning": "girl",
+        "mp3": "502"
+    },
+    {
+        "id": 304,
+        "tamil": "வழக்கம்",
+        "roman": "val̤aghghaṃ",
+        "meaning": "usual",
+        "mp3": "503"
+    },
+    {
+        "id": 305,
+        "tamil": "இளம்",
+        "roman": "iḻaṃ",
+        "meaning": "young",
+        "mp3": "504"
+    },
+    {
+        "id": 306,
+        "tamil": "தயாராக",
+        "roman": "dhayārāgha",
+        "meaning": "ready",
+        "mp3": "505"
+    },
+    {
+        "id": 307,
+        "tamil": "மேலே",
+        "roman": "mele",
+        "meaning": "above",
+        "mp3": "506"
+    },
+    {
+        "id": 308,
+        "tamil": "எப்போதும்",
+        "roman": "èbhbhodhuṃ",
+        "meaning": "ever",
+        "mp3": "507"
+    },
+    {
+        "id": 309,
+        "tamil": "சிவப்பு,",
+        "roman": "jhivabhbhu,",
+        "meaning": "red",
+        "mp3": "508"
+    },
+    {
+        "id": 310,
+        "tamil": "பட்டியலில்",
+        "roman": "bhaḍhḍhiyalil",
+        "meaning": "list",
+        "mp3": "509"
+    },
+    {
+        "id": 311,
+        "tamil": "எனினும்",
+        "roman": "èṉiṉuṃ",
+        "meaning": "though",
+        "mp3": "510"
+    },
+    {
+        "id": 312,
+        "tamil": "உணர",
+        "roman": "uṇara",
+        "meaning": "feel",
+        "mp3": "511"
+    },
+    {
+        "id": 313,
+        "tamil": "பேச்சு",
+        "roman": "bhejhjhu",
+        "meaning": "talk",
+        "mp3": "512"
+    },
+    {
+        "id": 314,
+        "tamil": "பறவை",
+        "roman": "bhaṟavai",
+        "meaning": "bird",
+        "mp3": "513"
+    },
+    {
+        "id": 315,
+        "tamil": "விரைவில்",
+        "roman": "viraivil",
+        "meaning": "soon",
+        "mp3": "514"
+    },
+    {
+        "id": 316,
+        "tamil": "உடல்",
+        "roman": "uḍhal",
+        "meaning": "body",
+        "mp3": "515"
+    },
+    {
+        "id": 317,
+        "tamil": "நாய்",
+        "roman": "nāy",
+        "meaning": "dog",
+        "mp3": "516"
+    },
+    {
+        "id": 318,
+        "tamil": "குடும்ப",
+        "roman": "ghuḍhuṃbha",
+        "meaning": "family",
+        "mp3": "517"
+    },
+    {
+        "id": 319,
+        "tamil": "நேரடி",
+        "roman": "neraḍhi",
+        "meaning": "direct",
+        "mp3": "518"
+    },
+    {
+        "id": 320,
+        "tamil": "போஸ்",
+        "roman": "bhos",
+        "meaning": "pose",
+        "mp3": "519"
+    },
+    {
+        "id": 321,
+        "tamil": "விட்டு",
+        "roman": "viḍhḍhu",
+        "meaning": "leave",
+        "mp3": "520"
+    },
+    {
+        "id": 322,
+        "tamil": "பாடல்",
+        "roman": "bhāḍhal",
+        "meaning": "song",
+        "mp3": "521"
+    },
+    {
+        "id": 323,
+        "tamil": "அளவிட",
+        "roman": "aḻaviḍha",
+        "meaning": "measure",
+        "mp3": "522"
+    },
+    {
+        "id": 324,
+        "tamil": "கதவை",
+        "roman": "ghadhavai",
+        "meaning": "door",
+        "mp3": "523"
+    },
+    {
+        "id": 325,
+        "tamil": "தயாரிப்பு",
+        "roman": "dhayāribhbhu",
+        "meaning": "product",
+        "mp3": "524"
+    },
+    {
+        "id": 326,
+        "tamil": "கருப்பு",
+        "roman": "gharubhbhu",
+        "meaning": "black",
+        "mp3": "525"
+    },
+    {
+        "id": 327,
+        "tamil": "குறுகிய",
+        "roman": "ghuṟughiya",
+        "meaning": "short",
+        "mp3": "526"
+    },
+    {
+        "id": 328,
+        "tamil": "எண்",
+        "roman": "èṇ",
+        "meaning": "numeral",
+        "mp3": "527"
+    },
+    {
+        "id": 329,
+        "tamil": "வர்க்கம்",
+        "roman": "varghghaṃ",
+        "meaning": "class",
+        "mp3": "528"
+    },
+    {
+        "id": 330,
+        "tamil": "காற்று",
+        "roman": "ghāṟṟu",
+        "meaning": "wind",
+        "mp3": "529"
+    },
+    {
+        "id": 331,
+        "tamil": "கேள்வி",
+        "roman": "gheḻvi",
+        "meaning": "question",
+        "mp3": "530"
+    },
+    {
+        "id": 332,
+        "tamil": "நடக்கும்",
+        "roman": "naḍhaghghuṃ",
+        "meaning": "happen",
+        "mp3": "531"
+    },
+    {
+        "id": 333,
+        "tamil": "முழுமையான",
+        "roman": "mul̤umaiyāṉa",
+        "meaning": "complete",
+        "mp3": "532"
+    },
+    {
+        "id": 334,
+        "tamil": "கப்பல்",
+        "roman": "ghabhbhal",
+        "meaning": "ship",
+        "mp3": "533"
+    },
+    {
+        "id": 335,
+        "tamil": "பகுதி",
+        "roman": "bhaghudhi",
+        "meaning": "area",
+        "mp3": "534"
+    },
+    {
+        "id": 336,
+        "tamil": "அரை",
+        "roman": "arai",
+        "meaning": "half",
+        "mp3": "535"
+    },
+    {
+        "id": 337,
+        "tamil": "ராக்",
+        "roman": "rāgh",
+        "meaning": "rock",
+        "mp3": "536"
+    },
+    {
+        "id": 338,
+        "tamil": "பொருட்டு",
+        "roman": "bhòruḍhḍhu",
+        "meaning": "order",
+        "mp3": "537"
+    },
+    {
+        "id": 339,
+        "tamil": "தீ",
+        "roman": "dhī",
+        "meaning": "fire",
+        "mp3": "538"
+    },
+    {
+        "id": 340,
+        "tamil": "தெற்கு",
+        "roman": "dhèṟghu",
+        "meaning": "south",
+        "mp3": "539"
+    },
+    {
+        "id": 341,
+        "tamil": "பிரச்சனை",
+        "roman": "bhirajhjhaṉai",
+        "meaning": "problem",
+        "mp3": "540"
+    },
+    {
+        "id": 342,
+        "tamil": "துண்டு",
+        "roman": "dhuṇḍhu",
+        "meaning": "piece",
+        "mp3": "541"
+    },
+    {
+        "id": 343,
+        "tamil": "கூறினார்",
+        "roman": "ghūṟiṉār",
+        "meaning": "told",
+        "mp3": "542"
+    },
+    {
+        "id": 344,
+        "tamil": "தெரிந்தது",
+        "roman": "dhèrindhadhu",
+        "meaning": "knew",
+        "mp3": "543"
+    },
+    {
+        "id": 345,
+        "tamil": "கடந்து",
+        "roman": "ghaḍhandhu",
+        "meaning": "pass",
+        "mp3": "544"
+    },
+    {
+        "id": 346,
+        "tamil": "முதல்",
+        "roman": "mudhal",
+        "meaning": "since",
+        "mp3": "545"
+    },
+    {
+        "id": 347,
+        "tamil": "மேல்",
+        "roman": "mel",
+        "meaning": "top",
+        "mp3": "546"
+    },
+    {
+        "id": 348,
+        "tamil": "முழுவதும்",
+        "roman": "mul̤uvadhuṃ",
+        "meaning": "whole",
+        "mp3": "547"
+    },
+    {
+        "id": 349,
+        "tamil": "ராஜா",
+        "roman": "rājā",
+        "meaning": "king",
+        "mp3": "548"
+    },
+    {
+        "id": 350,
+        "tamil": "தெருவில்",
+        "roman": "dhèruvil",
+        "meaning": "street",
+        "mp3": "549"
+    },
+    {
+        "id": 351,
+        "tamil": "அங்குல",
+        "roman": "aṅghula",
+        "meaning": "inch",
+        "mp3": "550"
+    },
+    {
+        "id": 352,
+        "tamil": "பெருக்கவும்",
+        "roman": "bhèrughghavuṃ",
+        "meaning": "multiply",
+        "mp3": "551"
+    },
+    {
+        "id": 353,
+        "tamil": "எதுவும்",
+        "roman": "èdhuvuṃ",
+        "meaning": "nothing",
+        "mp3": "552"
+    },
+    {
+        "id": 354,
+        "tamil": "நிச்சயமாக",
+        "roman": "nijhjhayamāgha",
+        "meaning": "course",
+        "mp3": "553"
+    },
+    {
+        "id": 355,
+        "tamil": "தங்க",
+        "roman": "dhaṅgha",
+        "meaning": "stay",
+        "mp3": "554"
+    },
+    {
+        "id": 356,
+        "tamil": "சக்கர",
+        "roman": "jhaghghara",
+        "meaning": "wheel",
+        "mp3": "555"
+    },
+    {
+        "id": 357,
+        "tamil": "முழு",
+        "roman": "mul̤u",
+        "meaning": "full",
+        "mp3": "556"
+    },
+    {
+        "id": 358,
+        "tamil": "படை",
+        "roman": "bhaḍhai",
+        "meaning": "force",
+        "mp3": "557"
+    },
+    {
+        "id": 359,
+        "tamil": "நீல",
+        "roman": "nīla",
+        "meaning": "blue",
+        "mp3": "558"
+    },
+    {
+        "id": 360,
+        "tamil": "பொருள்",
+        "roman": "bhòruḻ",
+        "meaning": "object",
+        "mp3": "559"
+    },
+    {
+        "id": 361,
+        "tamil": "முடிவு",
+        "roman": "muḍhivu",
+        "meaning": "decide",
+        "mp3": "560"
+    },
+    {
+        "id": 362,
+        "tamil": "மேற்பரப்பு",
+        "roman": "meṟbharabhbhu",
+        "meaning": "surface",
+        "mp3": "561"
+    },
+    {
+        "id": 363,
+        "tamil": "ஆழமான",
+        "roman": "āl̤amāṉa",
+        "meaning": "deep",
+        "mp3": "562"
+    },
+    {
+        "id": 364,
+        "tamil": "நிலவு",
+        "roman": "nilavu",
+        "meaning": "moon",
+        "mp3": "563"
+    },
+    {
+        "id": 365,
+        "tamil": "தீவின்",
+        "roman": "dhīviṉ",
+        "meaning": "island",
+        "mp3": "564"
+    },
+    {
+        "id": 366,
+        "tamil": "கால்",
+        "roman": "ghāl",
+        "meaning": "foot",
+        "mp3": "565"
+    },
+    {
+        "id": 367,
+        "tamil": "அமைப்பு",
+        "roman": "amaibhbhu",
+        "meaning": "system",
+        "mp3": "566"
+    },
+    {
+        "id": 368,
+        "tamil": "பிஸியாக",
+        "roman": "bhisiyāgha",
+        "meaning": "busy",
+        "mp3": "567"
+    },
+    {
+        "id": 369,
+        "tamil": "சோதனை",
+        "roman": "jhodhaṉai",
+        "meaning": "test",
+        "mp3": "568"
+    },
+    {
+        "id": 370,
+        "tamil": "பதிவு",
+        "roman": "bhadhivu",
+        "meaning": "record",
+        "mp3": "569"
+    },
+    {
+        "id": 371,
+        "tamil": "படகு",
+        "roman": "bhaḍhaghu",
+        "meaning": "boat",
+        "mp3": "570"
+    },
+    {
+        "id": 372,
+        "tamil": "பொது",
+        "roman": "bhòdhu",
+        "meaning": "common",
+        "mp3": "571"
+    },
+    {
+        "id": 373,
+        "tamil": "தங்க",
+        "roman": "dhaṅgha",
+        "meaning": "gold",
+        "mp3": "572"
+    },
+    {
+        "id": 374,
+        "tamil": "சாத்தியம்",
+        "roman": "jhādhdhiyaṃ",
+        "meaning": "possible",
+        "mp3": "573"
+    },
+    {
+        "id": 375,
+        "tamil": "விமானம்",
+        "roman": "vimāṉaṃ",
+        "meaning": "plane",
+        "mp3": "574"
+    },
+    {
+        "id": 376,
+        "tamil": "ஸ்தானத்தில்",
+        "roman": "sdhāṉadhdhil",
+        "meaning": "stead",
+        "mp3": "575"
+    },
+    {
+        "id": 377,
+        "tamil": "உலர்",
+        "roman": "ular",
+        "meaning": "dry",
+        "mp3": "576"
+    },
+    {
+        "id": 378,
+        "tamil": "தெரியவில்லை",
+        "roman": "dhèriyavillai",
+        "meaning": "wonder",
+        "mp3": "577"
+    },
+    {
+        "id": 379,
+        "tamil": "சிரிப்பு",
+        "roman": "jhiribhbhu",
+        "meaning": "laugh",
+        "mp3": "578"
+    },
+    {
+        "id": 380,
+        "tamil": "ஆயிரம்",
+        "roman": "āyiraṃ",
+        "meaning": "thousand",
+        "mp3": "579"
+    },
+    {
+        "id": 381,
+        "tamil": "முன்பு",
+        "roman": "muṉbhu",
+        "meaning": "ago",
+        "mp3": "580"
+    },
+    {
+        "id": 382,
+        "tamil": "ஓடி",
+        "roman": "oḍhi",
+        "meaning": "ran",
+        "mp3": "581"
+    },
+    {
+        "id": 383,
+        "tamil": "பார்க்க",
+        "roman": "bhārghgha",
+        "meaning": "check",
+        "mp3": "582"
+    },
+    {
+        "id": 384,
+        "tamil": "விளையாட்டு",
+        "roman": "viḻaiyāḍhḍhu",
+        "meaning": "game",
+        "mp3": "583"
+    },
+    {
+        "id": 385,
+        "tamil": "வடிவம்",
+        "roman": "vaḍhivaṃ",
+        "meaning": "shape",
+        "mp3": "584"
+    },
+    {
+        "id": 386,
+        "tamil": "சமன்",
+        "roman": "jhamaṉ",
+        "meaning": "equate",
+        "mp3": "585"
+    },
+    {
+        "id": 387,
+        "tamil": "சூடான",
+        "roman": "jhūḍhāṉa",
+        "meaning": "hot",
+        "mp3": "586"
+    },
+    {
+        "id": 388,
+        "tamil": "மிஸ்",
+        "roman": "mis",
+        "meaning": "miss",
+        "mp3": "587"
+    },
+    {
+        "id": 389,
+        "tamil": "கொண்டு",
+        "roman": "ghòṇḍhu",
+        "meaning": "brought",
+        "mp3": "588"
+    },
+    {
+        "id": 390,
+        "tamil": "வெப்ப",
+        "roman": "vèbhbha",
+        "meaning": "heat",
+        "mp3": "589"
+    },
+    {
+        "id": 391,
+        "tamil": "பனி",
+        "roman": "bhaṉi",
+        "meaning": "snow",
+        "mp3": "590"
+    },
+    {
+        "id": 392,
+        "tamil": "டயர்",
+        "roman": "ḍhayar",
+        "meaning": "tire",
+        "mp3": "591"
+    },
+    {
+        "id": 393,
+        "tamil": "கொண்டு வா",
+        "roman": "ghòṇḍhu vā",
+        "meaning": "bring",
+        "mp3": "592"
+    },
+    {
+        "id": 394,
+        "tamil": "ஆம்",
+        "roman": "āṃ",
+        "meaning": "yes",
+        "mp3": "593"
+    },
+    {
+        "id": 395,
+        "tamil": "தொலைதூர",
+        "roman": "dhòlaidhūra",
+        "meaning": "distant",
+        "mp3": "594"
+    },
+    {
+        "id": 396,
+        "tamil": "நிரப்பவும்",
+        "roman": "nirabhbhavuṃ",
+        "meaning": "fill",
+        "mp3": "595"
+    },
+    {
+        "id": 397,
+        "tamil": "கிழக்கு",
+        "roman": "ghil̤aghghu",
+        "meaning": "east",
+        "mp3": "596"
+    },
+    {
+        "id": 398,
+        "tamil": "வண்ணம்",
+        "roman": "vaṇṇaṃ",
+        "meaning": "paint",
+        "mp3": "597"
+    },
+    {
+        "id": 399,
+        "tamil": "மொழி",
+        "roman": "mòl̤i",
+        "meaning": "language",
+        "mp3": "598"
+    },
+    {
+        "id": 400,
+        "tamil": "மத்தியில்",
+        "roman": "madhdhiyil",
+        "meaning": "among",
+        "mp3": "599"
+    },
+    {
+        "id": 401,
+        "tamil": "அலகு",
+        "roman": "alaghu",
+        "meaning": "unit",
+        "mp3": "600"
+    },
+    {
+        "id": 402,
+        "tamil": "அதிகாரத்தை",
+        "roman": "adhighāradhdhai",
+        "meaning": "power",
+        "mp3": "601"
+    },
+    {
+        "id": 403,
+        "tamil": "நகரம்",
+        "roman": "nagharaṃ",
+        "meaning": "town",
+        "mp3": "602"
+    },
+    {
+        "id": 404,
+        "tamil": "நன்றாக",
+        "roman": "naṉṟāgha",
+        "meaning": "fine",
+        "mp3": "603"
+    },
+    {
+        "id": 405,
+        "tamil": "நிச்சயமான",
+        "roman": "nijhjhayamāṉa",
+        "meaning": "certain",
+        "mp3": "604"
+    },
+    {
+        "id": 406,
+        "tamil": "பறக்க",
+        "roman": "bhaṟaghgha",
+        "meaning": "fly",
+        "mp3": "605"
+    },
+    {
+        "id": 407,
+        "tamil": "விழ",
+        "roman": "vil̤a",
+        "meaning": "fall",
+        "mp3": "606"
+    },
+    {
+        "id": 408,
+        "tamil": "வழிவகுக்கும்",
+        "roman": "val̤ivaghughghuṃ",
+        "meaning": "lead",
+        "mp3": "607"
+    },
+    {
+        "id": 409,
+        "tamil": "அழ",
+        "roman": "al̤a",
+        "meaning": "cry",
+        "mp3": "608"
+    },
+    {
+        "id": 410,
+        "tamil": "இருண்ட",
+        "roman": "iruṇḍha",
+        "meaning": "dark",
+        "mp3": "609"
+    },
+    {
+        "id": 411,
+        "tamil": "இயந்திரம்",
+        "roman": "iyandhiraṃ",
+        "meaning": "machine",
+        "mp3": "610"
+    },
+    {
+        "id": 412,
+        "tamil": "குறிப்பு",
+        "roman": "ghuṟibhbhu",
+        "meaning": "note",
+        "mp3": "611"
+    },
+    {
+        "id": 413,
+        "tamil": "காத்திருக்க",
+        "roman": "ghādhdhirughgha",
+        "meaning": "wait",
+        "mp3": "612"
+    },
+    {
+        "id": 414,
+        "tamil": "திட்டம்",
+        "roman": "dhiḍhḍhaṃ",
+        "meaning": "plan",
+        "mp3": "613"
+    },
+    {
+        "id": 415,
+        "tamil": "எண்ணிக்கை",
+        "roman": "èṇṇighghai",
+        "meaning": "figure",
+        "mp3": "614"
+    },
+    {
+        "id": 416,
+        "tamil": "நட்சத்திர",
+        "roman": "naḍhjhadhdhira",
+        "meaning": "star",
+        "mp3": "615"
+    },
+    {
+        "id": 417,
+        "tamil": "பெட்டியில்",
+        "roman": "bhèḍhḍhiyil",
+        "meaning": "box",
+        "mp3": "616"
+    },
+    {
+        "id": 418,
+        "tamil": "பெயர்ச்சொல்",
+        "roman": "bhèyarjhjhòl",
+        "meaning": "noun",
+        "mp3": "617"
+    },
+    {
+        "id": 419,
+        "tamil": "துறையில்",
+        "roman": "dhuṟaiyil",
+        "meaning": "field",
+        "mp3": "618"
+    },
+    {
+        "id": 420,
+        "tamil": "மீதமுள்ள",
+        "roman": "mīdhamuḻḻa",
+        "meaning": "rest",
+        "mp3": "619"
+    },
+    {
+        "id": 421,
+        "tamil": "சரியான",
+        "roman": "jhariyāṉa",
+        "meaning": "correct",
+        "mp3": "620"
+    },
+    {
+        "id": 422,
+        "tamil": "முடிந்தது",
+        "roman": "muḍhindhadhu",
+        "meaning": "able",
+        "mp3": "621"
+    },
+    {
+        "id": 423,
+        "tamil": "பவுண்டு",
+        "roman": "bhavuṇḍhu",
+        "meaning": "pound",
+        "mp3": "622"
+    },
+    {
+        "id": 424,
+        "tamil": "செய்து",
+        "roman": "jhèydhu",
+        "meaning": "done",
+        "mp3": "623"
+    },
+    {
+        "id": 425,
+        "tamil": "அழகு",
+        "roman": "al̤aghu",
+        "meaning": "beauty",
+        "mp3": "624"
+    },
+    {
+        "id": 426,
+        "tamil": "இயக்கி",
+        "roman": "iyaghghi",
+        "meaning": "drive",
+        "mp3": "625"
+    },
+    {
+        "id": 427,
+        "tamil": "நின்று",
+        "roman": "niṉṟu",
+        "meaning": "stood",
+        "mp3": "626"
+    },
+    {
+        "id": 428,
+        "tamil": "கொண்டிருக்கிறது",
+        "roman": "ghòṇḍhirughghiṟadhu",
+        "meaning": "contain",
+        "mp3": "627"
+    },
+    {
+        "id": 429,
+        "tamil": "முன்",
+        "roman": "muṉ",
+        "meaning": "front",
+        "mp3": "628"
+    },
+    {
+        "id": 430,
+        "tamil": "கற்று",
+        "roman": "ghaṟṟu",
+        "meaning": "teach",
+        "mp3": "629"
+    },
+    {
+        "id": 431,
+        "tamil": "வாரம்",
+        "roman": "vāraṃ",
+        "meaning": "week",
+        "mp3": "630"
+    },
+    {
+        "id": 432,
+        "tamil": "இறுதி",
+        "roman": "iṟudhi",
+        "meaning": "final",
+        "mp3": "631"
+    },
+    {
+        "id": 433,
+        "tamil": "கொடுத்தது",
+        "roman": "ghòḍhudhdhadhu",
+        "meaning": "gave",
+        "mp3": "632"
+    },
+    {
+        "id": 434,
+        "tamil": "பச்சை",
+        "roman": "bhajhjhai",
+        "meaning": "green",
+        "mp3": "633"
+    },
+    {
+        "id": 435,
+        "tamil": "ஓ",
+        "roman": "o",
+        "meaning": "oh",
+        "mp3": "634"
+    },
+    {
+        "id": 436,
+        "tamil": "விரைவான",
+        "roman": "viraivāṉa",
+        "meaning": "quick",
+        "mp3": "635"
+    },
+    {
+        "id": 437,
+        "tamil": "அபிவிருத்தி",
+        "roman": "abhivirudhdhi",
+        "meaning": "develop",
+        "mp3": "636"
+    },
+    {
+        "id": 438,
+        "tamil": "கடல்",
+        "roman": "ghaḍhal",
+        "meaning": "ocean",
+        "mp3": "637"
+    },
+    {
+        "id": 439,
+        "tamil": "சூடான",
+        "roman": "jhūḍhāṉa",
+        "meaning": "warm",
+        "mp3": "638"
+    },
+    {
+        "id": 440,
+        "tamil": "இலவச",
+        "roman": "ilavajha",
+        "meaning": "free",
+        "mp3": "639"
+    },
+    {
+        "id": 441,
+        "tamil": "நிமிடம்",
+        "roman": "nimiḍhaṃ",
+        "meaning": "minute",
+        "mp3": "640"
+    },
+    {
+        "id": 442,
+        "tamil": "வலுவான",
+        "roman": "valuvāṉa",
+        "meaning": "strong",
+        "mp3": "641"
+    },
+    {
+        "id": 443,
+        "tamil": "சிறப்பு",
+        "roman": "jhiṟabhbhu",
+        "meaning": "special",
+        "mp3": "642"
+    },
+    {
+        "id": 444,
+        "tamil": "மனதில்",
+        "roman": "maṉadhil",
+        "meaning": "mind",
+        "mp3": "643"
+    },
+    {
+        "id": 445,
+        "tamil": "பின்னால்",
+        "roman": "bhiṉṉāl",
+        "meaning": "behind",
+        "mp3": "644"
+    },
+    {
+        "id": 446,
+        "tamil": "தெளிவான",
+        "roman": "dhèḻivāṉa",
+        "meaning": "clear",
+        "mp3": "645"
+    },
+    {
+        "id": 447,
+        "tamil": "வால்",
+        "roman": "vāl",
+        "meaning": "tail",
+        "mp3": "646"
+    },
+    {
+        "id": 448,
+        "tamil": "உற்பத்தி",
+        "roman": "uṟbhadhdhi",
+        "meaning": "produce",
+        "mp3": "647"
+    },
+    {
+        "id": 449,
+        "tamil": "உண்மை",
+        "roman": "uṇmai",
+        "meaning": "fact",
+        "mp3": "648"
+    },
+    {
+        "id": 450,
+        "tamil": "விண்வெளி",
+        "roman": "viṇvèḻi",
+        "meaning": "space",
+        "mp3": "649"
+    },
+    {
+        "id": 451,
+        "tamil": "கேட்டது",
+        "roman": "gheḍhḍhadhu",
+        "meaning": "heard",
+        "mp3": "650"
+    },
+    {
+        "id": 452,
+        "tamil": "சிறந்த",
+        "roman": "jhiṟandha",
+        "meaning": "best",
+        "mp3": "651"
+    },
+    {
+        "id": 453,
+        "tamil": "மணி",
+        "roman": "maṇi",
+        "meaning": "hour",
+        "mp3": "652"
+    },
+    {
+        "id": 454,
+        "tamil": "சிறந்த",
+        "roman": "jhiṟandha",
+        "meaning": "better",
+        "mp3": "653"
+    },
+    {
+        "id": 455,
+        "tamil": "உண்மை",
+        "roman": "uṇmai",
+        "meaning": "true",
+        "mp3": "654"
+    },
+    {
+        "id": 456,
+        "tamil": "போது",
+        "roman": "bhodhu",
+        "meaning": "during",
+        "mp3": "655"
+    },
+    {
+        "id": 457,
+        "tamil": "நூறு",
+        "roman": "nūṟu",
+        "meaning": "hundred",
+        "mp3": "656"
+    },
+    {
+        "id": 458,
+        "tamil": "ஐந்து",
+        "roman": "aindhu",
+        "meaning": "five",
+        "mp3": "657"
+    },
+    {
+        "id": 459,
+        "tamil": "நினைவில்",
+        "roman": "niṉaivil",
+        "meaning": "remember",
+        "mp3": "658"
+    },
+    {
+        "id": 460,
+        "tamil": "படி",
+        "roman": "bhaḍhi",
+        "meaning": "step",
+        "mp3": "659"
+    },
+    {
+        "id": 461,
+        "tamil": "ஆரம்ப",
+        "roman": "āraṃbha",
+        "meaning": "early",
+        "mp3": "660"
+    },
+    {
+        "id": 462,
+        "tamil": "நடத்த",
+        "roman": "naḍhadhdha",
+        "meaning": "hold",
+        "mp3": "661"
+    },
+    {
+        "id": 463,
+        "tamil": "மேற்கே",
+        "roman": "meṟghe",
+        "meaning": "west",
+        "mp3": "662"
+    },
+    {
+        "id": 464,
+        "tamil": "தரையில்",
+        "roman": "dharaiyil",
+        "meaning": "ground",
+        "mp3": "663"
+    },
+    {
+        "id": 465,
+        "tamil": "வட்டி",
+        "roman": "vaḍhḍhi",
+        "meaning": "interest",
+        "mp3": "664"
+    },
+    {
+        "id": 466,
+        "tamil": "அடைய",
+        "roman": "aḍhaiya",
+        "meaning": "reach",
+        "mp3": "665"
+    },
+    {
+        "id": 467,
+        "tamil": "வேகமாக",
+        "roman": "veghamāgha",
+        "meaning": "fast",
+        "mp3": "666"
+    },
+    {
+        "id": 468,
+        "tamil": "வினை",
+        "roman": "viṉai",
+        "meaning": "verb",
+        "mp3": "667"
+    },
+    {
+        "id": 469,
+        "tamil": "பாட",
+        "roman": "bhāḍha",
+        "meaning": "sing",
+        "mp3": "668"
+    },
+    {
+        "id": 470,
+        "tamil": "கேட்க",
+        "roman": "gheḍhgha",
+        "meaning": "listen",
+        "mp3": "669"
+    },
+    {
+        "id": 471,
+        "tamil": "ஆறு",
+        "roman": "āṟu",
+        "meaning": "six",
+        "mp3": "670"
+    },
+    {
+        "id": 472,
+        "tamil": "அட்டவணை",
+        "roman": "aḍhḍhavaṇai",
+        "meaning": "table",
+        "mp3": "671"
+    },
+    {
+        "id": 473,
+        "tamil": "பயண",
+        "roman": "bhayaṇa",
+        "meaning": "travel",
+        "mp3": "672"
+    },
+    {
+        "id": 474,
+        "tamil": "குறைவான",
+        "roman": "ghuṟaivāṉa",
+        "meaning": "less",
+        "mp3": "673"
+    },
+    {
+        "id": 475,
+        "tamil": "காலையில்",
+        "roman": "ghālaiyil",
+        "meaning": "morning",
+        "mp3": "674"
+    },
+    {
+        "id": 476,
+        "tamil": "பத்து",
+        "roman": "bhadhdhu",
+        "meaning": "ten",
+        "mp3": "675"
+    },
+    {
+        "id": 477,
+        "tamil": "எளிமையான",
+        "roman": "èḻimaiyāṉa",
+        "meaning": "simple",
+        "mp3": "676"
+    },
+    {
+        "id": 478,
+        "tamil": "பல",
+        "roman": "bhala",
+        "meaning": "several",
+        "mp3": "677"
+    },
+    {
+        "id": 479,
+        "tamil": "உயிர்",
+        "roman": "uyir",
+        "meaning": "vowel",
+        "mp3": "678"
+    },
+    {
+        "id": 480,
+        "tamil": "நோக்கி",
+        "roman": "noghghi",
+        "meaning": "toward",
+        "mp3": "679"
+    },
+    {
+        "id": 481,
+        "tamil": "போர்",
+        "roman": "bhor",
+        "meaning": "war",
+        "mp3": "680"
+    },
+    {
+        "id": 482,
+        "tamil": "போட",
+        "roman": "bhoḍha",
+        "meaning": "lay",
+        "mp3": "681"
+    },
+    {
+        "id": 483,
+        "tamil": "எதிரான",
+        "roman": "èdhirāṉa",
+        "meaning": "against",
+        "mp3": "682"
+    },
+    {
+        "id": 484,
+        "tamil": "அமைப்பு",
+        "roman": "amaibhbhu",
+        "meaning": "pattern",
+        "mp3": "683"
+    },
+    {
+        "id": 485,
+        "tamil": "மெதுவாக",
+        "roman": "mèdhuvāgha",
+        "meaning": "slow",
+        "mp3": "684"
+    },
+    {
+        "id": 486,
+        "tamil": "சென்டர்",
+        "roman": "jhèṉḍhar",
+        "meaning": "center",
+        "mp3": "685"
+    },
+    {
+        "id": 487,
+        "tamil": "காதல்",
+        "roman": "ghādhal",
+        "meaning": "love",
+        "mp3": "686"
+    },
+    {
+        "id": 488,
+        "tamil": "நபர்",
+        "roman": "nabhar",
+        "meaning": "person",
+        "mp3": "687"
+    },
+    {
+        "id": 489,
+        "tamil": "பணத்தை",
+        "roman": "bhaṇadhdhai",
+        "meaning": "money",
+        "mp3": "688"
+    },
+    {
+        "id": 490,
+        "tamil": "சேவை",
+        "roman": "jhevai",
+        "meaning": "serve",
+        "mp3": "689"
+    },
+    {
+        "id": 491,
+        "tamil": "தோன்றும்",
+        "roman": "dhoṉṟuṃ",
+        "meaning": "appear",
+        "mp3": "690"
+    },
+    {
+        "id": 492,
+        "tamil": "சாலை",
+        "roman": "jhālai",
+        "meaning": "road",
+        "mp3": "691"
+    },
+    {
+        "id": 493,
+        "tamil": "வரைபடத்தை",
+        "roman": "varaibhaḍhadhdhai",
+        "meaning": "map",
+        "mp3": "692"
+    },
+    {
+        "id": 494,
+        "tamil": "மழை",
+        "roman": "mal̤ai",
+        "meaning": "rain",
+        "mp3": "693"
+    },
+    {
+        "id": 495,
+        "tamil": "ஆட்சி",
+        "roman": "āḍhjhi",
+        "meaning": "rule",
+        "mp3": "694"
+    },
+    {
+        "id": 496,
+        "tamil": "ஆட்சி",
+        "roman": "āḍhjhi",
+        "meaning": "govern",
+        "mp3": "695"
+    },
+    {
+        "id": 497,
+        "tamil": "இழுக்க",
+        "roman": "il̤ughgha",
+        "meaning": "pull",
+        "mp3": "696"
+    },
+    {
+        "id": 498,
+        "tamil": "குளிர்",
+        "roman": "ghuḻir",
+        "meaning": "cold",
+        "mp3": "697"
+    },
+    {
+        "id": 499,
+        "tamil": "அறிவிப்பு",
+        "roman": "aṟivibhbhu",
+        "meaning": "notice",
+        "mp3": "698"
+    },
+    {
+        "id": 500,
+        "tamil": "குரல்",
+        "roman": "ghural",
+        "meaning": "voice",
+        "mp3": "699"
+    },
+    {
+        "id": 501,
+        "tamil": "ஆற்றல்",
+        "roman": "āṟṟal",
+        "meaning": "energy",
+        "mp3": "700"
+    },
+    {
+        "id": 502,
+        "tamil": "வேட்டை",
+        "roman": "veḍhḍhai",
+        "meaning": "hunt",
+        "mp3": "701"
+    },
+    {
+        "id": 503,
+        "tamil": "சாத்தியமான",
+        "roman": "jhādhdhiyamāṉa",
+        "meaning": "probable",
+        "mp3": "702"
+    },
+    {
+        "id": 504,
+        "tamil": "படுக்கையில்",
+        "roman": "bhaḍhughghaiyil",
+        "meaning": "bed",
+        "mp3": "703"
+    },
+    {
+        "id": 505,
+        "tamil": "சகோதரர்",
+        "roman": "jhaghodharar",
+        "meaning": "brother",
+        "mp3": "704"
+    },
+    {
+        "id": 506,
+        "tamil": "முட்டை",
+        "roman": "muḍhḍhai",
+        "meaning": "egg",
+        "mp3": "705"
+    },
+    {
+        "id": 507,
+        "tamil": "சவாரி",
+        "roman": "jhavāri",
+        "meaning": "ride",
+        "mp3": "706"
+    },
+    {
+        "id": 508,
+        "tamil": "செல்",
+        "roman": "jhèl",
+        "meaning": "cell",
+        "mp3": "707"
+    },
+    {
+        "id": 509,
+        "tamil": "நம்பிக்கை",
+        "roman": "naṃbhighghai",
+        "meaning": "believe",
+        "mp3": "708"
+    },
+    {
+        "id": 510,
+        "tamil": "ஒருவேளை",
+        "roman": "òruveḻai",
+        "meaning": "perhaps",
+        "mp3": "709"
+    },
+    {
+        "id": 511,
+        "tamil": "எடுக்க",
+        "roman": "èḍhughgha",
+        "meaning": "pick",
+        "mp3": "710"
+    },
+    {
+        "id": 512,
+        "tamil": "திடீர்",
+        "roman": "dhiḍhīr",
+        "meaning": "sudden",
+        "mp3": "711"
+    },
+    {
+        "id": 513,
+        "tamil": "எண்ண",
+        "roman": "èṇṇa",
+        "meaning": "count",
+        "mp3": "712"
+    },
+    {
+        "id": 514,
+        "tamil": "சதுரம்",
+        "roman": "jhadhuraṃ",
+        "meaning": "square",
+        "mp3": "713"
+    },
+    {
+        "id": 515,
+        "tamil": "காரணம்",
+        "roman": "ghāraṇaṃ",
+        "meaning": "reason",
+        "mp3": "714"
+    },
+    {
+        "id": 516,
+        "tamil": "நீளம்",
+        "roman": "nīḻaṃ",
+        "meaning": "length",
+        "mp3": "715"
+    },
+    {
+        "id": 517,
+        "tamil": "பிரதிநிதித்துவம்",
+        "roman": "bhiradhinidhidhdhuvaṃ",
+        "meaning": "represent",
+        "mp3": "716"
+    },
+    {
+        "id": 518,
+        "tamil": "கலை",
+        "roman": "ghalai",
+        "meaning": "art",
+        "mp3": "717"
+    },
+    {
+        "id": 519,
+        "tamil": "பொருள்",
+        "roman": "bhòruḻ",
+        "meaning": "subject",
+        "mp3": "718"
+    },
+    {
+        "id": 520,
+        "tamil": "பகுதி",
+        "roman": "bhaghudhi",
+        "meaning": "region",
+        "mp3": "719"
+    },
+    {
+        "id": 521,
+        "tamil": "அளவு",
+        "roman": "aḻavu",
+        "meaning": "size",
+        "mp3": "720"
+    },
+    {
+        "id": 522,
+        "tamil": "மாறுபடுகிறது",
+        "roman": "māṟubhaḍhughiṟadhu",
+        "meaning": "vary",
+        "mp3": "721"
+    },
+    {
+        "id": 523,
+        "tamil": "குடியேற",
+        "roman": "ghuḍhiyeṟa",
+        "meaning": "settle",
+        "mp3": "722"
+    },
+    {
+        "id": 524,
+        "tamil": "பேச",
+        "roman": "bhejha",
+        "meaning": "speak",
+        "mp3": "723"
+    },
+    {
+        "id": 525,
+        "tamil": "எடை",
+        "roman": "èḍhai",
+        "meaning": "weight",
+        "mp3": "724"
+    },
+    {
+        "id": 526,
+        "tamil": "பொது",
+        "roman": "bhòdhu",
+        "meaning": "general",
+        "mp3": "725"
+    },
+    {
+        "id": 527,
+        "tamil": "பனி",
+        "roman": "bhaṉi",
+        "meaning": "ice",
+        "mp3": "726"
+    },
+    {
+        "id": 528,
+        "tamil": "விஷயம்",
+        "roman": "viṣayaṃ",
+        "meaning": "matter",
+        "mp3": "727"
+    },
+    {
+        "id": 529,
+        "tamil": "வட்டத்தின்",
+        "roman": "vaḍhḍhadhdhiṉ",
+        "meaning": "circle",
+        "mp3": "728"
+    },
+    {
+        "id": 530,
+        "tamil": "ஜோடி",
+        "roman": "joḍhi",
+        "meaning": "pair",
+        "mp3": "729"
+    },
+    {
+        "id": 531,
+        "tamil": "சேர்க்கிறது",
+        "roman": "jherghghiṟadhu",
+        "meaning": "include",
+        "mp3": "730"
+    },
+    {
+        "id": 532,
+        "tamil": "பிளவை",
+        "roman": "bhiḻavai",
+        "meaning": "divide",
+        "mp3": "731"
+    },
+    {
+        "id": 533,
+        "tamil": "அசையாக",
+        "roman": "ajhaiyāgha",
+        "meaning": "syllable",
+        "mp3": "732"
+    },
+    {
+        "id": 534,
+        "tamil": "உணர்ந்தேன்",
+        "roman": "uṇarndheṉ",
+        "meaning": "felt",
+        "mp3": "733"
+    },
+    {
+        "id": 535,
+        "tamil": "பெரும்",
+        "roman": "bhèruṃ",
+        "meaning": "grand",
+        "mp3": "734"
+    },
+    {
+        "id": 536,
+        "tamil": "பந்து",
+        "roman": "bhandhu",
+        "meaning": "ball",
+        "mp3": "735"
+    },
+    {
+        "id": 537,
+        "tamil": "இதுவரை",
+        "roman": "idhuvarai",
+        "meaning": "yet",
+        "mp3": "736"
+    },
+    {
+        "id": 538,
+        "tamil": "அலை",
+        "roman": "alai",
+        "meaning": "wave",
+        "mp3": "737"
+    },
+    {
+        "id": 539,
+        "tamil": "கைவிட",
+        "roman": "ghaiviḍha",
+        "meaning": "drop",
+        "mp3": "738"
+    },
+    {
+        "id": 540,
+        "tamil": "இதய",
+        "roman": "idhaya",
+        "meaning": "heart",
+        "mp3": "739"
+    },
+    {
+        "id": 541,
+        "tamil": "நான்",
+        "roman": "nāṉ",
+        "meaning": "am",
+        "mp3": "740"
+    },
+    {
+        "id": 542,
+        "tamil": "தற்போதைய",
+        "roman": "dhaṟbhodhaiya",
+        "meaning": "present",
+        "mp3": "741"
+    },
+    {
+        "id": 543,
+        "tamil": "கனரக",
+        "roman": "ghaṉaragha",
+        "meaning": "heavy",
+        "mp3": "742"
+    },
+    {
+        "id": 544,
+        "tamil": "நடன",
+        "roman": "naḍhaṉa",
+        "meaning": "dance",
+        "mp3": "743"
+    },
+    {
+        "id": 545,
+        "tamil": "இயந்திரம்",
+        "roman": "iyandhiraṃ",
+        "meaning": "engine",
+        "mp3": "744"
+    },
+    {
+        "id": 546,
+        "tamil": "நிலையை",
+        "roman": "nilaiyai",
+        "meaning": "position",
+        "mp3": "745"
+    },
+    {
+        "id": 547,
+        "tamil": "கை",
+        "roman": "ghai",
+        "meaning": "arm",
+        "mp3": "746"
+    },
+    {
+        "id": 548,
+        "tamil": "பரந்த",
+        "roman": "bharandha",
+        "meaning": "wide",
+        "mp3": "747"
+    },
+    {
+        "id": 549,
+        "tamil": "புறப்பட்டது",
+        "roman": "bhuṟabhbhaḍhḍhadhu",
+        "meaning": "sail",
+        "mp3": "748"
+    },
+    {
+        "id": 550,
+        "tamil": "பொருள்",
+        "roman": "bhòruḻ",
+        "meaning": "material",
+        "mp3": "749"
+    },
+    {
+        "id": 551,
+        "tamil": "பகுதி",
+        "roman": "bhaghudhi",
+        "meaning": "fraction",
+        "mp3": "750"
+    },
+    {
+        "id": 552,
+        "tamil": "காட்டில்",
+        "roman": "ghāḍhḍhil",
+        "meaning": "forest",
+        "mp3": "751"
+    },
+    {
+        "id": 553,
+        "tamil": "உட்கார",
+        "roman": "uḍhghāra",
+        "meaning": "sit",
+        "mp3": "752"
+    },
+    {
+        "id": 554,
+        "tamil": "இனம்",
+        "roman": "iṉaṃ",
+        "meaning": "race",
+        "mp3": "753"
+    },
+    {
+        "id": 555,
+        "tamil": "சாளர",
+        "roman": "jhāḻara",
+        "meaning": "window",
+        "mp3": "754"
+    },
+    {
+        "id": 556,
+        "tamil": "கடையில்",
+        "roman": "ghaḍhaiyil",
+        "meaning": "store",
+        "mp3": "755"
+    },
+    {
+        "id": 557,
+        "tamil": "கோடை",
+        "roman": "ghoḍhai",
+        "meaning": "summer",
+        "mp3": "756"
+    },
+    {
+        "id": 558,
+        "tamil": "ரயில்",
+        "roman": "rayil",
+        "meaning": "train",
+        "mp3": "757"
+    },
+    {
+        "id": 559,
+        "tamil": "தூக்கம்",
+        "roman": "dhūghghaṃ",
+        "meaning": "sleep",
+        "mp3": "758"
+    },
+    {
+        "id": 560,
+        "tamil": "நிரூபிக்க",
+        "roman": "nirūbhighgha",
+        "meaning": "prove",
+        "mp3": "759"
+    },
+    {
+        "id": 561,
+        "tamil": "தனி",
+        "roman": "dhaṉi",
+        "meaning": "lone",
+        "mp3": "760"
+    },
+    {
+        "id": 562,
+        "tamil": "காலை",
+        "roman": "ghālai",
+        "meaning": "leg",
+        "mp3": "761"
+    },
+    {
+        "id": 563,
+        "tamil": "உடற்பயிற்சி",
+        "roman": "uḍhaṟbhayiṟjhi",
+        "meaning": "exercise",
+        "mp3": "762"
+    },
+    {
+        "id": 564,
+        "tamil": "சுவர்",
+        "roman": "jhuvar",
+        "meaning": "wall",
+        "mp3": "763"
+    },
+    {
+        "id": 565,
+        "tamil": "ப",
+        "roman": "bha",
+        "meaning": "catch",
+        "mp3": "764"
+    },
+    {
+        "id": 566,
+        "tamil": "ஏற்ற",
+        "roman": "eṟṟa",
+        "meaning": "mount",
+        "mp3": "765"
+    },
+    {
+        "id": 567,
+        "tamil": "விரும்புகிறேன்",
+        "roman": "viruṃbhughiṟeṉ",
+        "meaning": "wish",
+        "mp3": "766"
+    },
+    {
+        "id": 568,
+        "tamil": "வானத்தில்",
+        "roman": "vāṉadhdhil",
+        "meaning": "sky",
+        "mp3": "767"
+    },
+    {
+        "id": 569,
+        "tamil": "குழு",
+        "roman": "ghul̤u",
+        "meaning": "board",
+        "mp3": "768"
+    },
+    {
+        "id": 570,
+        "tamil": "மகிழ்ச்சி",
+        "roman": "maghil̤jhjhi",
+        "meaning": "joy",
+        "mp3": "769"
+    },
+    {
+        "id": 571,
+        "tamil": "குளிர்காலத்தில்",
+        "roman": "ghuḻirghāladhdhil",
+        "meaning": "winter",
+        "mp3": "770"
+    },
+    {
+        "id": 572,
+        "tamil": "சனி",
+        "roman": "jhaṉi",
+        "meaning": "sat",
+        "mp3": "771"
+    },
+    {
+        "id": 573,
+        "tamil": "எழுதப்பட்ட",
+        "roman": "èl̤udhabhbhaḍhḍha",
+        "meaning": "written",
+        "mp3": "772"
+    },
+    {
+        "id": 574,
+        "tamil": "காட்டு",
+        "roman": "ghāḍhḍhu",
+        "meaning": "wild",
+        "mp3": "773"
+    },
+    {
+        "id": 575,
+        "tamil": "கருவி",
+        "roman": "gharuvi",
+        "meaning": "instrument",
+        "mp3": "774"
+    },
+    {
+        "id": 576,
+        "tamil": "வைத்து",
+        "roman": "vaidhdhu",
+        "meaning": "kept",
+        "mp3": "775"
+    },
+    {
+        "id": 577,
+        "tamil": "கண்ணாடி",
+        "roman": "ghaṇṇāḍhi",
+        "meaning": "glass",
+        "mp3": "776"
+    },
+    {
+        "id": 578,
+        "tamil": "புல்",
+        "roman": "bhul",
+        "meaning": "grass",
+        "mp3": "777"
+    },
+    {
+        "id": 579,
+        "tamil": "மாடு",
+        "roman": "māḍhu",
+        "meaning": "cow",
+        "mp3": "778"
+    },
+    {
+        "id": 580,
+        "tamil": "வேலை",
+        "roman": "velai",
+        "meaning": "job",
+        "mp3": "779"
+    },
+    {
+        "id": 581,
+        "tamil": "விளிம்பில்",
+        "roman": "viḻiṃbhil",
+        "meaning": "edge",
+        "mp3": "780"
+    },
+    {
+        "id": 582,
+        "tamil": "அடையாளம்",
+        "roman": "aḍhaiyāḻaṃ",
+        "meaning": "sign",
+        "mp3": "781"
+    },
+    {
+        "id": 583,
+        "tamil": "வருகை",
+        "roman": "varughai",
+        "meaning": "visit",
+        "mp3": "782"
+    },
+    {
+        "id": 584,
+        "tamil": "கடந்த",
+        "roman": "ghaḍhandha",
+        "meaning": "past",
+        "mp3": "783"
+    },
+    {
+        "id": 585,
+        "tamil": "மென்மையான",
+        "roman": "mèṉmaiyāṉa",
+        "meaning": "soft",
+        "mp3": "784"
+    },
+    {
+        "id": 586,
+        "tamil": "வேடிக்கை",
+        "roman": "veḍhighghai",
+        "meaning": "fun",
+        "mp3": "785"
+    },
+    {
+        "id": 587,
+        "tamil": "பிரகாசமான",
+        "roman": "bhiraghājhamāṉa",
+        "meaning": "bright",
+        "mp3": "786"
+    },
+    {
+        "id": 588,
+        "tamil": "எரிவாயு",
+        "roman": "èrivāyu",
+        "meaning": "gas",
+        "mp3": "787"
+    },
+    {
+        "id": 589,
+        "tamil": "வானிலை",
+        "roman": "vāṉilai",
+        "meaning": "weather",
+        "mp3": "788"
+    },
+    {
+        "id": 590,
+        "tamil": "மாதம்",
+        "roman": "mādhaṃ",
+        "meaning": "month",
+        "mp3": "789"
+    },
+    {
+        "id": 591,
+        "tamil": "மில்லியன்",
+        "roman": "milliyaṉ",
+        "meaning": "million",
+        "mp3": "790"
+    },
+    {
+        "id": 592,
+        "tamil": "தாங்க",
+        "roman": "dhāṅgha",
+        "meaning": "bear",
+        "mp3": "791"
+    },
+    {
+        "id": 593,
+        "tamil": "பூச்சு",
+        "roman": "bhūjhjhu",
+        "meaning": "finish",
+        "mp3": "792"
+    },
+    {
+        "id": 594,
+        "tamil": "சந்தோஷமாக",
+        "roman": "jhandhoṣamāgha",
+        "meaning": "happy",
+        "mp3": "793"
+    },
+    {
+        "id": 595,
+        "tamil": "நம்பிக்கை",
+        "roman": "naṃbhighghai",
+        "meaning": "hope",
+        "mp3": "794"
+    },
+    {
+        "id": 596,
+        "tamil": "மலர்",
+        "roman": "malar",
+        "meaning": "flower",
+        "mp3": "795"
+    },
+    {
+        "id": 597,
+        "tamil": "உடை",
+        "roman": "uḍhai",
+        "meaning": "clothe",
+        "mp3": "796"
+    },
+    {
+        "id": 598,
+        "tamil": "விசித்திரமான",
+        "roman": "vijhidhdhiramāṉa",
+        "meaning": "strange",
+        "mp3": "797"
+    },
+    {
+        "id": 599,
+        "tamil": "சென்று",
+        "roman": "jhèṉṟu",
+        "meaning": "gone",
+        "mp3": "798"
+    },
+    {
+        "id": 600,
+        "tamil": "வர்த்தக",
+        "roman": "vardhdhagha",
+        "meaning": "trade",
+        "mp3": "799"
+    },
+    {
+        "id": 601,
+        "tamil": "மெல்லிசை",
+        "roman": "mèllijhai",
+        "meaning": "melody",
+        "mp3": "800"
+    },
+    {
+        "id": 602,
+        "tamil": "பயணம்",
+        "roman": "bhayaṇaṃ",
+        "meaning": "trip",
+        "mp3": "801"
+    },
+    {
+        "id": 603,
+        "tamil": "அலுவலகத்தில்",
+        "roman": "aluvalaghadhdhil",
+        "meaning": "office",
+        "mp3": "802"
+    },
+    {
+        "id": 604,
+        "tamil": "பெற",
+        "roman": "bhèṟa",
+        "meaning": "receive",
+        "mp3": "803"
+    },
+    {
+        "id": 605,
+        "tamil": "வரிசையில்",
+        "roman": "varijhaiyil",
+        "meaning": "row",
+        "mp3": "804"
+    },
+    {
+        "id": 606,
+        "tamil": "வாயில்",
+        "roman": "vāyil",
+        "meaning": "mouth",
+        "mp3": "805"
+    },
+    {
+        "id": 607,
+        "tamil": "துல்லியமான",
+        "roman": "dhulliyamāṉa",
+        "meaning": "exact",
+        "mp3": "806"
+    },
+    {
+        "id": 608,
+        "tamil": "சின்னம்",
+        "roman": "jhiṉṉaṃ",
+        "meaning": "symbol",
+        "mp3": "807"
+    },
+    {
+        "id": 609,
+        "tamil": "இறக்க",
+        "roman": "iṟaghgha",
+        "meaning": "die",
+        "mp3": "808"
+    },
+    {
+        "id": 610,
+        "tamil": "குறைந்தது",
+        "roman": "ghuṟaindhadhu",
+        "meaning": "least",
+        "mp3": "809"
+    },
+    {
+        "id": 611,
+        "tamil": "சிக்கல்",
+        "roman": "jhighghal",
+        "meaning": "trouble",
+        "mp3": "810"
+    },
+    {
+        "id": 612,
+        "tamil": "கத்தி",
+        "roman": "ghadhdhi",
+        "meaning": "shout",
+        "mp3": "811"
+    },
+    {
+        "id": 613,
+        "tamil": "தவிர,",
+        "roman": "dhavira,",
+        "meaning": "except",
+        "mp3": "812"
+    },
+    {
+        "id": 614,
+        "tamil": "எழுதியது",
+        "roman": "èl̤udhiyadhu",
+        "meaning": "wrote",
+        "mp3": "813"
+    },
+    {
+        "id": 615,
+        "tamil": "விதை",
+        "roman": "vidhai",
+        "meaning": "seed",
+        "mp3": "814"
+    },
+    {
+        "id": 616,
+        "tamil": "தொனி",
+        "roman": "dhòṉi",
+        "meaning": "tone",
+        "mp3": "815"
+    },
+    {
+        "id": 617,
+        "tamil": "சேர",
+        "roman": "jhera",
+        "meaning": "join",
+        "mp3": "816"
+    },
+    {
+        "id": 618,
+        "tamil": "பரிந்துரைக்கிறது",
+        "roman": "bharindhuraighghiṟadhu",
+        "meaning": "suggest",
+        "mp3": "817"
+    },
+    {
+        "id": 619,
+        "tamil": "சுத்தமான",
+        "roman": "jhudhdhamāṉa",
+        "meaning": "clean",
+        "mp3": "818"
+    },
+    {
+        "id": 620,
+        "tamil": "இடைவெளி",
+        "roman": "iḍhaivèḻi",
+        "meaning": "break",
+        "mp3": "819"
+    },
+    {
+        "id": 621,
+        "tamil": "பெண்",
+        "roman": "bhèṇ",
+        "meaning": "lady",
+        "mp3": "820"
+    },
+    {
+        "id": 622,
+        "tamil": "முற்றத்தில்",
+        "roman": "muṟṟadhdhil",
+        "meaning": "yard",
+        "mp3": "821"
+    },
+    {
+        "id": 623,
+        "tamil": "உயரும்",
+        "roman": "uyaruṃ",
+        "meaning": "rise",
+        "mp3": "822"
+    },
+    {
+        "id": 624,
+        "tamil": "கெட்ட",
+        "roman": "ghèḍhḍha",
+        "meaning": "bad",
+        "mp3": "823"
+    },
+    {
+        "id": 625,
+        "tamil": "அடியாக",
+        "roman": "aḍhiyāgha",
+        "meaning": "blow",
+        "mp3": "824"
+    },
+    {
+        "id": 626,
+        "tamil": "எண்ணெய்",
+        "roman": "èṇṇèy",
+        "meaning": "oil",
+        "mp3": "825"
+    },
+    {
+        "id": 627,
+        "tamil": "இரத்த",
+        "roman": "iradhdha",
+        "meaning": "blood",
+        "mp3": "826"
+    },
+    {
+        "id": 628,
+        "tamil": "தொட",
+        "roman": "dhòḍha",
+        "meaning": "touch",
+        "mp3": "827"
+    },
+    {
+        "id": 629,
+        "tamil": "வளர்ந்தது",
+        "roman": "vaḻarndhadhu",
+        "meaning": "grew",
+        "mp3": "828"
+    },
+    {
+        "id": 630,
+        "tamil": "சதவீதம்",
+        "roman": "jhadhavīdhaṃ",
+        "meaning": "cent",
+        "mp3": "829"
+    },
+    {
+        "id": 631,
+        "tamil": "கலந்து",
+        "roman": "ghalandhu",
+        "meaning": "mix",
+        "mp3": "830"
+    },
+    {
+        "id": 632,
+        "tamil": "அணி",
+        "roman": "aṇi",
+        "meaning": "team",
+        "mp3": "831"
+    },
+    {
+        "id": 633,
+        "tamil": "கம்பி",
+        "roman": "ghaṃbhi",
+        "meaning": "wire",
+        "mp3": "832"
+    },
+    {
+        "id": 634,
+        "tamil": "செலவு",
+        "roman": "jhèlavu",
+        "meaning": "cost",
+        "mp3": "833"
+    },
+    {
+        "id": 635,
+        "tamil": "இழந்தது",
+        "roman": "il̤andhadhu",
+        "meaning": "lost",
+        "mp3": "834"
+    },
+    {
+        "id": 636,
+        "tamil": "பழுப்பு",
+        "roman": "bhal̤ubhbhu",
+        "meaning": "brown",
+        "mp3": "835"
+    },
+    {
+        "id": 637,
+        "tamil": "அணிய",
+        "roman": "aṇiya",
+        "meaning": "wear",
+        "mp3": "836"
+    },
+    {
+        "id": 638,
+        "tamil": "தோட்டத்தில்",
+        "roman": "dhoḍhḍhadhdhil",
+        "meaning": "garden",
+        "mp3": "837"
+    },
+    {
+        "id": 639,
+        "tamil": "சம",
+        "roman": "jhama",
+        "meaning": "equal",
+        "mp3": "838"
+    },
+    {
+        "id": 640,
+        "tamil": "அனுப்பி",
+        "roman": "aṉubhbhi",
+        "meaning": "sent",
+        "mp3": "839"
+    },
+    {
+        "id": 641,
+        "tamil": "தேர்வு",
+        "roman": "dhervu",
+        "meaning": "choose",
+        "mp3": "840"
+    },
+    {
+        "id": 642,
+        "tamil": "விழுந்தது",
+        "roman": "vil̤undhadhu",
+        "meaning": "fell",
+        "mp3": "841"
+    },
+    {
+        "id": 643,
+        "tamil": "பொருந்தும்",
+        "roman": "bhòrundhuṃ",
+        "meaning": "fit",
+        "mp3": "842"
+    },
+    {
+        "id": 644,
+        "tamil": "பாயும்",
+        "roman": "bhāyuṃ",
+        "meaning": "flow",
+        "mp3": "843"
+    },
+    {
+        "id": 645,
+        "tamil": "நியாயமான",
+        "roman": "niyāyamāṉa",
+        "meaning": "fair",
+        "mp3": "844"
+    },
+    {
+        "id": 646,
+        "tamil": "வங்கி",
+        "roman": "vaṅghi",
+        "meaning": "bank",
+        "mp3": "845"
+    },
+    {
+        "id": 647,
+        "tamil": "சேகரிக்க",
+        "roman": "jhegharighgha",
+        "meaning": "collect",
+        "mp3": "846"
+    },
+    {
+        "id": 648,
+        "tamil": "காப்பாற்ற",
+        "roman": "ghābhbhāṟṟa",
+        "meaning": "save",
+        "mp3": "847"
+    },
+    {
+        "id": 649,
+        "tamil": "கட்டுப்பாடு",
+        "roman": "ghaḍhḍhubhbhāḍhu",
+        "meaning": "control",
+        "mp3": "848"
+    },
+    {
+        "id": 650,
+        "tamil": "தசம",
+        "roman": "dhajhama",
+        "meaning": "decimal",
+        "mp3": "849"
+    },
+    {
+        "id": 651,
+        "tamil": "காது",
+        "roman": "ghādhu",
+        "meaning": "ear",
+        "mp3": "850"
+    },
+    {
+        "id": 652,
+        "tamil": "வேறு",
+        "roman": "veṟu",
+        "meaning": "else",
+        "mp3": "851"
+    },
+    {
+        "id": 653,
+        "tamil": "மிகவும்",
+        "roman": "mighavuṃ",
+        "meaning": "quite",
+        "mp3": "852"
+    },
+    {
+        "id": 654,
+        "tamil": "வெடித்தது",
+        "roman": "vèḍhidhdhadhu",
+        "meaning": "broke",
+        "mp3": "853"
+    },
+    {
+        "id": 655,
+        "tamil": "வழக்கு",
+        "roman": "val̤aghghu",
+        "meaning": "case",
+        "mp3": "854"
+    },
+    {
+        "id": 656,
+        "tamil": "நடுத்தர",
+        "roman": "naḍhudhdhara",
+        "meaning": "middle",
+        "mp3": "855"
+    },
+    {
+        "id": 657,
+        "tamil": "கொலை",
+        "roman": "ghòlai",
+        "meaning": "kill",
+        "mp3": "856"
+    },
+    {
+        "id": 658,
+        "tamil": "மகன்",
+        "roman": "maghaṉ",
+        "meaning": "son",
+        "mp3": "857"
+    },
+    {
+        "id": 659,
+        "tamil": "ஏரியில்",
+        "roman": "eriyil",
+        "meaning": "lake",
+        "mp3": "858"
+    },
+    {
+        "id": 660,
+        "tamil": "கணம்",
+        "roman": "ghaṇaṃ",
+        "meaning": "moment",
+        "mp3": "859"
+    },
+    {
+        "id": 661,
+        "tamil": "அளவில்",
+        "roman": "aḻavil",
+        "meaning": "scale",
+        "mp3": "860"
+    },
+    {
+        "id": 662,
+        "tamil": "உரத்த",
+        "roman": "uradhdha",
+        "meaning": "loud",
+        "mp3": "861"
+    },
+    {
+        "id": 663,
+        "tamil": "வசந்த",
+        "roman": "vajhandha",
+        "meaning": "spring",
+        "mp3": "862"
+    },
+    {
+        "id": 664,
+        "tamil": "அவதானிக்கவும்",
+        "roman": "avadhāṉighghavuṃ",
+        "meaning": "observe",
+        "mp3": "863"
+    },
+    {
+        "id": 665,
+        "tamil": "குழந்தை",
+        "roman": "ghul̤andhai",
+        "meaning": "child",
+        "mp3": "864"
+    },
+    {
+        "id": 666,
+        "tamil": "நேராக",
+        "roman": "nerāgha",
+        "meaning": "straight",
+        "mp3": "865"
+    },
+    {
+        "id": 667,
+        "tamil": "மெய்",
+        "roman": "mèy",
+        "meaning": "consonant",
+        "mp3": "866"
+    },
+    {
+        "id": 668,
+        "tamil": "தேசிய",
+        "roman": "dhejhiya",
+        "meaning": "nation",
+        "mp3": "867"
+    },
+    {
+        "id": 669,
+        "tamil": "அகராதியில்",
+        "roman": "agharādhiyil",
+        "meaning": "dictionary",
+        "mp3": "868"
+    },
+    {
+        "id": 670,
+        "tamil": "பால்",
+        "roman": "bhāl",
+        "meaning": "milk",
+        "mp3": "869"
+    },
+    {
+        "id": 671,
+        "tamil": "வேக",
+        "roman": "vegha",
+        "meaning": "speed",
+        "mp3": "870"
+    },
+    {
+        "id": 672,
+        "tamil": "முறை",
+        "roman": "muṟai",
+        "meaning": "method",
+        "mp3": "871"
+    },
+    {
+        "id": 673,
+        "tamil": "உறுப்பு",
+        "roman": "uṟubhbhu",
+        "meaning": "organ",
+        "mp3": "872"
+    },
+    {
+        "id": 674,
+        "tamil": "செலுத்த",
+        "roman": "jhèludhdha",
+        "meaning": "pay",
+        "mp3": "873"
+    },
+    {
+        "id": 675,
+        "tamil": "வயது",
+        "roman": "vayadhu",
+        "meaning": "age",
+        "mp3": "874"
+    },
+    {
+        "id": 676,
+        "tamil": "பிரிவில்",
+        "roman": "bhirivil",
+        "meaning": "section",
+        "mp3": "875"
+    },
+    {
+        "id": 677,
+        "tamil": "ஆடை",
+        "roman": "āḍhai",
+        "meaning": "dress",
+        "mp3": "876"
+    },
+    {
+        "id": 678,
+        "tamil": "மேகம்",
+        "roman": "meghaṃ",
+        "meaning": "cloud",
+        "mp3": "877"
+    },
+    {
+        "id": 679,
+        "tamil": "ஆச்சரியம்",
+        "roman": "ājhjhariyaṃ",
+        "meaning": "surprise",
+        "mp3": "878"
+    },
+    {
+        "id": 680,
+        "tamil": "அமைதியான",
+        "roman": "amaidhiyāṉa",
+        "meaning": "quiet",
+        "mp3": "879"
+    },
+    {
+        "id": 681,
+        "tamil": "கல்",
+        "roman": "ghal",
+        "meaning": "stone",
+        "mp3": "880"
+    },
+    {
+        "id": 682,
+        "tamil": "சிறிய",
+        "roman": "jhiṟiya",
+        "meaning": "tiny",
+        "mp3": "881"
+    },
+    {
+        "id": 683,
+        "tamil": "ஏறு மெதுவாக தொற்றி ஏறு",
+        "roman": "eṟu mèdhuvāgha dhòṟṟi eṟu",
+        "meaning": "climb",
+        "mp3": "882"
+    },
+    {
+        "id": 684,
+        "tamil": "குளிர்",
+        "roman": "ghuḻir",
+        "meaning": "cool",
+        "mp3": "883"
+    },
+    {
+        "id": 685,
+        "tamil": "வடிவமைப்பு",
+        "roman": "vaḍhivamaibhbhu",
+        "meaning": "design",
+        "mp3": "884"
+    },
+    {
+        "id": 686,
+        "tamil": "ஏழை",
+        "roman": "el̤ai",
+        "meaning": "poor",
+        "mp3": "885"
+    },
+    {
+        "id": 687,
+        "tamil": "நிறைய",
+        "roman": "niṟaiya",
+        "meaning": "lot",
+        "mp3": "886"
+    },
+    {
+        "id": 688,
+        "tamil": "சோதனை",
+        "roman": "jhodhaṉai",
+        "meaning": "experiment",
+        "mp3": "887"
+    },
+    {
+        "id": 689,
+        "tamil": "கீழே",
+        "roman": "ghīl̤e",
+        "meaning": "bottom",
+        "mp3": "888"
+    },
+    {
+        "id": 690,
+        "tamil": "முக்கிய",
+        "roman": "mughghiya",
+        "meaning": "key",
+        "mp3": "889"
+    },
+    {
+        "id": 691,
+        "tamil": "இரும்பு",
+        "roman": "iruṃbhu",
+        "meaning": "iron",
+        "mp3": "890"
+    },
+    {
+        "id": 692,
+        "tamil": "ஒற்றை",
+        "roman": "òṟṟai",
+        "meaning": "single",
+        "mp3": "891"
+    },
+    {
+        "id": 693,
+        "tamil": "குச்சி",
+        "roman": "ghujhjhi",
+        "meaning": "stick",
+        "mp3": "892"
+    },
+    {
+        "id": 694,
+        "tamil": "பிளாட்",
+        "roman": "bhiḻāḍh",
+        "meaning": "flat",
+        "mp3": "893"
+    },
+    {
+        "id": 695,
+        "tamil": "இருபத்தி",
+        "roman": "irubhadhdhi",
+        "meaning": "twenty",
+        "mp3": "894"
+    },
+    {
+        "id": 696,
+        "tamil": "தோல்",
+        "roman": "dhol",
+        "meaning": "skin",
+        "mp3": "895"
+    },
+    {
+        "id": 697,
+        "tamil": "சிரிப்பு",
+        "roman": "jhiribhbhu",
+        "meaning": "smile",
+        "mp3": "896"
+    },
+    {
+        "id": 698,
+        "tamil": "மடி",
+        "roman": "maḍhi",
+        "meaning": "crease",
+        "mp3": "897"
+    },
+    {
+        "id": 699,
+        "tamil": "ஓட்டை",
+        "roman": "oḍhḍhai",
+        "meaning": "hole",
+        "mp3": "898"
+    },
+    {
+        "id": 700,
+        "tamil": "குதிக்க",
+        "roman": "ghudhighgha",
+        "meaning": "jump",
+        "mp3": "899"
+    },
+    {
+        "id": 701,
+        "tamil": "குழந்தை",
+        "roman": "ghul̤andhai",
+        "meaning": "baby",
+        "mp3": "900"
+    },
+    {
+        "id": 702,
+        "tamil": "எட்டு",
+        "roman": "èḍhḍhu",
+        "meaning": "eight",
+        "mp3": "901"
+    },
+    {
+        "id": 703,
+        "tamil": "கிராமம்",
+        "roman": "ghirāmaṃ",
+        "meaning": "village",
+        "mp3": "902"
+    },
+    {
+        "id": 704,
+        "tamil": "சந்திக்க",
+        "roman": "jhandhighgha",
+        "meaning": "meet",
+        "mp3": "903"
+    },
+    {
+        "id": 705,
+        "tamil": "ரூட்",
+        "roman": "rūḍh",
+        "meaning": "root",
+        "mp3": "904"
+    },
+    {
+        "id": 706,
+        "tamil": "வாங்க",
+        "roman": "vāṅgha",
+        "meaning": "buy",
+        "mp3": "905"
+    },
+    {
+        "id": 707,
+        "tamil": "உயர்த்த",
+        "roman": "uyardhdha",
+        "meaning": "raise",
+        "mp3": "906"
+    },
+    {
+        "id": 708,
+        "tamil": "தீர்க்க",
+        "roman": "dhīrghgha",
+        "meaning": "solve",
+        "mp3": "907"
+    },
+    {
+        "id": 709,
+        "tamil": "உலோக",
+        "roman": "ulogha",
+        "meaning": "metal",
+        "mp3": "908"
+    },
+    {
+        "id": 710,
+        "tamil": "என்பதை",
+        "roman": "èṉbhadhai",
+        "meaning": "whether",
+        "mp3": "909"
+    },
+    {
+        "id": 711,
+        "tamil": "மிகுதி",
+        "roman": "mighudhi",
+        "meaning": "push",
+        "mp3": "910"
+    },
+    {
+        "id": 712,
+        "tamil": "ஏழு",
+        "roman": "el̤u",
+        "meaning": "seven",
+        "mp3": "911"
+    },
+    {
+        "id": 713,
+        "tamil": "பத்தி",
+        "roman": "bhadhdhi",
+        "meaning": "paragraph",
+        "mp3": "912"
+    },
+    {
+        "id": 714,
+        "tamil": "மூன்றாவது",
+        "roman": "mūṉṟāvadhu",
+        "meaning": "third",
+        "mp3": "913"
+    },
+    {
+        "id": 715,
+        "tamil": "போகலாமா",
+        "roman": "bhoghalāmā",
+        "meaning": "shall",
+        "mp3": "914"
+    },
+    {
+        "id": 716,
+        "tamil": "நானும்",
+        "roman": "nāṉuṃ",
+        "meaning": "held",
+        "mp3": "915"
+    },
+    {
+        "id": 717,
+        "tamil": "முடி",
+        "roman": "muḍhi",
+        "meaning": "hair",
+        "mp3": "916"
+    },
+    {
+        "id": 718,
+        "tamil": "விவரிக்க",
+        "roman": "vivarighgha",
+        "meaning": "describe",
+        "mp3": "917"
+    },
+    {
+        "id": 719,
+        "tamil": "சமையற்காரர்",
+        "roman": "jhamaiyaṟghārar",
+        "meaning": "cook",
+        "mp3": "918"
+    },
+    {
+        "id": 720,
+        "tamil": "தரையில்",
+        "roman": "dharaiyil",
+        "meaning": "floor",
+        "mp3": "919"
+    },
+    {
+        "id": 721,
+        "tamil": "ஒன்று",
+        "roman": "òṉṟu",
+        "meaning": "either",
+        "mp3": "920"
+    },
+    {
+        "id": 722,
+        "tamil": "இதன் விளைவாக",
+        "roman": "idhaṉ viḻaivāgha",
+        "meaning": "result",
+        "mp3": "921"
+    },
+    {
+        "id": 723,
+        "tamil": "எரிக்க",
+        "roman": "èrighgha",
+        "meaning": "burn",
+        "mp3": "922"
+    },
+    {
+        "id": 724,
+        "tamil": "மலை",
+        "roman": "malai",
+        "meaning": "hill",
+        "mp3": "923"
+    },
+    {
+        "id": 725,
+        "tamil": "பாதுகாப்பான",
+        "roman": "bhādhughābhbhāṉa",
+        "meaning": "safe",
+        "mp3": "924"
+    },
+    {
+        "id": 726,
+        "tamil": "பூனை",
+        "roman": "bhūṉai",
+        "meaning": "cat",
+        "mp3": "925"
+    },
+    {
+        "id": 727,
+        "tamil": "நூற்றாண்டின்",
+        "roman": "nūṟṟāṇḍhiṉ",
+        "meaning": "century",
+        "mp3": "926"
+    },
+    {
+        "id": 728,
+        "tamil": "கருத்தில்",
+        "roman": "gharudhdhil",
+        "meaning": "consider",
+        "mp3": "927"
+    },
+    {
+        "id": 729,
+        "tamil": "வகை",
+        "roman": "vaghai",
+        "meaning": "type",
+        "mp3": "928"
+    },
+    {
+        "id": 730,
+        "tamil": "சட்ட",
+        "roman": "jhaḍhḍha",
+        "meaning": "law",
+        "mp3": "929"
+    },
+    {
+        "id": 731,
+        "tamil": "பிட்",
+        "roman": "bhiḍh",
+        "meaning": "bit",
+        "mp3": "930"
+    },
+    {
+        "id": 732,
+        "tamil": "கடற்கரையில்",
+        "roman": "ghaḍhaṟgharaiyil",
+        "meaning": "coast",
+        "mp3": "931"
+    },
+    {
+        "id": 733,
+        "tamil": "பிரதியை",
+        "roman": "bhiradhiyai",
+        "meaning": "copy",
+        "mp3": "932"
+    },
+    {
+        "id": 734,
+        "tamil": "சொற்றொடர்",
+        "roman": "jhòṟṟòḍhar",
+        "meaning": "phrase",
+        "mp3": "933"
+    },
+    {
+        "id": 735,
+        "tamil": "அமைதியாக",
+        "roman": "amaidhiyāgha",
+        "meaning": "silent",
+        "mp3": "934"
+    },
+    {
+        "id": 736,
+        "tamil": "உயரம்",
+        "roman": "uyaraṃ",
+        "meaning": "tall",
+        "mp3": "935"
+    },
+    {
+        "id": 737,
+        "tamil": "மணல்",
+        "roman": "maṇal",
+        "meaning": "sand",
+        "mp3": "936"
+    },
+    {
+        "id": 738,
+        "tamil": "மண்",
+        "roman": "maṇ",
+        "meaning": "soil",
+        "mp3": "937"
+    },
+    {
+        "id": 739,
+        "tamil": "ரோல்",
+        "roman": "rol",
+        "meaning": "roll",
+        "mp3": "938"
+    },
+    {
+        "id": 740,
+        "tamil": "வெப்பநிலை",
+        "roman": "vèbhbhanilai",
+        "meaning": "temperature",
+        "mp3": "939"
+    },
+    {
+        "id": 741,
+        "tamil": "விரல்",
+        "roman": "viral",
+        "meaning": "finger",
+        "mp3": "940"
+    },
+    {
+        "id": 742,
+        "tamil": "தொழில்",
+        "roman": "dhòl̤il",
+        "meaning": "industry",
+        "mp3": "941"
+    },
+    {
+        "id": 743,
+        "tamil": "மதிப்பு",
+        "roman": "madhibhbhu",
+        "meaning": "value",
+        "mp3": "942"
+    },
+    {
+        "id": 744,
+        "tamil": "சண்டை",
+        "roman": "jhaṇḍhai",
+        "meaning": "fight",
+        "mp3": "943"
+    },
+    {
+        "id": 745,
+        "tamil": "பொய்யை",
+        "roman": "bhòyyai",
+        "meaning": "lie",
+        "mp3": "944"
+    },
+    {
+        "id": 746,
+        "tamil": "அடிக்க",
+        "roman": "aḍhighgha",
+        "meaning": "beat",
+        "mp3": "945"
+    },
+    {
+        "id": 747,
+        "tamil": "தூண்ட",
+        "roman": "dhūṇḍha",
+        "meaning": "excite",
+        "mp3": "946"
+    },
+    {
+        "id": 748,
+        "tamil": "இயற்கை",
+        "roman": "iyaṟghai",
+        "meaning": "natural",
+        "mp3": "947"
+    },
+    {
+        "id": 749,
+        "tamil": "பார்வை",
+        "roman": "bhārvai",
+        "meaning": "view",
+        "mp3": "948"
+    },
+    {
+        "id": 750,
+        "tamil": "உணர்வு",
+        "roman": "uṇarvu",
+        "meaning": "sense",
+        "mp3": "949"
+    },
+    {
+        "id": 751,
+        "tamil": "தலைநகர்",
+        "roman": "dhalainaghar",
+        "meaning": "capital",
+        "mp3": "950"
+    },
+    {
+        "id": 752,
+        "tamil": "இல்லை",
+        "roman": "illai",
+        "meaning": "won’t",
+        "mp3": "951"
+    },
+    {
+        "id": 753,
+        "tamil": "நாற்காலியில்",
+        "roman": "nāṟghāliyil",
+        "meaning": "chair",
+        "mp3": "952"
+    },
+    {
+        "id": 754,
+        "tamil": "ஆபத்து",
+        "roman": "ābhadhdhu",
+        "meaning": "danger",
+        "mp3": "953"
+    },
+    {
+        "id": 755,
+        "tamil": "பழம்",
+        "roman": "bhal̤aṃ",
+        "meaning": "fruit",
+        "mp3": "954"
+    },
+    {
+        "id": 756,
+        "tamil": "பணக்கார",
+        "roman": "bhaṇaghghāra",
+        "meaning": "rich",
+        "mp3": "955"
+    },
+    {
+        "id": 757,
+        "tamil": "தடித்த",
+        "roman": "dhaḍhidhdha",
+        "meaning": "thick",
+        "mp3": "956"
+    },
+    {
+        "id": 758,
+        "tamil": "சிப்பாய்",
+        "roman": "jhibhbhāy",
+        "meaning": "soldier",
+        "mp3": "957"
+    },
+    {
+        "id": 759,
+        "tamil": "செயல்முறை",
+        "roman": "jhèyalmuṟai",
+        "meaning": "process",
+        "mp3": "958"
+    },
+    {
+        "id": 760,
+        "tamil": "செயல்பட",
+        "roman": "jhèyalbhaḍha",
+        "meaning": "operate",
+        "mp3": "959"
+    },
+    {
+        "id": 761,
+        "tamil": "நடைமுறையில்",
+        "roman": "naḍhaimuṟaiyil",
+        "meaning": "practice",
+        "mp3": "960"
+    },
+    {
+        "id": 762,
+        "tamil": "தனி",
+        "roman": "dhaṉi",
+        "meaning": "separate",
+        "mp3": "961"
+    },
+    {
+        "id": 763,
+        "tamil": "கடினமான",
+        "roman": "ghaḍhiṉamāṉa",
+        "meaning": "difficult",
+        "mp3": "962"
+    },
+    {
+        "id": 764,
+        "tamil": "மருத்துவர்",
+        "roman": "marudhdhuvar",
+        "meaning": "doctor",
+        "mp3": "963"
+    },
+    {
+        "id": 765,
+        "tamil": "தயவு செய்து",
+        "roman": "dhayavu jhèydhu",
+        "meaning": "please",
+        "mp3": "964"
+    },
+    {
+        "id": 766,
+        "tamil": "காப்பாற்று",
+        "roman": "ghābhbhāṟṟu",
+        "meaning": "protect",
+        "mp3": "965"
+    },
+    {
+        "id": 767,
+        "tamil": "நண்பகல்",
+        "roman": "naṇbhaghal",
+        "meaning": "noon",
+        "mp3": "966"
+    },
+    {
+        "id": 768,
+        "tamil": "பயிர்",
+        "roman": "bhayir",
+        "meaning": "crop",
+        "mp3": "967"
+    },
+    {
+        "id": 769,
+        "tamil": "நவீன",
+        "roman": "navīṉa",
+        "meaning": "modern",
+        "mp3": "968"
+    },
+    {
+        "id": 770,
+        "tamil": "உறுப்பு",
+        "roman": "uṟubhbhu",
+        "meaning": "element",
+        "mp3": "969"
+    },
+    {
+        "id": 771,
+        "tamil": "வெற்றி",
+        "roman": "vèṟṟi",
+        "meaning": "hit",
+        "mp3": "970"
+    },
+    {
+        "id": 772,
+        "tamil": "மாணவர்",
+        "roman": "māṇavar",
+        "meaning": "student",
+        "mp3": "971"
+    },
+    {
+        "id": 773,
+        "tamil": "மூலையில்",
+        "roman": "mūlaiyil",
+        "meaning": "corner",
+        "mp3": "972"
+    },
+    {
+        "id": 774,
+        "tamil": "கட்சி",
+        "roman": "ghaḍhjhi",
+        "meaning": "party",
+        "mp3": "973"
+    },
+    {
+        "id": 775,
+        "tamil": "வழங்கல்",
+        "roman": "val̤aṅghal",
+        "meaning": "supply",
+        "mp3": "974"
+    },
+    {
+        "id": 776,
+        "tamil": "அதன்",
+        "roman": "adhaṉ",
+        "meaning": "whose",
+        "mp3": "975"
+    },
+    {
+        "id": 777,
+        "tamil": "கண்டறிவது",
+        "roman": "ghaṇḍhaṟivadhu",
+        "meaning": "locate",
+        "mp3": "976"
+    },
+    {
+        "id": 778,
+        "tamil": "மோதிரத்தை",
+        "roman": "modhiradhdhai",
+        "meaning": "ring",
+        "mp3": "977"
+    },
+    {
+        "id": 779,
+        "tamil": "பாத்திரம்",
+        "roman": "bhādhdhiraṃ",
+        "meaning": "character",
+        "mp3": "978"
+    },
+    {
+        "id": 780,
+        "tamil": "பூச்சி",
+        "roman": "bhūjhjhi",
+        "meaning": "insect",
+        "mp3": "979"
+    },
+    {
+        "id": 781,
+        "tamil": "பிடித்து",
+        "roman": "bhiḍhidhdhu",
+        "meaning": "caught",
+        "mp3": "980"
+    },
+    {
+        "id": 782,
+        "tamil": "காலம்",
+        "roman": "ghālaṃ",
+        "meaning": "period",
+        "mp3": "981"
+    },
+    {
+        "id": 783,
+        "tamil": "குறிக்கிறது",
+        "roman": "ghuṟighghiṟadhu",
+        "meaning": "indicate",
+        "mp3": "982"
+    },
+    {
+        "id": 784,
+        "tamil": "ரேடியோ",
+        "roman": "reḍhiyo",
+        "meaning": "radio",
+        "mp3": "983"
+    },
+    {
+        "id": 785,
+        "tamil": "பேசினார்",
+        "roman": "bhejhiṉār",
+        "meaning": "spoke",
+        "mp3": "984"
+    },
+    {
+        "id": 786,
+        "tamil": "அணுவின்",
+        "roman": "aṇuviṉ",
+        "meaning": "atom",
+        "mp3": "985"
+    },
+    {
+        "id": 787,
+        "tamil": "மனித",
+        "roman": "maṉidha",
+        "meaning": "human",
+        "mp3": "986"
+    },
+    {
+        "id": 788,
+        "tamil": "வரலாற்றில்",
+        "roman": "varalāṟṟil",
+        "meaning": "history",
+        "mp3": "987"
+    },
+    {
+        "id": 789,
+        "tamil": "விளைவு",
+        "roman": "viḻaivu",
+        "meaning": "effect",
+        "mp3": "988"
+    },
+    {
+        "id": 790,
+        "tamil": "மின்சார",
+        "roman": "miṉjhāra",
+        "meaning": "electric",
+        "mp3": "989"
+    },
+    {
+        "id": 791,
+        "tamil": "எதிர்பார்க்க",
+        "roman": "èdhirbhārghgha",
+        "meaning": "expect",
+        "mp3": "990"
+    },
+    {
+        "id": 792,
+        "tamil": "எலும்பு",
+        "roman": "èluṃbhu",
+        "meaning": "bone",
+        "mp3": "991"
+    },
+    {
+        "id": 793,
+        "tamil": "ரயில்",
+        "roman": "rayil",
+        "meaning": "rail",
+        "mp3": "992"
+    },
+    {
+        "id": 794,
+        "tamil": "கற்பனை",
+        "roman": "ghaṟbhaṉai",
+        "meaning": "imagine",
+        "mp3": "993"
+    },
+    {
+        "id": 795,
+        "tamil": "எப்படி",
+        "roman": "èbhbhaḍhi",
+        "meaning": "provide",
+        "mp3": "994"
+    },
+    {
+        "id": 796,
+        "tamil": "ஒப்புக்கொள்கிறேன்",
+        "roman": "òbhbhughghòḻghiṟeṉ",
+        "meaning": "agree",
+        "mp3": "995"
+    },
+    {
+        "id": 797,
+        "tamil": "இவ்வாறு",
+        "roman": "ivvāṟu",
+        "meaning": "thus",
+        "mp3": "996"
+    },
+    {
+        "id": 798,
+        "tamil": "மென்மையான",
+        "roman": "mèṉmaiyāṉa",
+        "meaning": "gentle",
+        "mp3": "997"
+    },
+    {
+        "id": 799,
+        "tamil": "பெண்",
+        "roman": "bhèṇ",
+        "meaning": "woman",
+        "mp3": "998"
+    },
+    {
+        "id": 800,
+        "tamil": "கேப்டன்",
+        "roman": "ghebhḍhaṉ",
+        "meaning": "captain",
+        "mp3": "999"
+    },
+    {
+        "id": 801,
+        "tamil": "யூகிக்க",
+        "roman": "yūghighgha",
+        "meaning": "guess",
+        "mp3": "1000"
+    },
+    {
+        "id": 802,
+        "tamil": "தேவையான",
+        "roman": "dhevaiyāṉa",
+        "meaning": "necessary",
+        "mp3": "1001"
+    },
+    {
+        "id": 803,
+        "tamil": "கூர்மையான",
+        "roman": "ghūrmaiyāṉa",
+        "meaning": "sharp",
+        "mp3": "1002"
+    },
+    {
+        "id": 804,
+        "tamil": "வலதுசாரி",
+        "roman": "valadhujhāri",
+        "meaning": "wing",
+        "mp3": "1003"
+    },
+    {
+        "id": 805,
+        "tamil": "உருவாக்க",
+        "roman": "uruvāghgha",
+        "meaning": "create",
+        "mp3": "1004"
+    },
+    {
+        "id": 806,
+        "tamil": "அண்டை",
+        "roman": "aṇḍhai",
+        "meaning": "neighbor",
+        "mp3": "1005"
+    },
+    {
+        "id": 807,
+        "tamil": "கழுவும்",
+        "roman": "ghal̤uvuṃ",
+        "meaning": "wash",
+        "mp3": "1006"
+    },
+    {
+        "id": 808,
+        "tamil": "பேட்டிங்",
+        "roman": "bheḍhḍhiṅ",
+        "meaning": "bat",
+        "mp3": "1007"
+    },
+    {
+        "id": 809,
+        "tamil": "மாறாக",
+        "roman": "māṟāgha",
+        "meaning": "rather",
+        "mp3": "1008"
+    },
+    {
+        "id": 810,
+        "tamil": "கூட்டத்தில்",
+        "roman": "ghūḍhḍhadhdhil",
+        "meaning": "crowd",
+        "mp3": "1009"
+    },
+    {
+        "id": 811,
+        "tamil": "சோளம்",
+        "roman": "jhoḻaṃ",
+        "meaning": "corn",
+        "mp3": "1010"
+    },
+    {
+        "id": 812,
+        "tamil": "ஒப்பிட்டு",
+        "roman": "òbhbhiḍhḍhu",
+        "meaning": "compare",
+        "mp3": "1011"
+    },
+    {
+        "id": 813,
+        "tamil": "கவிதையை",
+        "roman": "ghavidhaiyai",
+        "meaning": "poem",
+        "mp3": "1012"
+    },
+    {
+        "id": 814,
+        "tamil": "சரம்",
+        "roman": "jharaṃ",
+        "meaning": "string",
+        "mp3": "1013"
+    },
+    {
+        "id": 815,
+        "tamil": "மணி",
+        "roman": "maṇi",
+        "meaning": "bell",
+        "mp3": "1014"
+    },
+    {
+        "id": 816,
+        "tamil": "சார்ந்திருக்கிறது",
+        "roman": "jhārndhirughghiṟadhu",
+        "meaning": "depend",
+        "mp3": "1015"
+    },
+    {
+        "id": 817,
+        "tamil": "இறைச்சி",
+        "roman": "iṟaijhjhi",
+        "meaning": "meat",
+        "mp3": "1016"
+    },
+    {
+        "id": 818,
+        "tamil": "துடைப்பான்",
+        "roman": "dhuḍhaibhbhāṉ",
+        "meaning": "rub",
+        "mp3": "1017"
+    },
+    {
+        "id": 819,
+        "tamil": "குழாய்",
+        "roman": "ghul̤āy",
+        "meaning": "tube",
+        "mp3": "1018"
+    },
+    {
+        "id": 820,
+        "tamil": "பிரபலமான",
+        "roman": "bhirabhalamāṉa",
+        "meaning": "famous",
+        "mp3": "1019"
+    },
+    {
+        "id": 821,
+        "tamil": "டாலர்",
+        "roman": "ḍhālar",
+        "meaning": "dollar",
+        "mp3": "1020"
+    },
+    {
+        "id": 822,
+        "tamil": "ஸ்ட்ரீம்",
+        "roman": "sḍhrīṃ",
+        "meaning": "stream",
+        "mp3": "1021"
+    },
+    {
+        "id": 823,
+        "tamil": "பயம்",
+        "roman": "bhayaṃ",
+        "meaning": "fear",
+        "mp3": "1022"
+    },
+    {
+        "id": 824,
+        "tamil": "பார்வை",
+        "roman": "bhārvai",
+        "meaning": "sight",
+        "mp3": "1023"
+    },
+    {
+        "id": 825,
+        "tamil": "மெல்லிய",
+        "roman": "mèlliya",
+        "meaning": "thin",
+        "mp3": "1024"
+    },
+    {
+        "id": 826,
+        "tamil": "முக்கோண",
+        "roman": "mughghoṇa",
+        "meaning": "triangle",
+        "mp3": "1025"
+    },
+    {
+        "id": 827,
+        "tamil": "கிரகத்தின்",
+        "roman": "ghiraghadhdhiṉ",
+        "meaning": "planet",
+        "mp3": "1026"
+    },
+    {
+        "id": 828,
+        "tamil": "அவசரம்",
+        "roman": "avajharaṃ",
+        "meaning": "hurry",
+        "mp3": "1027"
+    },
+    {
+        "id": 829,
+        "tamil": "தலைமை",
+        "roman": "dhalaimai",
+        "meaning": "chief",
+        "mp3": "1028"
+    },
+    {
+        "id": 830,
+        "tamil": "காலனி",
+        "roman": "ghālaṉi",
+        "meaning": "colony",
+        "mp3": "1029"
+    },
+    {
+        "id": 831,
+        "tamil": "கடிகார",
+        "roman": "ghaḍhighāra",
+        "meaning": "clock",
+        "mp3": "1030"
+    },
+    {
+        "id": 832,
+        "tamil": "என்னுடைய",
+        "roman": "èṉṉuḍhaiya",
+        "meaning": "mine",
+        "mp3": "1031"
+    },
+    {
+        "id": 833,
+        "tamil": "டை",
+        "roman": "ḍhai",
+        "meaning": "tie",
+        "mp3": "1032"
+    },
+    {
+        "id": 834,
+        "tamil": "நுழைய",
+        "roman": "nul̤aiya",
+        "meaning": "enter",
+        "mp3": "1033"
+    },
+    {
+        "id": 835,
+        "tamil": "முக்கிய",
+        "roman": "mughghiya",
+        "meaning": "major",
+        "mp3": "1034"
+    },
+    {
+        "id": 836,
+        "tamil": "புதிய",
+        "roman": "bhudhiya",
+        "meaning": "fresh",
+        "mp3": "1035"
+    },
+    {
+        "id": 837,
+        "tamil": "தேடல்",
+        "roman": "dheḍhal",
+        "meaning": "search",
+        "mp3": "1036"
+    },
+    {
+        "id": 838,
+        "tamil": "அனுப்பு",
+        "roman": "aṉubhbhu",
+        "meaning": "send",
+        "mp3": "1037"
+    },
+    {
+        "id": 839,
+        "tamil": "மஞ்சள்",
+        "roman": "mañjhaḻ",
+        "meaning": "yellow",
+        "mp3": "1038"
+    },
+    {
+        "id": 840,
+        "tamil": "துப்பாக்கி",
+        "roman": "dhubhbhāghghi",
+        "meaning": "gun",
+        "mp3": "1039"
+    },
+    {
+        "id": 841,
+        "tamil": "அனுமதிக்க",
+        "roman": "aṉumadhighgha",
+        "meaning": "allow",
+        "mp3": "1040"
+    },
+    {
+        "id": 842,
+        "tamil": "அச்சு",
+        "roman": "ajhjhu",
+        "meaning": "print",
+        "mp3": "1041"
+    },
+    {
+        "id": 843,
+        "tamil": "இறந்த",
+        "roman": "iṟandha",
+        "meaning": "dead",
+        "mp3": "1042"
+    },
+    {
+        "id": 844,
+        "tamil": "ஸ்பாட்",
+        "roman": "sbhāḍh",
+        "meaning": "spot",
+        "mp3": "1043"
+    },
+    {
+        "id": 845,
+        "tamil": "பாலைவன",
+        "roman": "bhālaivaṉa",
+        "meaning": "desert",
+        "mp3": "1044"
+    },
+    {
+        "id": 846,
+        "tamil": "வழக்கு",
+        "roman": "val̤aghghu",
+        "meaning": "suit",
+        "mp3": "1045"
+    },
+    {
+        "id": 847,
+        "tamil": "நடப்பு",
+        "roman": "naḍhabhbhu",
+        "meaning": "current",
+        "mp3": "1046"
+    },
+    {
+        "id": 848,
+        "tamil": "லிப்ட்",
+        "roman": "libhḍh",
+        "meaning": "lift",
+        "mp3": "1047"
+    },
+    {
+        "id": 849,
+        "tamil": "உயர்ந்தது",
+        "roman": "uyarndhadhu",
+        "meaning": "rose",
+        "mp3": "1048"
+    },
+    {
+        "id": 850,
+        "tamil": "வரும்",
+        "roman": "varuṃ",
+        "meaning": "arrive",
+        "mp3": "1049"
+    },
+    {
+        "id": 851,
+        "tamil": "மாஸ்டர்",
+        "roman": "māsḍhar",
+        "meaning": "master",
+        "mp3": "1050"
+    },
+    {
+        "id": 852,
+        "tamil": "பாடல்",
+        "roman": "bhāḍhal",
+        "meaning": "track",
+        "mp3": "1051"
+    },
+    {
+        "id": 853,
+        "tamil": "பெற்றோர்",
+        "roman": "bhèṟṟor",
+        "meaning": "parent",
+        "mp3": "1052"
+    },
+    {
+        "id": 854,
+        "tamil": "கரையில்",
+        "roman": "gharaiyil",
+        "meaning": "shore",
+        "mp3": "1053"
+    },
+    {
+        "id": 855,
+        "tamil": "பிரிவு",
+        "roman": "bhirivu",
+        "meaning": "division",
+        "mp3": "1054"
+    },
+    {
+        "id": 856,
+        "tamil": "தாள்",
+        "roman": "dhāḻ",
+        "meaning": "sheet",
+        "mp3": "1055"
+    },
+    {
+        "id": 857,
+        "tamil": "பொருள்",
+        "roman": "bhòruḻ",
+        "meaning": "substance",
+        "mp3": "1056"
+    },
+    {
+        "id": 858,
+        "tamil": "சாதகமாக",
+        "roman": "jhādhaghamāgha",
+        "meaning": "favor",
+        "mp3": "1057"
+    },
+    {
+        "id": 859,
+        "tamil": "இணைக்க",
+        "roman": "iṇaighgha",
+        "meaning": "connect",
+        "mp3": "1058"
+    },
+    {
+        "id": 860,
+        "tamil": "பின்",
+        "roman": "bhiṉ",
+        "meaning": "post",
+        "mp3": "1059"
+    },
+    {
+        "id": 861,
+        "tamil": "செலவு",
+        "roman": "jhèlavu",
+        "meaning": "spend",
+        "mp3": "1060"
+    },
+    {
+        "id": 862,
+        "tamil": "நாண்",
+        "roman": "nāṇ",
+        "meaning": "chord",
+        "mp3": "1061"
+    },
+    {
+        "id": 863,
+        "tamil": "கொழுப்பு",
+        "roman": "ghòl̤ubhbhu",
+        "meaning": "fat",
+        "mp3": "1062"
+    },
+    {
+        "id": 864,
+        "tamil": "மகிழ்ச்சி",
+        "roman": "maghil̤jhjhi",
+        "meaning": "glad",
+        "mp3": "1063"
+    },
+    {
+        "id": 865,
+        "tamil": "அசல்",
+        "roman": "ajhal",
+        "meaning": "original",
+        "mp3": "1064"
+    },
+    {
+        "id": 866,
+        "tamil": "பங்கு",
+        "roman": "bhaṅghu",
+        "meaning": "share",
+        "mp3": "1065"
+    },
+    {
+        "id": 867,
+        "tamil": "நிலையம்",
+        "roman": "nilaiyaṃ",
+        "meaning": "station",
+        "mp3": "1066"
+    },
+    {
+        "id": 868,
+        "tamil": "தந்தை",
+        "roman": "dhandhai",
+        "meaning": "dad",
+        "mp3": "1067"
+    },
+    {
+        "id": 869,
+        "tamil": "ரொட்டி",
+        "roman": "ròḍhḍhi",
+        "meaning": "bread",
+        "mp3": "1068"
+    },
+    {
+        "id": 870,
+        "tamil": "வசூலிக்க",
+        "roman": "vajhūlighgha",
+        "meaning": "charge",
+        "mp3": "1069"
+    },
+    {
+        "id": 871,
+        "tamil": "முறையான",
+        "roman": "muṟaiyāṉa",
+        "meaning": "proper",
+        "mp3": "1070"
+    },
+    {
+        "id": 872,
+        "tamil": "பட்டியில்",
+        "roman": "bhaḍhḍhiyil",
+        "meaning": "bar",
+        "mp3": "1071"
+    },
+    {
+        "id": 873,
+        "tamil": "வாய்ப்பை",
+        "roman": "vāybhbhai",
+        "meaning": "offer",
+        "mp3": "1072"
+    },
+    {
+        "id": 874,
+        "tamil": "பிரிவு",
+        "roman": "bhirivu",
+        "meaning": "segment",
+        "mp3": "1073"
+    },
+    {
+        "id": 875,
+        "tamil": "அடிமை",
+        "roman": "aḍhimai",
+        "meaning": "slave",
+        "mp3": "1074"
+    },
+    {
+        "id": 876,
+        "tamil": "மூழ்கு",
+        "roman": "mūl̤ghu",
+        "meaning": "duck",
+        "mp3": "1075"
+    },
+    {
+        "id": 877,
+        "tamil": "உடனடி",
+        "roman": "uḍhaṉaḍhi",
+        "meaning": "instant",
+        "mp3": "1076"
+    },
+    {
+        "id": 878,
+        "tamil": "சந்தை",
+        "roman": "jhandhai",
+        "meaning": "market",
+        "mp3": "1077"
+    },
+    {
+        "id": 879,
+        "tamil": "பட்டம்",
+        "roman": "bhaḍhḍhaṃ",
+        "meaning": "degree",
+        "mp3": "1078"
+    },
+    {
+        "id": 880,
+        "tamil": "விரிவுப்படுத்த",
+        "roman": "virivubhbhaḍhudhdha",
+        "meaning": "populate",
+        "mp3": "1079"
+    },
+    {
+        "id": 881,
+        "tamil": "குஞ்சு",
+        "roman": "ghuñjhu",
+        "meaning": "chick",
+        "mp3": "1080"
+    },
+    {
+        "id": 882,
+        "tamil": "அன்பே",
+        "roman": "aṉbhe",
+        "meaning": "dear",
+        "mp3": "1081"
+    },
+    {
+        "id": 883,
+        "tamil": "பகைவன்",
+        "roman": "bhaghaivaṉ",
+        "meaning": "enemy",
+        "mp3": "1082"
+    },
+    {
+        "id": 884,
+        "tamil": "பதில்",
+        "roman": "bhadhil",
+        "meaning": "reply",
+        "mp3": "1083"
+    },
+    {
+        "id": 885,
+        "tamil": "பானம்",
+        "roman": "bhāṉaṃ",
+        "meaning": "drink",
+        "mp3": "1084"
+    },
+    {
+        "id": 886,
+        "tamil": "ஏற்படும்",
+        "roman": "eṟbhaḍhuṃ",
+        "meaning": "occur",
+        "mp3": "1085"
+    },
+    {
+        "id": 887,
+        "tamil": "ஆதரவு",
+        "roman": "ādharavu",
+        "meaning": "support",
+        "mp3": "1086"
+    },
+    {
+        "id": 888,
+        "tamil": "பேச்சு",
+        "roman": "bhejhjhu",
+        "meaning": "speech",
+        "mp3": "1087"
+    },
+    {
+        "id": 889,
+        "tamil": "இயற்கையின்",
+        "roman": "iyaṟghaiyiṉ",
+        "meaning": "nature",
+        "mp3": "1088"
+    },
+    {
+        "id": 890,
+        "tamil": "எல்லை",
+        "roman": "èllai",
+        "meaning": "range",
+        "mp3": "1089"
+    },
+    {
+        "id": 891,
+        "tamil": "நீராவி",
+        "roman": "nīrāvi",
+        "meaning": "steam",
+        "mp3": "1090"
+    },
+    {
+        "id": 892,
+        "tamil": "இயக்கம்",
+        "roman": "iyaghghaṃ",
+        "meaning": "motion",
+        "mp3": "1091"
+    },
+    {
+        "id": 893,
+        "tamil": "பாதை",
+        "roman": "bhādhai",
+        "meaning": "path",
+        "mp3": "1092"
+    },
+    {
+        "id": 894,
+        "tamil": "திரவ",
+        "roman": "dhirava",
+        "meaning": "liquid",
+        "mp3": "1093"
+    },
+    {
+        "id": 895,
+        "tamil": "புகுபதிகை",
+        "roman": "bhughubhadhighai",
+        "meaning": "log",
+        "mp3": "1094"
+    },
+    {
+        "id": 896,
+        "tamil": "பொருள்",
+        "roman": "bhòruḻ",
+        "meaning": "meant",
+        "mp3": "1095"
+    },
+    {
+        "id": 897,
+        "tamil": "ஈவு",
+        "roman": "īvu",
+        "meaning": "quotient",
+        "mp3": "1096"
+    },
+    {
+        "id": 898,
+        "tamil": "பற்கள்",
+        "roman": "bhaṟghaḻ",
+        "meaning": "teeth",
+        "mp3": "1097"
+    },
+    {
+        "id": 899,
+        "tamil": "ஷெல்",
+        "roman": "ṣèl",
+        "meaning": "shell",
+        "mp3": "1098"
+    },
+    {
+        "id": 900,
+        "tamil": "கழுத்தில்",
+        "roman": "ghal̤udhdhil",
+        "meaning": "neck",
+        "mp3": "1099"
+    },
+    {
+        "id": 901,
+        "tamil": "ஆக்சிஜன்",
+        "roman": "āghjhijaṉ",
+        "meaning": "oxygen",
+        "mp3": "1100"
+    },
+    {
+        "id": 902,
+        "tamil": "சர்க்கரை",
+        "roman": "jharghgharai",
+        "meaning": "sugar",
+        "mp3": "1101"
+    },
+    {
+        "id": 903,
+        "tamil": "மரணம்",
+        "roman": "maraṇaṃ",
+        "meaning": "death",
+        "mp3": "1102"
+    },
+    {
+        "id": 904,
+        "tamil": "அழகான",
+        "roman": "al̤aghāṉa",
+        "meaning": "pretty",
+        "mp3": "1103"
+    },
+    {
+        "id": 905,
+        "tamil": "திறன்",
+        "roman": "dhiṟaṉ",
+        "meaning": "skill",
+        "mp3": "1104"
+    },
+    {
+        "id": 906,
+        "tamil": "பெண்கள்",
+        "roman": "bhèṇghaḻ",
+        "meaning": "women",
+        "mp3": "1105"
+    },
+    {
+        "id": 907,
+        "tamil": "சீசன்",
+        "roman": "jhījhaṉ",
+        "meaning": "season",
+        "mp3": "1106"
+    },
+    {
+        "id": 908,
+        "tamil": "தீர்வு",
+        "roman": "dhīrvu",
+        "meaning": "solution",
+        "mp3": "1107"
+    },
+    {
+        "id": 909,
+        "tamil": "கிரேடு",
+        "roman": "ghireḍhu",
+        "meaning": "magnet",
+        "mp3": "1108"
+    },
+    {
+        "id": 910,
+        "tamil": "வெள்ளி",
+        "roman": "vèḻḻi",
+        "meaning": "silver",
+        "mp3": "1109"
+    },
+    {
+        "id": 911,
+        "tamil": "நன்றி",
+        "roman": "naṉṟi",
+        "meaning": "thank",
+        "mp3": "1110"
+    },
+    {
+        "id": 912,
+        "tamil": "கிளை",
+        "roman": "ghiḻai",
+        "meaning": "branch",
+        "mp3": "1111"
+    },
+    {
+        "id": 913,
+        "tamil": "போட்டியில்",
+        "roman": "bhoḍhḍhiyil",
+        "meaning": "match",
+        "mp3": "1112"
+    },
+    {
+        "id": 914,
+        "tamil": "மை",
+        "roman": "mai",
+        "meaning": "suffix",
+        "mp3": "1113"
+    },
+    {
+        "id": 915,
+        "tamil": "குறிப்பாக",
+        "roman": "ghuṟibhbhāgha",
+        "meaning": "especially",
+        "mp3": "1114"
+    },
+    {
+        "id": 916,
+        "tamil": "அத்தி",
+        "roman": "adhdhi",
+        "meaning": "fig",
+        "mp3": "1115"
+    },
+    {
+        "id": 917,
+        "tamil": "பயம்",
+        "roman": "bhayaṃ",
+        "meaning": "afraid",
+        "mp3": "1116"
+    },
+    {
+        "id": 918,
+        "tamil": "பிரம்மாண்டமான",
+        "roman": "bhiraṃmāṇḍhamāṉa",
+        "meaning": "huge",
+        "mp3": "1117"
+    },
+    {
+        "id": 919,
+        "tamil": "அக்கா",
+        "roman": "aghghā",
+        "meaning": "sister",
+        "mp3": "1118"
+    },
+    {
+        "id": 920,
+        "tamil": "உருக்கு",
+        "roman": "urughghu",
+        "meaning": "steel",
+        "mp3": "1119"
+    },
+    {
+        "id": 921,
+        "tamil": "விவாதிக்க",
+        "roman": "vivādhighgha",
+        "meaning": "discuss",
+        "mp3": "1120"
+    },
+    {
+        "id": 922,
+        "tamil": "முன்னோக்கி",
+        "roman": "muṉṉoghghi",
+        "meaning": "forward",
+        "mp3": "1121"
+    },
+    {
+        "id": 923,
+        "tamil": "இதே",
+        "roman": "idhe",
+        "meaning": "similar",
+        "mp3": "1122"
+    },
+    {
+        "id": 924,
+        "tamil": "வழிகாட்ட",
+        "roman": "val̤ighāḍhḍha",
+        "meaning": "guide",
+        "mp3": "1123"
+    },
+    {
+        "id": 925,
+        "tamil": "அனுபவம்",
+        "roman": "aṉubhavaṃ",
+        "meaning": "experience",
+        "mp3": "1124"
+    },
+    {
+        "id": 926,
+        "tamil": "மதிப்பெண்",
+        "roman": "madhibhbhèṇ",
+        "meaning": "score",
+        "mp3": "1125"
+    },
+    {
+        "id": 927,
+        "tamil": "ஆப்பிள்",
+        "roman": "ābhbhiḻ",
+        "meaning": "apple",
+        "mp3": "1126"
+    },
+    {
+        "id": 928,
+        "tamil": "வாங்கி",
+        "roman": "vāṅghi",
+        "meaning": "bought",
+        "mp3": "1127"
+    },
+    {
+        "id": 929,
+        "tamil": "தலைமையிலான",
+        "roman": "dhalaimaiyilāṉa",
+        "meaning": "led",
+        "mp3": "1128"
+    },
+    {
+        "id": 930,
+        "tamil": "சுருதி",
+        "roman": "jhurudhi",
+        "meaning": "pitch",
+        "mp3": "1129"
+    },
+    {
+        "id": 931,
+        "tamil": "கோட்",
+        "roman": "ghoḍh",
+        "meaning": "coat",
+        "mp3": "1130"
+    },
+    {
+        "id": 932,
+        "tamil": "வெகுஜன",
+        "roman": "vèghujaṉa",
+        "meaning": "mass",
+        "mp3": "1131"
+    },
+    {
+        "id": 933,
+        "tamil": "கார்டு",
+        "roman": "ghārḍhu",
+        "meaning": "card",
+        "mp3": "1132"
+    },
+    {
+        "id": 934,
+        "tamil": "இசைக்குழு",
+        "roman": "ijhaighghul̤u",
+        "meaning": "band",
+        "mp3": "1133"
+    },
+    {
+        "id": 935,
+        "tamil": "கயிற்றில்",
+        "roman": "ghayiṟṟil",
+        "meaning": "rope",
+        "mp3": "1134"
+    },
+    {
+        "id": 936,
+        "tamil": "சீட்டு",
+        "roman": "jhīḍhḍhu",
+        "meaning": "slip",
+        "mp3": "1135"
+    },
+    {
+        "id": 937,
+        "tamil": "வெற்றி",
+        "roman": "vèṟṟi",
+        "meaning": "win",
+        "mp3": "1136"
+    },
+    {
+        "id": 938,
+        "tamil": "கனவு",
+        "roman": "ghaṉavu",
+        "meaning": "dream",
+        "mp3": "1137"
+    },
+    {
+        "id": 939,
+        "tamil": "மாலை",
+        "roman": "mālai",
+        "meaning": "evening",
+        "mp3": "1138"
+    },
+    {
+        "id": 940,
+        "tamil": "நிலை",
+        "roman": "nilai",
+        "meaning": "condition",
+        "mp3": "1139"
+    },
+    {
+        "id": 941,
+        "tamil": "ஜூன்",
+        "roman": "jūṉ",
+        "meaning": "feed",
+        "mp3": "1140"
+    },
+    {
+        "id": 942,
+        "tamil": "கருவி",
+        "roman": "gharuvi",
+        "meaning": "tool",
+        "mp3": "1141"
+    },
+    {
+        "id": 943,
+        "tamil": "மொத்த",
+        "roman": "mòdhdha",
+        "meaning": "total",
+        "mp3": "1142"
+    },
+    {
+        "id": 944,
+        "tamil": "அடிப்படை",
+        "roman": "aḍhibhbhaḍhai",
+        "meaning": "basic",
+        "mp3": "1143"
+    },
+    {
+        "id": 945,
+        "tamil": "மணம்",
+        "roman": "maṇaṃ",
+        "meaning": "smell",
+        "mp3": "1144"
+    },
+    {
+        "id": 946,
+        "tamil": "பள்ளத்தாக்கில்",
+        "roman": "bhaḻḻadhdhāghghil",
+        "meaning": "valley",
+        "mp3": "1145"
+    },
+    {
+        "id": 947,
+        "tamil": "அல்லது",
+        "roman": "alladhu",
+        "meaning": "nor",
+        "mp3": "1146"
+    },
+    {
+        "id": 948,
+        "tamil": "இரட்டை",
+        "roman": "iraḍhḍhai",
+        "meaning": "double",
+        "mp3": "1147"
+    },
+    {
+        "id": 949,
+        "tamil": "இருக்கை",
+        "roman": "irughghai",
+        "meaning": "seat",
+        "mp3": "1148"
+    },
+    {
+        "id": 950,
+        "tamil": "தொடர்ந்து",
+        "roman": "dhòḍharndhu",
+        "meaning": "continue",
+        "mp3": "1149"
+    },
+    {
+        "id": 951,
+        "tamil": "தொகுதி",
+        "roman": "dhòghudhi",
+        "meaning": "block",
+        "mp3": "1150"
+    },
+    {
+        "id": 952,
+        "tamil": "விளக்கப்படம்",
+        "roman": "viḻaghghabhbhaḍhaṃ",
+        "meaning": "chart",
+        "mp3": "1151"
+    },
+    {
+        "id": 953,
+        "tamil": "தொப்பி",
+        "roman": "dhòbhbhi",
+        "meaning": "hat",
+        "mp3": "1152"
+    },
+    {
+        "id": 954,
+        "tamil": "விற்க",
+        "roman": "viṟgha",
+        "meaning": "sell",
+        "mp3": "1153"
+    },
+    {
+        "id": 955,
+        "tamil": "வெற்றி",
+        "roman": "vèṟṟi",
+        "meaning": "success",
+        "mp3": "1154"
+    },
+    {
+        "id": 956,
+        "tamil": "நிறுவனம்",
+        "roman": "niṟuvaṉaṃ",
+        "meaning": "company",
+        "mp3": "1155"
+    },
+    {
+        "id": 957,
+        "tamil": "கழித்தால்",
+        "roman": "ghal̤idhdhāl",
+        "meaning": "subtract",
+        "mp3": "1156"
+    },
+    {
+        "id": 958,
+        "tamil": "நிகழ்வு",
+        "roman": "nighal̤vu",
+        "meaning": "event",
+        "mp3": "1157"
+    },
+    {
+        "id": 959,
+        "tamil": "குறிப்பாக",
+        "roman": "ghuṟibhbhāgha",
+        "meaning": "particular",
+        "mp3": "1158"
+    },
+    {
+        "id": 960,
+        "tamil": "ஒப்பந்தம்",
+        "roman": "òbhbhandhaṃ",
+        "meaning": "deal",
+        "mp3": "1159"
+    },
+    {
+        "id": 961,
+        "tamil": "து",
+        "roman": "dhu",
+        "meaning": "swim",
+        "mp3": "1160"
+    },
+    {
+        "id": 962,
+        "tamil": "கால",
+        "roman": "ghāla",
+        "meaning": "term",
+        "mp3": "1161"
+    },
+    {
+        "id": 963,
+        "tamil": "எதிர்",
+        "roman": "èdhir",
+        "meaning": "opposite",
+        "mp3": "1162"
+    },
+    {
+        "id": 964,
+        "tamil": "மனைவி",
+        "roman": "maṉaivi",
+        "meaning": "wife",
+        "mp3": "1163"
+    },
+    {
+        "id": 965,
+        "tamil": "காலணி",
+        "roman": "ghālaṇi",
+        "meaning": "shoe",
+        "mp3": "1164"
+    },
+    {
+        "id": 966,
+        "tamil": "தோள்பட்டை",
+        "roman": "dhoḻbhaḍhḍhai",
+        "meaning": "shoulder",
+        "mp3": "1165"
+    },
+    {
+        "id": 967,
+        "tamil": "பரவல்",
+        "roman": "bharaval",
+        "meaning": "spread",
+        "mp3": "1166"
+    },
+    {
+        "id": 968,
+        "tamil": "ஏற்பாடு",
+        "roman": "eṟbhāḍhu",
+        "meaning": "arrange",
+        "mp3": "1167"
+    },
+    {
+        "id": 969,
+        "tamil": "முகாம்",
+        "roman": "mughāṃ",
+        "meaning": "camp",
+        "mp3": "1168"
+    },
+    {
+        "id": 970,
+        "tamil": "கண்டுபிடித்தல்",
+        "roman": "ghaṇḍhubhiḍhidhdhal",
+        "meaning": "invent",
+        "mp3": "1169"
+    },
+    {
+        "id": 971,
+        "tamil": "பருத்தி",
+        "roman": "bharudhdhi",
+        "meaning": "cotton",
+        "mp3": "1170"
+    },
+    {
+        "id": 972,
+        "tamil": "பிறந்த",
+        "roman": "bhiṟandha",
+        "meaning": "born",
+        "mp3": "1171"
+    },
+    {
+        "id": 973,
+        "tamil": "தீர்மானிக்க",
+        "roman": "dhīrmāṉighgha",
+        "meaning": "determine",
+        "mp3": "1172"
+    },
+    {
+        "id": 974,
+        "tamil": "பைண்டு அளவு",
+        "roman": "bhaiṇḍhu aḻavu",
+        "meaning": "quart",
+        "mp3": "1173"
+    },
+    {
+        "id": 975,
+        "tamil": "ஒன்பது",
+        "roman": "òṉbhadhu",
+        "meaning": "nine",
+        "mp3": "1174"
+    },
+    {
+        "id": 976,
+        "tamil": "டிரக்",
+        "roman": "ḍhiragh",
+        "meaning": "truck",
+        "mp3": "1175"
+    },
+    {
+        "id": 977,
+        "tamil": "சத்தம்",
+        "roman": "jhadhdhaṃ",
+        "meaning": "noise",
+        "mp3": "1176"
+    },
+    {
+        "id": 978,
+        "tamil": "நிலை",
+        "roman": "nilai",
+        "meaning": "level",
+        "mp3": "1177"
+    },
+    {
+        "id": 979,
+        "tamil": "வாய்ப்பு",
+        "roman": "vāybhbhu",
+        "meaning": "chance",
+        "mp3": "1178"
+    },
+    {
+        "id": 980,
+        "tamil": "சேகரிக்க",
+        "roman": "jhegharighgha",
+        "meaning": "gather",
+        "mp3": "1179"
+    },
+    {
+        "id": 981,
+        "tamil": "கடையை",
+        "roman": "ghaḍhaiyai",
+        "meaning": "shop",
+        "mp3": "1180"
+    },
+    {
+        "id": 982,
+        "tamil": "நீட்டிக்க",
+        "roman": "nīḍhḍhighgha",
+        "meaning": "stretch",
+        "mp3": "1181"
+    },
+    {
+        "id": 983,
+        "tamil": "தூக்கி",
+        "roman": "dhūghghi",
+        "meaning": "throw",
+        "mp3": "1182"
+    },
+    {
+        "id": 984,
+        "tamil": "பிரகாசி",
+        "roman": "bhiraghājhi",
+        "meaning": "shine",
+        "mp3": "1183"
+    },
+    {
+        "id": 985,
+        "tamil": "சொத்து",
+        "roman": "jhòdhdhu",
+        "meaning": "property",
+        "mp3": "1184"
+    },
+    {
+        "id": 986,
+        "tamil": "பத்தியில்",
+        "roman": "bhadhdhiyil",
+        "meaning": "column",
+        "mp3": "1185"
+    },
+    {
+        "id": 987,
+        "tamil": "மூலக்கூறின்",
+        "roman": "mūlaghghūṟiṉ",
+        "meaning": "molecule",
+        "mp3": "1186"
+    },
+    {
+        "id": 988,
+        "tamil": "தேர்ந்தெடு",
+        "roman": "dherndhèḍhu",
+        "meaning": "select",
+        "mp3": "1187"
+    },
+    {
+        "id": 989,
+        "tamil": "தவறு",
+        "roman": "dhavaṟu",
+        "meaning": "wrong",
+        "mp3": "1188"
+    },
+    {
+        "id": 990,
+        "tamil": "சாம்பல்",
+        "roman": "jhāṃbhal",
+        "meaning": "gray",
+        "mp3": "1189"
+    },
+    {
+        "id": 991,
+        "tamil": "மீண்டும்",
+        "roman": "mīṇḍhuṃ",
+        "meaning": "repeat",
+        "mp3": "1190"
+    },
+    {
+        "id": 992,
+        "tamil": "தேவைப்படுகிறது",
+        "roman": "dhevaibhbhaḍhughiṟadhu",
+        "meaning": "require",
+        "mp3": "1191"
+    },
+    {
+        "id": 993,
+        "tamil": "பரந்த",
+        "roman": "bharandha",
+        "meaning": "broad",
+        "mp3": "1192"
+    },
+    {
+        "id": 994,
+        "tamil": "தயார்",
+        "roman": "dhayār",
+        "meaning": "prepare",
+        "mp3": "1193"
+    },
+    {
+        "id": 995,
+        "tamil": "உப்பு,",
+        "roman": "ubhbhu,",
+        "meaning": "salt",
+        "mp3": "1194"
+    },
+    {
+        "id": 996,
+        "tamil": "மூக்கு",
+        "roman": "mūghghu",
+        "meaning": "nose",
+        "mp3": "1195"
+    },
+    {
+        "id": 997,
+        "tamil": "பன்மை",
+        "roman": "bhaṉmai",
+        "meaning": "plural",
+        "mp3": "1196"
+    },
+    {
+        "id": 998,
+        "tamil": "கோபத்தை",
+        "roman": "ghobhadhdhai",
+        "meaning": "anger",
+        "mp3": "1197"
+    },
+    {
+        "id": 999,
+        "tamil": "கூற்று",
+        "roman": "ghūṟṟu",
+        "meaning": "claim",
+        "mp3": "1198"
+    },
+    {
+        "id": 1000,
+        "tamil": "கண்டத்தின்",
+        "roman": "ghaṇḍhadhdhiṉ",
+        "meaning": "continent",
+        "mp3": "1199"
+    }
+]
