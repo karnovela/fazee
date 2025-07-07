@@ -305,7 +305,7 @@
             "show_first": 1,
             "show_references": 1,
             "show_fazelat": 1,
-            "languages": "ur,en,hi,ps"
+            "languages": "ur,en,hi,ps,roman"
         },
         {
             "table_name": "sajdah",
