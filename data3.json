@@ -33,7 +33,7 @@
             "seq": 98
         },
         {
-            "name": "muzzammil",
+            "name": "muzamil",
             "seq": 22
         }
     ],
@@ -312,11 +312,11 @@
         },
         {
             "id": 7,
-            "verse": "muzzammil",
+            "verse": "muzamil",
             "color": "0",
-            "serial": "8",
+            "serial": "7",
             "title": "",
-            "urdu": "muzzammil",
+            "urdu": "muzamil",
             "arabic": "\u0633\u0648\u0631\u06c1 \u0645\u0632\u0645\u0644"
         }
     ],
@@ -2661,7 +2661,7 @@
             "fazelat": "If there is an issue with this app or if you have any suggestions, please contact me on my WhatsApp number, email, or Telegram.\n+923149907565\nasad.matoon@gmail.com\nt.me/hunturs\n\n\u0905\u0917\u0930 \u0907\u0938 \u0910\u092a \u092e\u0947\u0902 \u0915\u094b\u0908 \u092e\u0938\u0932\u093e \u0939\u0948 \u092f\u093e \u0906\u092a \u0915\u094b\u0908 \u092e\u0936\u0935\u0930\u093e \u0926\u0947\u0928\u093e \u091a\u093e\u0939\u0924\u0947 \u0939\u0948\u0902\u0964 \u0924\u094b \u092e\u0947\u0930\u0947 \u0935\u0949\u091f\u094d\u0938\u090f\u092a \u0928\u0902\u092c\u0930 \u092a\u0930, \u0908\u092e\u0947\u0932 \u092a\u0930 \u092f\u093e \u091f\u0947\u0932\u0940\u0917\u094d\u0930\u093e\u092e \u092a\u0930 \u0938\u0902\u092a\u0930\u094d\u0915 \u0915\u0930\u0947\u0902\u0964\n\n+923149907565\nasad.matoon@gmail.com\nt.me/hunturs"
         }
     ],
-    "muzzammil": [
+    "muzamil": [
         {
             "id": 1,
             "references": "73",
