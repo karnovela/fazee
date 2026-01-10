@@ -132,11 +132,11 @@
         },
         {
             "id": 9,
-            "verse": "yaseen",
+            "verse": "yaseen1",
             "color": "0",
             "serial": "9",
             "title": "morning",
-            "urdu": "yaseen",
+            "urdu": "yaseen1",
             "arabic": "\u0633\u0648\u0631\u06c1 \u06cc\u0670\u0633\u06d7"
         },
         {
@@ -5903,5 +5903,6 @@
             "translation_ur": null,
             "fazelat": null
         }
-    ]
+    ],
+    "yaseen1": []
 }
